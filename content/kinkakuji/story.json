@@ -1,0 +1,187 @@
+{
+  "id": "kinkakuji",
+  "title": "焼けても、また建つ",
+  "place": "金閣寺（鹿苑寺）",
+  "placeShort": "金閣寺",
+  "area": "京都・北山",
+  "region": "kinki",
+  "pref": "京都府",
+  "era": "muromachi",
+  "year": 1397,
+  "yearLabel": "応永四年（1397年）〜昭和三十年（1955年）",
+  "people": [
+    "guide",
+    "yoshimitsu"
+  ],
+  "characters": [
+    {
+      "id": "guide",
+      "name": "しおり",
+      "role": "案内役（架空の人物）",
+      "historical": false
+    },
+    {
+      "id": "yoshimitsu",
+      "name": "足利義満",
+      "role": "室町幕府三代将軍。北山殿を造営",
+      "historical": true,
+      "born": 1358,
+      "died": 1408
+    }
+  ],
+  "mentioned": [
+    "足利義持",
+    "後小松天皇",
+    "夢窓疎石",
+    "日野康子",
+    "鳳林承章",
+    "宇喜多秀家"
+  ],
+  "durationMin": 9,
+  "durationNote": "台本の文字数を1分300字で割った推定。音声を作ったら実測で置き換える",
+  "question": "この金閣は、いまから何年前に建ったものだと思いますか。",
+  "finale": {
+    "speaker": "yoshimitsu",
+    "quote": "急ぐことはない。池に映る方の閣も、よう見てゆけ。",
+    "quoteId": "k091"
+  },
+  "finaleQuestion": "あなたなら、百年先の人のために、何を書き残しておきますか。",
+  "finaleQuestionId": "k092",
+  "disclaimer": [
+    "案内役のしおりは架空の人物です。",
+    "年号・出来事など史実の部分は、寺の公式情報・京都市・文化庁などの資料にもとづき、出典を「しらべた資料」に載せています。",
+    "足利義満の台詞は、史料をもとにした創作です。言い回しや「もし聞いたら」の一言は、本人の言葉ではありません。"
+  ],
+  "basis": "shiryo",
+  "sources": [
+    {
+      "id": "S1",
+      "label": "鹿苑寺（金閣寺）公式「金閣寺について」",
+      "url": "https://www.shokoku-ji.jp/kinkakuji/about/"
+    },
+    {
+      "id": "S2",
+      "label": "鹿苑寺（金閣寺）公式「境内案内」",
+      "url": "https://www.shokoku-ji.jp/kinkakuji/guide/"
+    },
+    {
+      "id": "S4",
+      "label": "相国寺公式「相国寺について」",
+      "url": "https://www.shokoku-ji.jp/about/"
+    },
+    {
+      "id": "S5",
+      "label": "京都市（制作：京都市歴史資料館）©2005 ver.1.01「9 金閣寺（鹿苑寺）」（知る／歩く・見る）",
+      "url": "https://www2.city.kyoto.lg.jp/html/somu/rekishi/fm/nenpyou/pdffile/bunka09.pdf"
+    },
+    {
+      "id": "S6",
+      "label": "京都市「鹿苑寺（金閣寺）周辺エリア（最終更新2023年3月）」",
+      "url": "https://www.city.kyoto.lg.jp/tokei/cmsfiles/contents/0000339/339942/10_kinnkakuzi.pdf"
+    },
+    {
+      "id": "S7",
+      "label": "文化庁 文化遺産オンライン「世界遺産推薦書「古都京都の文化財」b) 内容説明及び目録 M 鹿苑寺」",
+      "url": "https://online.bunka.go.jp/suisensyo/kyoto/MAINTEXT/3b-M-j.html"
+    },
+    {
+      "id": "S9",
+      "label": "コトバンク「鹿苑寺」（日本大百科全書（ニッポニカ）／改訂新版 世界大百科事典／日本歴史地名大系／山川 日本史小辞典／ブリタニカ／精選版 日本国語大辞典）",
+      "url": "https://kotobank.jp/word/%E9%B9%BF%E8%8B%91%E5%AF%BA-152613"
+    },
+    {
+      "id": "S10",
+      "label": "コトバンク「金閣」（旺文社日本史事典 三訂版）",
+      "url": "https://kotobank.jp/word/%E9%87%91%E9%96%A3-58227"
+    },
+    {
+      "id": "S11",
+      "label": "コトバンク「金閣寺」（デジタル大辞泉／精選版 日本国語大辞典／世界大百科事典）",
+      "url": "https://kotobank.jp/word/金閣寺"
+    },
+    {
+      "id": "S12",
+      "label": "コトバンク「足利義満」（ニッポニカ／山川／日本人名大辞典+Plus／世界大百科事典／旺文社）",
+      "url": "https://kotobank.jp/word/%E8%B6%B3%E5%88%A9%E7%BE%A9%E6%BA%80-15524"
+    },
+    {
+      "id": "S13",
+      "label": "コトバンク「西園寺公経」（ニッポニカ／世界大百科事典／ブリタニカ／山川／マイペディア）",
+      "url": "https://kotobank.jp/word/西園寺公経"
+    },
+    {
+      "id": "S15",
+      "label": "コトバンク「夢窓疎石」（各辞典（読み・生没年））",
+      "url": "https://kotobank.jp/word/夢窓疎石"
+    },
+    {
+      "id": "S16",
+      "label": "コトバンク「足利義持」（世界大百科事典／デジタル大辞泉）",
+      "url": "https://kotobank.jp/word/足利義持"
+    },
+    {
+      "id": "S21",
+      "label": "コトバンク「鳳林承章」（日本人名大辞典+Plus）",
+      "url": "https://kotobank.jp/word/鳳林承章"
+    },
+    {
+      "id": "S25",
+      "label": "コトバンク「北山院」（ニッポニカ／世界大百科事典／ブリタニカ／日本人名大辞典+Plus）",
+      "url": "https://kotobank.jp/word/北山院"
+    }
+  ],
+  "factsUsed": [
+    "P02",
+    "P04",
+    "P05",
+    "P06",
+    "P07",
+    "P08",
+    "P09",
+    "P10",
+    "P11",
+    "P13",
+    "P14",
+    "P21",
+    "T01",
+    "T02",
+    "T05",
+    "T06",
+    "T07",
+    "T08",
+    "T09",
+    "T10",
+    "T11",
+    "T12",
+    "T13",
+    "T15",
+    "T16",
+    "T17",
+    "T18",
+    "T21",
+    "T25",
+    "T26",
+    "T27",
+    "T28",
+    "T29",
+    "T30",
+    "T33",
+    "T38",
+    "W04",
+    "W06",
+    "W07",
+    "W08",
+    "W10",
+    "W16",
+    "W17",
+    "W19",
+    "W22",
+    "W23",
+    "W24",
+    "W26",
+    "Z05",
+    "Z06"
+  ],
+  "charCount": 2533,
+  "unitCount": 92
+}

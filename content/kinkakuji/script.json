@@ -1,0 +1,1580 @@
+[
+  {
+    "id": "k001",
+    "scene": 1,
+    "speaker": "guide",
+    "expression": "smile",
+    "text": "こんにちは。わたしは、しおりといいます。",
+    "reading": "こんにちは。わたしは、しおりと いいます。",
+    "direction": "やわらかく。名乗りは軽く、気取らない",
+    "facts": [],
+    "creative": true,
+    "bgId": "bg01",
+    "bg": "いま・朝の鏡湖池越しの金閣（初夏）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k002",
+    "scene": 1,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "各地に残る話を集めて、旅の記録帳に書き留めています。",
+    "reading": "かくちに 残る 話を 集めて、たびの きろくちょうに 書き留めて います。",
+    "direction": "落ち着いて、自己紹介の続きとして",
+    "facts": [],
+    "creative": true,
+    "bgId": "bg01",
+    "bg": "いま・朝の鏡湖池越しの金閣（初夏）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k003",
+    "scene": 1,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "京都の北山。池の向こうに、金色の楼閣が建っています。",
+    "reading": "きょうとの きたやま。いけの むこうに、きんいろの ろうかくが 建って います。",
+    "direction": "景色を指し示すように、ゆっくり",
+    "facts": [
+      "P02",
+      "P04",
+      "P13"
+    ],
+    "creative": false,
+    "bgId": "bg01",
+    "bg": "いま・朝の鏡湖池越しの金閣（初夏）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k004",
+    "scene": 1,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "金閣の名で知られるこのお寺、正式には北山鹿苑寺といいます。",
+    "reading": "きんかくの なで 知られる この おてら、せいしきには ほくざんろくおんじ と いいます。",
+    "direction": "「ほくざんろくおんじ」を一語ずつはっきり",
+    "facts": [
+      "P02"
+    ],
+    "creative": false,
+    "bgId": "bg01",
+    "bg": "いま・朝の鏡湖池越しの金閣（初夏）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k005",
+    "scene": 1,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "舎利殿という建物、つまり金閣が有名なため、金閣寺と呼ばれています。",
+    "reading": "しゃりでん という たてもの、つまり きんかくが 有名な ため、きんかくじ と 呼ばれて います。",
+    "direction": "説明は淡々と",
+    "facts": [
+      "P02"
+    ],
+    "creative": false,
+    "bgId": "bg01",
+    "bg": "いま・朝の鏡湖池越しの金閣（初夏）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k006",
+    "scene": 1,
+    "speaker": "guide",
+    "expression": "think",
+    "text": "歩きながら、ひとつだけ考えてみてください。",
+    "reading": "歩きながら、ひとつだけ 考えて みて ください。",
+    "direction": "問いの前に、少し間をとって",
+    "facts": [],
+    "creative": true,
+    "bgId": "bg01",
+    "bg": "いま・朝の鏡湖池越しの金閣（初夏）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k007",
+    "scene": 1,
+    "speaker": "guide",
+    "expression": "think",
+    "text": "この金閣は、いまから何年前に建ったものだと思いますか。",
+    "reading": "この きんかくは、いまから なんねん まえに 建った ものだと 思いますか。",
+    "direction": "答えを迫らない。語尾を上げすぎず、静かに置く",
+    "facts": [],
+    "creative": true,
+    "bgId": "bg01",
+    "bg": "いま・朝の鏡湖池越しの金閣（初夏）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k008",
+    "scene": 1,
+    "speaker": "guide",
+    "expression": "smile",
+    "text": "答えは、物語の途中で。まずは、六百年あまり前の北山へ。",
+    "reading": "答えは、ものがたりの 途中で。まずは、ろっぴゃくねん あまり まえの きたやまへ。",
+    "direction": "少し楽しげに、場面を送り出す",
+    "facts": [
+      "T02"
+    ],
+    "creative": false,
+    "bgId": "bg01",
+    "bg": "いま・朝の鏡湖池越しの金閣（初夏）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k009",
+    "scene": 2,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "応永四年（1397年）、京都の北山で、大きな山荘の工事が始まりました。",
+    "reading": "おうえいよねん、せんさんびゃくきゅうじゅうななねん、きょうとの きたやまで、大きな さんそうの 工事が 始まりました。",
+    "direction": "年号はゆっくり、はっきり",
+    "facts": [
+      "T02"
+    ],
+    "creative": false,
+    "bgId": "bg02",
+    "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k010",
+    "scene": 2,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "工事を始めたのは、室町幕府の三代将軍、足利義満です。",
+    "reading": "工事を 始めたのは、むろまちばくふの さんだいしょうぐん、あしかがよしみつ です。",
+    "direction": "人物を紹介する間をとる",
+    "facts": [
+      "T02",
+      "W04"
+    ],
+    "creative": false,
+    "bgId": "bg02",
+    "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k011",
+    "scene": 2,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "この土地はもともと、鎌倉時代に西園寺家が営んだ山荘の地でした。",
+    "reading": "この とちは もともと、かまくらじだいに さいおんじけが いとなんだ さんそうの ちでした。",
+    "direction": "淡々と",
+    "facts": [
+      "T01"
+    ],
+    "creative": false,
+    "bgId": "bg02",
+    "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k012",
+    "scene": 2,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "義満はそれを西園寺家から譲り受け、北山殿を造りはじめたのです。",
+    "reading": "よしみつは それを さいおんじけから ゆずりうけ、きたやまどのを 造りはじめたのです。",
+    "direction": "「きたやまどの」をはっきり",
+    "facts": [
+      "T02"
+    ],
+    "creative": false,
+    "bgId": "bg02",
+    "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k013",
+    "scene": 2,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "このとき義満は、数えで四十歳でした。",
+    "reading": "この とき よしみつは、かぞえで よんじゅっさい でした。",
+    "direction": "さらりと",
+    "facts": [
+      "W08"
+    ],
+    "creative": false,
+    "bgId": "bg02",
+    "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k014",
+    "scene": 2,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "九歳の義持に将軍の職を譲ったのは、応永元年（1394年）のこと。",
+    "reading": "きゅうさいの よしもちに しょうぐんの しょくを ゆずったのは、おうえいがんねん、せんさんびゃくきゅうじゅうよねんの こと。",
+    "direction": "年号はゆっくり",
+    "facts": [
+      "W06"
+    ],
+    "creative": false,
+    "bgId": "bg02",
+    "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k015",
+    "scene": 2,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "その翌年には太政大臣も辞めて、三十八歳で出家しています。",
+    "reading": "その よくねんには だいじょうだいじんも やめて、さんじゅうはっさいで しゅっけ して います。",
+    "direction": "淡々と",
+    "facts": [
+      "W06",
+      "W07"
+    ],
+    "creative": false,
+    "bgId": "bg02",
+    "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k016",
+    "scene": 2,
+    "speaker": "yoshimitsu",
+    "expression": "normal",
+    "text": "わしが義満だ。頭は丸めたが、政から退いたわけではないぞ。",
+    "reading": "わしが よしみつだ。あたまは まるめたが、まつりごとから しりぞいた わけでは ないぞ。",
+    "direction": "低く、ゆったり。威張らず、少しだけ格調を",
+    "facts": [
+      "W07",
+      "T05"
+    ],
+    "creative": true,
+    "creativeNote": "言い回しは創作。「政から退いていない」は T05（北山殿が政治・外交の中心）にもとづく",
+    "bgId": "bg02",
+    "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k017",
+    "scene": 2,
+    "speaker": "yoshimitsu",
+    "expression": "normal",
+    "text": "明の国の使いも、この北山殿で迎えたのだ。",
+    "reading": "みんの くにの つかいも、この きたやまどので むかえたのだ。",
+    "direction": "思い出すように、落ち着いて",
+    "facts": [
+      "T05"
+    ],
+    "creative": true,
+    "creativeNote": "言い回しは創作。明の使いを北山殿で迎えたことは T05（公式）",
+    "bgId": "bg02",
+    "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k018",
+    "scene": 2,
+    "speaker": "guide",
+    "expression": "discover",
+    "text": "明の使いが持ってきた文書には、義満を「日本国王」と記していました。",
+    "reading": "みんの つかいが 持ってきた ぶんしょには、よしみつを にほんこくおう と しるして いました。",
+    "direction": "驚きは中身に任せ、声は落ち着いたまま",
+    "facts": [
+      "W10"
+    ],
+    "creative": false,
+    "bgId": "bg02",
+    "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k019",
+    "scene": 2,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "北山殿は、政治と外交の中心になっていきます。",
+    "reading": "きたやまどのは、せいじと がいこうの ちゅうしんに なって いきます。",
+    "direction": "淡々と",
+    "facts": [
+      "T05"
+    ],
+    "creative": false,
+    "bgId": "bg02",
+    "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k020",
+    "scene": 2,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "この時代に花開いた文化は、のちに北山文化と呼ばれました。",
+    "reading": "この じだいに 花開いた ぶんかは、のちに きたやまぶんか と 呼ばれました。",
+    "direction": "淡々と",
+    "facts": [
+      "T05"
+    ],
+    "creative": false,
+    "bgId": "bg02",
+    "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k021",
+    "scene": 2,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "庭の中心には、鏡湖池という大きな池が広がっていました。",
+    "reading": "にわの ちゅうしんには、きょうこち という 大きな いけが 広がって いました。",
+    "direction": "景色を見渡すように",
+    "facts": [
+      "P13",
+      "P14"
+    ],
+    "creative": false,
+    "bgId": "bg02",
+    "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k022",
+    "scene": 2,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "池の岩のなかには、造営のときに大名たちが奉納したものがあります。",
+    "reading": "いけの いわの なかには、ぞうえいの ときに だいみょうたちが ほうのう した ものが あります。",
+    "direction": "軽く添える",
+    "facts": [
+      "P13"
+    ],
+    "creative": false,
+    "bgId": "bg02",
+    "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k023",
+    "scene": 2,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "そのほとりに建てられたのが、三層の楼閣、舎利殿でした。",
+    "reading": "その ほとりに 建てられたのが、さんそうの ろうかく、しゃりでん でした。",
+    "direction": "「しゃりでん」で少し間",
+    "facts": [
+      "P04",
+      "P14"
+    ],
+    "creative": false,
+    "bgId": "bg02",
+    "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k024",
+    "scene": 2,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "一層は寝殿造、二層は武家造、三層は禅宗の仏殿造です。",
+    "reading": "いっそうは しんでんづくり、にそうは ぶけづくり、さんそうは ぜんしゅうの ぶつでんづくり です。",
+    "direction": "三つを数えるように、区切って",
+    "facts": [
+      "P05",
+      "P06",
+      "P07"
+    ],
+    "creative": false,
+    "bgId": "bg02",
+    "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k025",
+    "scene": 2,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "階ごとに、違う様式を重ねた建物なのです。",
+    "reading": "かいごとに、ちがう ようしきを かさねた たてもの なのです。",
+    "direction": "やわらかく",
+    "facts": [
+      "P08"
+    ],
+    "creative": false,
+    "bgId": "bg02",
+    "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k026",
+    "scene": 2,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "一層には釈迦三尊、二層は観音殿、三層には仏舎利が納められました。",
+    "reading": "いっそうには しゃかさんぞん、にそうは かんのんでん、さんそうには ぶっしゃりが おさめられました。",
+    "direction": "丁寧に。仏さまの名は軽く扱わない",
+    "facts": [
+      "P10"
+    ],
+    "creative": false,
+    "bgId": "bg02",
+    "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k027",
+    "scene": 2,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "三層には、後小松天皇が書いた「究竟頂」の額が掛けられました。",
+    "reading": "さんそうには、ごこまつてんのうが 書いた くっきょうちょうの がくが かけられました。",
+    "direction": "「くっきょうちょう」をはっきり",
+    "facts": [
+      "P11",
+      "W23"
+    ],
+    "creative": false,
+    "bgId": "bg02",
+    "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k028",
+    "scene": 2,
+    "speaker": "guide",
+    "expression": "think",
+    "text": "この額のことは、少しあとで、もう一度出てきます。",
+    "reading": "この がくの ことは、すこし あとで、もう いちど 出てきます。",
+    "direction": "さりげなく。念を押しすぎない",
+    "facts": [],
+    "creative": true,
+    "bgId": "bg02",
+    "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k029",
+    "scene": 2,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "応永十五年（1408年）三月、その後小松天皇が北山殿を訪れます。",
+    "reading": "おうえいじゅうごねん、せんよんひゃくはちねん、さんがつ、その ごこまつてんのうが きたやまどのを おとずれます。",
+    "direction": "年号はゆっくり。少し華やぎを含ませて",
+    "facts": [
+      "T06",
+      "W23"
+    ],
+    "creative": false,
+    "bgId": "bg03",
+    "bg": "応永十五年三月・北山行幸を迎えた北山殿（昼・遠景・人物は小さく）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k030",
+    "scene": 2,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "北山行幸と呼ばれる出来事です。義満は盛大な宴を開きました。",
+    "reading": "きたやまぎょうこう と 呼ばれる できごと です。よしみつは せいだいな うたげを 開きました。",
+    "direction": "明るめに",
+    "facts": [
+      "T06"
+    ],
+    "creative": false,
+    "bgId": "bg03",
+    "bg": "応永十五年三月・北山行幸を迎えた北山殿（昼・遠景・人物は小さく）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k031",
+    "scene": 2,
+    "speaker": "yoshimitsu",
+    "expression": "smile",
+    "text": "帝をこの北山殿にお迎えして、宴を開いた。わが山荘の、晴れの日だ。",
+    "reading": "みかどを この きたやまどのに おむかえして、うたげを ひらいた。わが さんそうの、はれの ひだ。",
+    "direction": "誇らしさは控えめに、穏やかに",
+    "facts": [
+      "T06"
+    ],
+    "creative": true,
+    "creativeNote": "言い回しと「晴れの日」は創作。行幸と盛大な宴は T06",
+    "bgId": "bg03",
+    "bg": "応永十五年三月・北山行幸を迎えた北山殿（昼・遠景・人物は小さく）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k032",
+    "scene": 2,
+    "speaker": "guide",
+    "expression": "think",
+    "text": "けれど、その宴から、わずか二か月ほどのちのことです。",
+    "reading": "けれど、その うたげから、わずか にかげつほど のちの ことです。",
+    "direction": "声を少し落として、間をとる",
+    "facts": [
+      "T06",
+      "T07"
+    ],
+    "creative": false,
+    "bgId": "bg03",
+    "bg": "応永十五年三月・北山行幸を迎えた北山殿（昼・遠景・人物は小さく）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k033",
+    "scene": 2,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "同じ年の五月六日、義満は五十一歳で亡くなりました。",
+    "reading": "おなじ としの ごがつむいか、よしみつは ごじゅういっさいで なくなりました。",
+    "direction": "静かに。悲しみを強調しない",
+    "facts": [
+      "T07"
+    ],
+    "creative": false,
+    "bgId": "bg03",
+    "bg": "応永十五年三月・北山行幸を迎えた北山殿（昼・遠景・人物は小さく）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k034",
+    "scene": 2,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "亡くなるまで、この北山殿に住んでいたといいます。",
+    "reading": "なくなるまで、この きたやまどのに 住んで いたと いいます。",
+    "direction": "静かに",
+    "facts": [
+      "T07"
+    ],
+    "creative": false,
+    "bgId": "bg03",
+    "bg": "応永十五年三月・北山行幸を迎えた北山殿（昼・遠景・人物は小さく）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k035",
+    "scene": 3,
+    "speaker": "guide",
+    "expression": "smile",
+    "text": "少し、立ち止まってみましょうか。",
+    "reading": "すこし、たちどまって みましょうか。",
+    "direction": "場面の切り替え。ひと息おいて、やわらかく",
+    "facts": [],
+    "creative": true,
+    "bgId": "bg04",
+    "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k036",
+    "scene": 3,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "義満の死後、跡を継いだ義持は、北山殿を出ていきます。",
+    "reading": "よしみつの しご、あとを ついだ よしもちは、きたやまどのを 出て いきます。",
+    "direction": "淡々と",
+    "facts": [
+      "T09",
+      "W19"
+    ],
+    "creative": false,
+    "bgId": "bg04",
+    "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k037",
+    "scene": 3,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "朝廷が父に贈ろうとした尊号も、義持は辞退しました。",
+    "reading": "ちょうていが ちちに おくろうと した そんごうも、よしもちは じたい しました。",
+    "direction": "淡々と",
+    "facts": [
+      "T08"
+    ],
+    "creative": false,
+    "bgId": "bg04",
+    "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k038",
+    "scene": 3,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "父が始めた明との貿易も、やめています。",
+    "reading": "ちちが 始めた みんとの ぼうえきも、やめて います。",
+    "direction": "淡々と",
+    "facts": [
+      "W19",
+      "T05"
+    ],
+    "creative": false,
+    "bgId": "bg04",
+    "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k039",
+    "scene": 3,
+    "speaker": "guide",
+    "expression": "think",
+    "text": "なぜそうしたのか、わたしの集めた資料には書かれていませんでした。",
+    "reading": "なぜ そう したのか、わたしの 集めた しりょうには 書かれて いませんでした。",
+    "direction": "正直に、少し首をかしげるように",
+    "facts": [],
+    "creative": true,
+    "bgId": "bg04",
+    "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k040",
+    "scene": 3,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "北山殿には、義満の妻・日野康子が住み続けました。",
+    "reading": "きたやまどのには、よしみつの つま、ひのやすこが 住みつづけました。",
+    "direction": "淡々と",
+    "facts": [
+      "T10",
+      "W22"
+    ],
+    "creative": false,
+    "bgId": "bg04",
+    "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k041",
+    "scene": 3,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "康子が亡くなった翌年、北山殿の一部は解体され、ほかの寺へ移されます。",
+    "reading": "やすこが なくなった よくねん、きたやまどのの いちぶは かいたい され、ほかの てらへ うつされます。",
+    "direction": "淡々と",
+    "facts": [
+      "T11"
+    ],
+    "creative": false,
+    "bgId": "bg04",
+    "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k042",
+    "scene": 3,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "そして北山殿は、禅のお寺になりました。それが鹿苑寺です。",
+    "reading": "そして きたやまどのは、ぜんの おてらに なりました。それが ろくおんじ です。",
+    "direction": "「ろくおんじ」で着地するように",
+    "facts": [
+      "T12"
+    ],
+    "creative": false,
+    "bgId": "bg04",
+    "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k043",
+    "scene": 3,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "お寺の公式の説明では、義満の遺言によって寺になったとされています。",
+    "reading": "おてらの こうしきの せつめいでは、よしみつの ゆいごんに よって てらに なったと されて います。",
+    "direction": "「とされています」を丁寧に",
+    "facts": [
+      "T13"
+    ],
+    "creative": false,
+    "bgId": "bg04",
+    "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k044",
+    "scene": 3,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "名前は、義満の法号「鹿苑院殿」から、二字をとったものです。",
+    "reading": "なまえは、よしみつの ほうごう、ろくおんいんどの から、にじを とった もの です。",
+    "direction": "「ろくおんいんどの」をはっきり",
+    "facts": [
+      "T13"
+    ],
+    "creative": false,
+    "bgId": "bg04",
+    "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k045",
+    "scene": 3,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "開山、つまり寺を開いた僧とされるのは、夢窓疎石です。",
+    "reading": "かいさん、つまり てらを ひらいた そう と される のは、むそうそせき です。",
+    "direction": "人物名の前に少し間",
+    "facts": [
+      "T12",
+      "T13"
+    ],
+    "creative": false,
+    "bgId": "bg04",
+    "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k046",
+    "scene": 3,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "夢窓疎石は、天龍寺の開山としても知られる禅僧です。",
+    "reading": "むそうそせきは、てんりゅうじの かいさん としても 知られる ぜんそう です。",
+    "direction": "丁寧に",
+    "facts": [
+      "W16"
+    ],
+    "creative": false,
+    "bgId": "bg04",
+    "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k047",
+    "scene": 3,
+    "speaker": "guide",
+    "expression": "discover",
+    "text": "ところが、夢窓は観応二年（1351年）に亡くなっています。",
+    "reading": "ところが、むそうは かんのうにねん、せんさんびゃくごじゅういちねんに なくなって います。",
+    "direction": "意外な事実。声は落ち着いたまま、少し間をとって",
+    "facts": [
+      "W16"
+    ],
+    "creative": false,
+    "bgId": "bg04",
+    "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k048",
+    "scene": 3,
+    "speaker": "guide",
+    "expression": "discover",
+    "text": "鹿苑寺ができるより、半世紀以上も前のことでした。",
+    "reading": "ろくおんじが できるより、はんせいき いじょうも まえの こと でした。",
+    "direction": "ゆっくり",
+    "facts": [
+      "W16"
+    ],
+    "creative": false,
+    "bgId": "bg04",
+    "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k049",
+    "scene": 3,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "義持は、すでに亡くなっていた夢窓を、名目上の開山として迎えたのです。",
+    "reading": "よしもちは、すでに なくなって いた むそうを、めいもくじょうの かいさん として むかえたのです。",
+    "direction": "丁寧に。夢窓を軽く扱わない",
+    "facts": [
+      "T12",
+      "W16"
+    ],
+    "creative": false,
+    "bgId": "bg04",
+    "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k050",
+    "scene": 3,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "こうした開山の迎え方を、勧請開山といいます。",
+    "reading": "こうした かいさんの むかえかたを、かんじょうかいさん と いいます。",
+    "direction": "「かんじょうかいさん」をはっきり",
+    "facts": [
+      "W16"
+    ],
+    "creative": false,
+    "bgId": "bg04",
+    "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k051",
+    "scene": 3,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "鹿苑寺が属する相国寺も、夢窓疎石を開山としています。",
+    "reading": "ろくおんじが ぞくする しょうこくじも、むそうそせきを かいさん として います。",
+    "direction": "淡々と",
+    "facts": [
+      "P02",
+      "W17"
+    ],
+    "creative": false,
+    "bgId": "bg04",
+    "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k052",
+    "scene": 4,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "ところで、「金閣」という呼び名は、建てた当初のものではありません。",
+    "reading": "ところで、きんかく という よびなは、建てた とうしょの もの では ありません。",
+    "direction": "話題を変える軽さで",
+    "facts": [
+      "T15",
+      "Z06"
+    ],
+    "creative": false,
+    "bgId": "bg05",
+    "bg": "応仁・文明の乱のころ・荒れた境内に焼け残る金閣（遠景・煙はかすか）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k053",
+    "scene": 4,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "はじめは舎利殿など、別の名前で呼ばれていました。",
+    "reading": "はじめは しゃりでん など、べつの なまえで 呼ばれて いました。",
+    "direction": "淡々と",
+    "facts": [
+      "T15"
+    ],
+    "creative": false,
+    "bgId": "bg05",
+    "bg": "応仁・文明の乱のころ・荒れた境内に焼け残る金閣（遠景・煙はかすか）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k054",
+    "scene": 4,
+    "speaker": "guide",
+    "expression": "discover",
+    "text": "「金閣」の名が記録に初めて見えるのは、文明十六年（1484年）。",
+    "reading": "きんかくの なが きろくに はじめて 見えるのは、ぶんめいじゅうろくねん、せんよんひゃくはちじゅうよねん。",
+    "direction": "年号の前で少し間",
+    "facts": [
+      "T15"
+    ],
+    "creative": false,
+    "bgId": "bg05",
+    "bg": "応仁・文明の乱のころ・荒れた境内に焼け残る金閣（遠景・煙はかすか）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k055",
+    "scene": 4,
+    "speaker": "guide",
+    "expression": "discover",
+    "text": "建ってから、九十年近くたってからのことでした。",
+    "reading": "たってから、きゅうじゅうねん ちかく たってからの こと でした。",
+    "direction": "ゆっくり",
+    "facts": [
+      "T15"
+    ],
+    "creative": false,
+    "bgId": "bg05",
+    "bg": "応仁・文明の乱のころ・荒れた境内に焼け残る金閣（遠景・煙はかすか）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k056",
+    "scene": 4,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "その少し前、京都は応仁・文明の乱で、長い戦乱の中にありました。",
+    "reading": "その すこし まえ、きょうとは おうにん・ぶんめいの らんで、ながい せんらんの なかに ありました。",
+    "direction": "少し重く",
+    "facts": [
+      "T16"
+    ],
+    "creative": false,
+    "bgId": "bg05",
+    "bg": "応仁・文明の乱のころ・荒れた境内に焼け残る金閣（遠景・煙はかすか）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k057",
+    "scene": 4,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "鹿苑寺は西軍の陣所となり、多くの建物が焼けてしまいます。",
+    "reading": "ろくおんじは せいぐんの じんしょと なり、おおくの たてものが やけて しまいます。",
+    "direction": "淡々と",
+    "facts": [
+      "T16"
+    ],
+    "creative": false,
+    "bgId": "bg05",
+    "bg": "応仁・文明の乱のころ・荒れた境内に焼け残る金閣（遠景・煙はかすか）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k058",
+    "scene": 4,
+    "speaker": "guide",
+    "expression": "discover",
+    "text": "それでも、金閣は焼け残りました。",
+    "reading": "それでも、きんかくは やけのこりました。",
+    "direction": "静かに、ひと呼吸おいて",
+    "facts": [
+      "T16",
+      "T17"
+    ],
+    "creative": false,
+    "bgId": "bg05",
+    "bg": "応仁・文明の乱のころ・荒れた境内に焼け残る金閣（遠景・煙はかすか）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k059",
+    "scene": 4,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "百年ほどのち、寺の立て直しは、不動堂の再建から始まります。",
+    "reading": "ひゃくねんほど のち、てらの たてなおしは、ふどうどうの さいけんから はじまります。",
+    "direction": "淡々と",
+    "facts": [
+      "T18"
+    ],
+    "creative": false,
+    "bgId": "bg05",
+    "bg": "応仁・文明の乱のころ・荒れた境内に焼け残る金閣（遠景・煙はかすか）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k060",
+    "scene": 4,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "建て直したのは宇喜多秀家。境内に残る、いちばん古い建物とされます。",
+    "reading": "たてなおしたのは うきたひでいえ。けいだいに のこる、いちばん ふるい たてもの と されます。",
+    "direction": "人名をはっきり",
+    "facts": [
+      "T18",
+      "W26"
+    ],
+    "creative": false,
+    "bgId": "bg05",
+    "bg": "応仁・文明の乱のころ・荒れた境内に焼け残る金閣（遠景・煙はかすか）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k061",
+    "scene": 4,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "江戸時代には、住職の鳳林承章が、傾いた金閣と庭を修理しました。",
+    "reading": "えどじだいには、じゅうしょくの ほうりんじょうしょうが、かたむいた きんかくと にわを しゅうり しました。",
+    "direction": "人名をはっきり",
+    "facts": [
+      "T21",
+      "W24"
+    ],
+    "creative": false,
+    "bgId": "bg06",
+    "bg": "江戸時代・修理された金閣と庭、夕佳亭の茶室（夕方）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k062",
+    "scene": 4,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "茶室の夕佳亭が造られたのも、このころです。",
+    "reading": "ちゃしつの せっかていが つくられたのも、この ころ です。",
+    "direction": "「せっかてい」をはっきり",
+    "facts": [
+      "P21",
+      "W24"
+    ],
+    "creative": false,
+    "bgId": "bg06",
+    "bg": "江戸時代・修理された金閣と庭、夕佳亭の茶室（夕方）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k063",
+    "scene": 4,
+    "speaker": "guide",
+    "expression": "smile",
+    "text": "夕日に映える金閣が佳い、というのが、その名の由来だそうです。",
+    "reading": "ゆうひに はえる きんかくが よい、と いうのが、その なの ゆらい だそうです。",
+    "direction": "やわらかく、少し楽しげに",
+    "facts": [
+      "P21"
+    ],
+    "creative": false,
+    "bgId": "bg06",
+    "bg": "江戸時代・修理された金閣と庭、夕佳亭の茶室（夕方）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k064",
+    "scene": 4,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "明治になると、寺は支えてくれる有力者を失い、苦しくなります。",
+    "reading": "めいじに なると、てらは ささえて くれる ゆうりょくしゃを うしない、くるしく なります。",
+    "direction": "淡々と",
+    "facts": [
+      "T25"
+    ],
+    "creative": false,
+    "bgId": "bg07",
+    "bg": "明治後半・解体修理の足場が組まれた金閣（図面を引く気配）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k065",
+    "scene": 4,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "明治二十七年（1894年）、寺は拝観の受け入れを始めます。",
+    "reading": "めいじにじゅうしちねん、せんはっぴゃくきゅうじゅうよねん、てらは はいかんの うけいれを はじめます。",
+    "direction": "年号はゆっくり",
+    "facts": [
+      "T25"
+    ],
+    "creative": false,
+    "bgId": "bg07",
+    "bg": "明治後半・解体修理の足場が組まれた金閣（図面を引く気配）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k066",
+    "scene": 4,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "大阪で共進会、いまでいう博覧会が開かれたのが、きっかけでした。",
+    "reading": "おおさかで きょうしんかい、いまで いう はくらんかいが ひらかれたのが、きっかけ でした。",
+    "direction": "軽く添える",
+    "facts": [
+      "T25"
+    ],
+    "creative": false,
+    "bgId": "bg07",
+    "bg": "明治後半・解体修理の足場が組まれた金閣（図面を引く気配）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k067",
+    "scene": 4,
+    "speaker": "guide",
+    "expression": "smile",
+    "text": "いまのように、人びとが金閣を見に訪れる、その始まりでした。",
+    "reading": "いまの ように、ひとびとが きんかくを 見に おとずれる、その はじまり でした。",
+    "direction": "やわらかく",
+    "facts": [
+      "T25"
+    ],
+    "creative": false,
+    "bgId": "bg07",
+    "bg": "明治後半・解体修理の足場が組まれた金閣（図面を引く気配）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k068",
+    "scene": 4,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "そして明治の後半、金閣を解体して直す、大きな修理が行われます。",
+    "reading": "そして めいじの こうはん、きんかくを かいたい して なおす、大きな しゅうりが おこなわれます。",
+    "direction": "淡々と",
+    "facts": [
+      "T26"
+    ],
+    "creative": false,
+    "bgId": "bg07",
+    "bg": "明治後半・解体修理の足場が組まれた金閣（図面を引く気配）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k069",
+    "scene": 4,
+    "speaker": "guide",
+    "expression": "think",
+    "text": "このとき、金閣のくわしい図面が作られました。",
+    "reading": "この とき、きんかくの くわしい ずめんが つくられました。",
+    "direction": "少し強調して。山場への伏線",
+    "facts": [
+      "T26"
+    ],
+    "creative": false,
+    "bgId": "bg07",
+    "bg": "明治後半・解体修理の足場が組まれた金閣（図面を引く気配）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k070",
+    "scene": 4,
+    "speaker": "guide",
+    "expression": "think",
+    "text": "この図面のことも、少し覚えておいてください。",
+    "reading": "この ずめんの ことも、すこし おぼえて おいて ください。",
+    "direction": "さりげなく。念を押しすぎない",
+    "facts": [],
+    "creative": true,
+    "bgId": "bg07",
+    "bg": "明治後半・解体修理の足場が組まれた金閣（図面を引く気配）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k071",
+    "scene": 4,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "北山殿の時代から残る建物は、もう金閣ひとつだけになっていました。",
+    "reading": "きたやまどのの じだいから のこる たてものは、もう きんかく ひとつだけに なって いました。",
+    "direction": "静かに。次の場面への間をとる",
+    "facts": [
+      "T28"
+    ],
+    "creative": false,
+    "bgId": "bg07",
+    "bg": "明治後半・解体修理の足場が組まれた金閣（図面を引く気配）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k072",
+    "scene": 5,
+    "speaker": "guide",
+    "expression": "think",
+    "text": "昭和二十五年（1950年）七月二日。",
+    "reading": "しょうわにじゅうごねん、せんきゅうひゃくごじゅうねん、しちがつふつか。",
+    "direction": "声を落として、ゆっくり",
+    "facts": [
+      "T28"
+    ],
+    "creative": false,
+    "bgId": "bg08",
+    "bg": "昭和二十五年・夏の夜明け前の鏡湖池（炎・焼け跡・人物は描かない）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k073",
+    "scene": 5,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "金閣は、放火によって焼けてしまいました。",
+    "reading": "きんかくは、ほうかに よって やけて しまいました。",
+    "direction": "淡々と。感情を乗せすぎない",
+    "facts": [
+      "T28"
+    ],
+    "creative": false,
+    "bgId": "bg08",
+    "bg": "昭和二十五年・夏の夜明け前の鏡湖池（炎・焼け跡・人物は描かない）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k074",
+    "scene": 5,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "応仁・文明の乱をくぐり抜けた建物が、このとき失われたのです。",
+    "reading": "おうにん・ぶんめいの らんを くぐりぬけた たてものが、この とき うしなわれたのです。",
+    "direction": "静かに",
+    "facts": [
+      "T16",
+      "T28"
+    ],
+    "creative": false,
+    "bgId": "bg08",
+    "bg": "昭和二十五年・夏の夜明け前の鏡湖池（炎・焼け跡・人物は描かない）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k075",
+    "scene": 5,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "当時、国宝だった金閣は、焼けたことで指定も解かれました。",
+    "reading": "とうじ、こくほう だった きんかくは、やけた ことで していも とかれました。",
+    "direction": "淡々と",
+    "facts": [
+      "T27",
+      "T30"
+    ],
+    "creative": false,
+    "bgId": "bg08",
+    "bg": "昭和二十五年・夏の夜明け前の鏡湖池（炎・焼け跡・人物は描かない）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k076",
+    "scene": 5,
+    "speaker": "guide",
+    "expression": "discover",
+    "text": "けれど、このとき焼けずに残ったものがありました。",
+    "reading": "けれど、この とき やけずに のこった ものが ありました。",
+    "direction": "間をとって、少しだけ明るさを戻す",
+    "facts": [
+      "T29"
+    ],
+    "creative": false,
+    "bgId": "bg08",
+    "bg": "昭和二十五年・夏の夜明け前の鏡湖池（炎・焼け跡・人物は描かない）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k077",
+    "scene": 5,
+    "speaker": "guide",
+    "expression": "discover",
+    "text": "屋根の上の鳳凰と、後小松天皇の筆による「究竟頂」の額です。",
+    "reading": "やねの うえの ほうおうと、ごこまつてんのうの ふでに よる くっきょうちょうの がく です。",
+    "direction": "一語ずつ、はっきり",
+    "facts": [
+      "T29",
+      "P04",
+      "W23"
+    ],
+    "creative": false,
+    "bgId": "bg08",
+    "bg": "昭和二十五年・夏の夜明け前の鏡湖池（炎・焼け跡・人物は描かない）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k078",
+    "scene": 5,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "どちらも、そのとき金閣から取り外されて、保存されていたのです。",
+    "reading": "どちらも、その とき きんかくから とりはずされて、ほぞん されて いたのです。",
+    "direction": "落ち着いて",
+    "facts": [
+      "T29"
+    ],
+    "creative": false,
+    "bgId": "bg08",
+    "bg": "昭和二十五年・夏の夜明け前の鏡湖池（炎・焼け跡・人物は描かない）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k079",
+    "scene": 5,
+    "speaker": "guide",
+    "expression": "think",
+    "text": "外されていた理由は、わたしにはまだ確かめられていません。",
+    "reading": "はずされて いた りゆうは、わたしには まだ たしかめられて いません。",
+    "direction": "正直に。理由を想像で足さない",
+    "facts": [],
+    "creative": true,
+    "bgId": "bg08",
+    "bg": "昭和二十五年・夏の夜明け前の鏡湖池（炎・焼け跡・人物は描かない）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k080",
+    "scene": 5,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "五年後の昭和三十年（1955年）、金閣は再建されます。",
+    "reading": "ごねんごの しょうわさんじゅうねん、せんきゅうひゃくごじゅうごねん、きんかくは さいけん されます。",
+    "direction": "年号はゆっくり。少し顔を上げるように",
+    "facts": [
+      "T33"
+    ],
+    "creative": false,
+    "bgId": "bg09",
+    "bg": "昭和三十年・再建されたばかりの金閣（晴れた日中）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k081",
+    "scene": 5,
+    "speaker": "guide",
+    "expression": "discover",
+    "text": "元の姿に正確に戻せたのは、明治の修理で描かれた図面があったからです。",
+    "reading": "もとの すがたに せいかくに もどせたのは、めいじの しゅうりで えがかれた ずめんが あったから です。",
+    "direction": "山場。声は落ち着いたまま、言葉をはっきり",
+    "facts": [
+      "T26",
+      "T33"
+    ],
+    "creative": false,
+    "bgId": "bg09",
+    "bg": "昭和三十年・再建されたばかりの金閣（晴れた日中）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k082",
+    "scene": 5,
+    "speaker": "guide",
+    "expression": "think",
+    "text": "半世紀前に残した記録が、焼けた金閣をもう一度建たせたのです。",
+    "reading": "はんせいき まえに のこした きろくが、やけた きんかくを もう いちど たたせたのです。",
+    "direction": "しみじみと、ゆっくり",
+    "facts": [
+      "T26",
+      "T33"
+    ],
+    "creative": false,
+    "bgId": "bg09",
+    "bg": "昭和三十年・再建されたばかりの金閣（晴れた日中）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k083",
+    "scene": 5,
+    "speaker": "guide",
+    "expression": "smile",
+    "text": "はじめの問いの答えです。この金閣は、七十年ほど前に建ったものでした。",
+    "reading": "はじめの といの こたえ です。この きんかくは、ななじゅうねんほど まえに 建った もの でした。",
+    "direction": "答えを明かす。得意げにならず、やわらかく",
+    "facts": [
+      "T33"
+    ],
+    "creative": false,
+    "bgId": "bg09",
+    "bg": "昭和三十年・再建されたばかりの金閣（晴れた日中）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k084",
+    "scene": 5,
+    "speaker": "guide",
+    "expression": "think",
+    "text": "もし義満がこの話を聞いたら、何と言ったでしょう。",
+    "reading": "もし よしみつが この はなしを 聞いたら、なんと 言った でしょう。",
+    "direction": "想像の話だと分かるように、やわらかく",
+    "facts": [],
+    "creative": true,
+    "bgId": "bg09",
+    "bg": "昭和三十年・再建されたばかりの金閣（晴れた日中）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k085",
+    "scene": 5,
+    "speaker": "yoshimitsu",
+    "expression": "smile",
+    "text": "燃えても、図さえ残っておれば、閣はまた建つ。よう残してくれた。",
+    "reading": "もえても、ずさえ のこって おれば、かくは また たつ。よう のこして くれた。",
+    "direction": "決め台詞。低く、ゆっくり。最後の一言は少しだけ温かく",
+    "facts": [
+      "T26",
+      "T29",
+      "T33"
+    ],
+    "creative": true,
+    "creativeNote": "全体が創作（義満は1950年の出来事を知らない。案内役の「もし聞いたら」を受けた想像の一言）。図面・額・鳳凰が残ったことは T26・T29・T33",
+    "bgId": "bg09",
+    "bg": "昭和三十年・再建されたばかりの金閣（晴れた日中）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k086",
+    "scene": 6,
+    "speaker": "guide",
+    "expression": "smile",
+    "text": "池の向こうの金閣に、もう一度目を戻してみましょう。",
+    "reading": "いけの むこうの きんかくに、もう いちど めを もどして みましょう。",
+    "direction": "景色に戻る。ゆったりと",
+    "facts": [],
+    "creative": true,
+    "bgId": "bg10",
+    "bg": "いま・夕方の鏡湖池越しの金閣（夕日・水面に映る金閣）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k087",
+    "scene": 6,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "金箔が張られているのは、二層と三層だけ。一層には張られていません。",
+    "reading": "きんぱくが はられて いるのは、にそうと さんそう だけ。いっそうには はられて いません。",
+    "direction": "見比べるように、軽く",
+    "facts": [
+      "P09",
+      "Z05"
+    ],
+    "creative": false,
+    "bgId": "bg10",
+    "bg": "いま・夕方の鏡湖池越しの金閣（夕日・水面に映る金閣）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k088",
+    "scene": 6,
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "昭和六十二年（1987年）の修理では、金箔の張り替えも行われました。",
+    "reading": "しょうわろくじゅうにねん、せんきゅうひゃくはちじゅうななねんの しゅうりでは、きんぱくの はりかえも おこなわれました。",
+    "direction": "淡々と",
+    "facts": [
+      "T38"
+    ],
+    "creative": false,
+    "bgId": "bg10",
+    "bg": "いま・夕方の鏡湖池越しの金閣（夕日・水面に映る金閣）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k089",
+    "scene": 6,
+    "speaker": "guide",
+    "expression": "smile",
+    "text": "夕日のころの金閣は、夕佳亭の名のとおり、やはり佳いものですね。",
+    "reading": "ゆうひの ころの きんかくは、せっかていの なの とおり、やはり よい もの ですね。",
+    "direction": "しみじみと",
+    "facts": [
+      "P21"
+    ],
+    "creative": true,
+    "creativeNote": "「佳いものですね」は案内役の感想（創作）。夕佳亭の名の由来は P21",
+    "bgId": "bg10",
+    "bg": "いま・夕方の鏡湖池越しの金閣（夕日・水面に映る金閣）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k090",
+    "scene": 6,
+    "speaker": "guide",
+    "expression": "smile",
+    "text": "この話は、記録帳にも書いておきます。明治の図面が金閣を救った、と。",
+    "reading": "この はなしは、きろくちょうにも 書いて おきます。めいじの ずめんが きんかくを すくった、と。",
+    "direction": "記録帳に書き留めるように、ゆっくり",
+    "facts": [
+      "T26",
+      "T33"
+    ],
+    "creative": true,
+    "creativeNote": "記録帳に書くという行為は創作。中身は T26・T33",
+    "bgId": "bg10",
+    "bg": "いま・夕方の鏡湖池越しの金閣（夕日・水面に映る金閣）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k091",
+    "scene": 6,
+    "speaker": "yoshimitsu",
+    "expression": "smile",
+    "text": "急ぐことはない。池に映る方の閣も、よう見てゆけ。",
+    "reading": "いそぐ ことは ない。いけに うつる ほうの かくも、よう みて ゆけ。",
+    "direction": "人物の一言。穏やかに、送り出すように",
+    "facts": [],
+    "creative": true,
+    "creativeNote": "全体が創作",
+    "bgId": "bg10",
+    "bg": "いま・夕方の鏡湖池越しの金閣（夕日・水面に映る金閣）",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k092",
+    "scene": 6,
+    "speaker": "guide",
+    "expression": "think",
+    "text": "あなたなら、百年先の人のために、何を書き残しておきますか。",
+    "reading": "あなたなら、ひゃくねん さきの ひとの ために、なにを かきのこして おきますか。",
+    "direction": "最後の問い。答えを求めず、静かに置いて終わる",
+    "facts": [],
+    "creative": true,
+    "bgId": "bg10",
+    "bg": "いま・夕方の鏡湖池越しの金閣（夕日・水面に映る金閣）",
+    "audio": null,
+    "duration": null
+  }
+]
