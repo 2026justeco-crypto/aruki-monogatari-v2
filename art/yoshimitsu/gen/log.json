@@ -1,0 +1,175 @@
+{
+  "pricing": {
+    "source": "https://developers.openai.com/api/docs/models/gpt-image-2.5-sunburst（依頼02が2026-10-19に確認した単価を流用）",
+    "rates_usd_per_1M_tokens": {
+      "text_input": 5.0,
+      "image_input": 8.0,
+      "image_output": 30.0
+    },
+    "note": "各エントリの usage（APIが返したトークン数）×上の単価で計算した概算。請求額そのものは未確認",
+    "total_usd_estimate": 0.2363
+  },
+  "entries": [
+    {
+      "file": "gen/ym_bust_try1.png",
+      "kind": "bust",
+      "endpoint": "images.generate",
+      "input_image": null,
+      "blocks": [
+        "style",
+        "character",
+        "bust"
+      ],
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1024x1024",
+      "quality": "high",
+      "background": "transparent",
+      "output_format": "png",
+      "prompt": "Picture-book illustration with a woodblock-print feel. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights, no rim light. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours and folds. Eyes are realistic in size, not enlarged. The expression is quiet and shown mainly by the eyebrows and the corners of the mouth. Restrained palette: ink black and deep charcoal for the robe, muted ochre-brown and dull gold for the stole, warm off-white (#FAF6EE), deep indigo (#1E3A5F) only in the outlines and darkest shadows, plus natural skin tones. Not photorealistic, not 3D rendered, not anime or manga style, not a caricature. Absolutely no text, no letters, no characters of any script, no logo, no signature, no watermark, no red seal stamp, no frame or border.\n\nThe character is a Japanese man in his late forties to about fifty, a retired ruler of the Muromachi period who has become a Buddhist monk but still holds power. His head is cleanly shaven, with no hair, no topknot and no hat. His face is clean-shaven. An ordinary, mature, healthy face drawn honestly, neither idealized nor made ugly: a broad forehead, slightly full cheeks, straight dark eyebrows, calm dark eyes of realistic size with a few faint lines at the corners, a firm closed mouth. He has a composed, dignified, self-assured presence without arrogance. He wears a plain ink-black Buddhist monk's robe with wide sleeves and a crossed collar, with a white under-collar showing at the neck, and a muted ochre-brown monk's stole made of rectangular patchwork panels draped over his left shoulder. No crest, no jewelry, no prayer beads in view, no glowing or magical elements.\n\nChest-up portrait. Framing: square image, head and shoulders down to mid-chest, the face centered horizontally, the eyes at about 38 percent from the top, the face (top of the head to chin) taking about 40 percent of the image height, the shoulders cut off by the bottom edge. Face turned slightly toward the viewer's left, eyes looking at the viewer. Neutral, calm expression with a relaxed closed mouth. Plain transparent background. Keep it a drawing, not a photo.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792410453,
+        "request_id": "req_b3b7c9114d47438aa496b2174c7a5e72"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 521,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 521
+        },
+        "output_tokens": 1756,
+        "total_tokens": 2277,
+        "output_tokens_details": {
+          "image_tokens": 1756,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.05529,
+      "generated_at": "2026-10-19T20:47:36+09:00",
+      "elapsed_sec": 32.0,
+      "adopted": false,
+      "note": "顔の描き込みが写実寄り・顔が規格より大きいため不採用"
+    },
+    {
+      "file": "gen/ym_bust.png",
+      "kind": "bust",
+      "endpoint": "images.generate",
+      "input_image": null,
+      "blocks": [
+        "style",
+        "character",
+        "bust"
+      ],
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1024x1024",
+      "quality": "high",
+      "background": "transparent",
+      "output_format": "png",
+      "prompt": "Picture-book illustration with a woodblock-print feel. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights, no rim light. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours and folds. Eyes are realistic in size, not enlarged. The expression is quiet and shown mainly by the eyebrows and the corners of the mouth. Restrained palette: ink black and deep charcoal for the robe, muted ochre-brown and dull gold for the stole, warm off-white (#FAF6EE), deep indigo (#1E3A5F) only in the outlines and darkest shadows, plus natural skin tones. Not photorealistic, not 3D rendered, not anime or manga style, not a caricature. Absolutely no text, no letters, no characters of any script, no logo, no signature, no watermark, no red seal stamp, no frame or border.\n\nThe character is a Japanese man in his late forties to about fifty, a retired ruler of the Muromachi period who has become a Buddhist monk but still holds power. His head is cleanly shaven, with no hair, no topknot and no hat. His face is clean-shaven. An ordinary, mature, healthy face drawn honestly, neither idealized nor made ugly: a broad forehead, slightly full cheeks, straight dark eyebrows, calm dark eyes of realistic size with a few faint lines at the corners, a firm closed mouth. He has a composed, dignified, self-assured presence without arrogance. He wears a plain ink-black Buddhist monk's robe with wide sleeves and a crossed collar, with a white under-collar showing at the neck, and a muted ochre-brown monk's stole made of rectangular patchwork panels draped over his left shoulder. No crest, no jewelry, no prayer beads in view, no glowing or magical elements.\n\nChest-up portrait. Draw the face in the same simple storybook manner as a picture-book character: the skin and the shaven head are one flat skin color with only one slightly darker flat shadow shape, no shading on the scalp, no realistic modeling of the skull, no detailed wrinkles (at most two thin faint lines near the eyes), a simple line for the nose, outlines kept thin and even. Framing: square image, head and shoulders down to mid-chest, the face centered horizontally, the eyes at about 38 percent from the top, the face (top of the head to chin) taking about 40 percent of the image height, the shoulders cut off by the bottom edge. Face turned slightly toward the viewer's left, eyes looking at the viewer. Neutral, calm expression with a relaxed closed mouth. Plain transparent background. Keep it a drawing, not a photo.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792410503,
+        "request_id": "req_4f2d98ead01d471ca7c4d7f420050dbd"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 598,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 598
+        },
+        "output_tokens": 1756,
+        "total_tokens": 2354,
+        "output_tokens_details": {
+          "image_tokens": 1756,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.05567,
+      "generated_at": "2026-10-19T20:48:25+09:00",
+      "elapsed_sec": 33.2,
+      "adopted": true
+    },
+    {
+      "file": "gen/ym_expr_normal.png",
+      "kind": "normal",
+      "endpoint": "images.edit",
+      "input_image": "gen/ym_bust.png",
+      "blocks": [
+        "expr_common",
+        "expr_normal",
+        "style"
+      ],
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1024x1024",
+      "quality": "high",
+      "background": "transparent",
+      "output_format": "png",
+      "prompt": "Edit the provided image. Keep everything identical: the same man, same face shape, same shaven head, same clothing, same colors, same framing and face position, same line weight and flat woodblock picture-book style, transparent background. Change only the facial expression, subtly, using the eyebrows, eyelids and the corners of the mouth. No teeth showing, no tears, no sweat drops, no blush marks, no comic effect lines, no text.\n\nExpression: neutral and calm, composed, mouth relaxed and closed, eyebrows level.\n\nPicture-book illustration with a woodblock-print feel. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights, no rim light. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours and folds. Eyes are realistic in size, not enlarged. The expression is quiet and shown mainly by the eyebrows and the corners of the mouth. Restrained palette: ink black and deep charcoal for the robe, muted ochre-brown and dull gold for the stole, warm off-white (#FAF6EE), deep indigo (#1E3A5F) only in the outlines and darkest shadows, plus natural skin tones. Not photorealistic, not 3D rendered, not anime or manga style, not a caricature. Absolutely no text, no letters, no characters of any script, no logo, no signature, no watermark, no red seal stamp, no frame or border.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792410547,
+        "request_id": "req_5db0065d784c4897b8972fbbaf27982f"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 1365,
+        "input_tokens_details": {
+          "image_tokens": 1024,
+          "text_tokens": 341
+        },
+        "output_tokens": 1756,
+        "total_tokens": 3121,
+        "output_tokens_details": {
+          "image_tokens": 1756,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.06258,
+      "generated_at": "2026-10-19T20:49:09+09:00",
+      "elapsed_sec": 35.4,
+      "adopted": true
+    },
+    {
+      "file": "gen/ym_expr_smile.png",
+      "kind": "smile",
+      "endpoint": "images.edit",
+      "input_image": "gen/ym_bust.png",
+      "blocks": [
+        "expr_common",
+        "expr_smile",
+        "style"
+      ],
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1024x1024",
+      "quality": "high",
+      "background": "transparent",
+      "output_format": "png",
+      "prompt": "Edit the provided image. Keep everything identical: the same man, same face shape, same shaven head, same clothing, same colors, same framing and face position, same line weight and flat woodblock picture-book style, transparent background. Change only the facial expression, subtly, using the eyebrows, eyelids and the corners of the mouth. No teeth showing, no tears, no sweat drops, no blush marks, no comic effect lines, no text.\n\nExpression: a restrained, quiet smile of an older man; the corners of the mouth lifted slightly with lips closed, the lower eyelids softened a little, eyebrows relaxed. Warm but dignified, not a grin.\n\nPicture-book illustration with a woodblock-print feel. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights, no rim light. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours and folds. Eyes are realistic in size, not enlarged. The expression is quiet and shown mainly by the eyebrows and the corners of the mouth. Restrained palette: ink black and deep charcoal for the robe, muted ochre-brown and dull gold for the stole, warm off-white (#FAF6EE), deep indigo (#1E3A5F) only in the outlines and darkest shadows, plus natural skin tones. Not photorealistic, not 3D rendered, not anime or manga style, not a caricature. Absolutely no text, no letters, no characters of any script, no logo, no signature, no watermark, no red seal stamp, no frame or border.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792410549,
+        "request_id": "req_5e8c0c27f513448cb04eee1dab1f4112"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 1392,
+        "input_tokens_details": {
+          "image_tokens": 1024,
+          "text_tokens": 368
+        },
+        "output_tokens": 1756,
+        "total_tokens": 3148,
+        "output_tokens_details": {
+          "image_tokens": 1756,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.06271,
+      "generated_at": "2026-10-19T20:49:11+09:00",
+      "elapsed_sec": 36.3,
+      "adopted": true
+    }
+  ]
+}

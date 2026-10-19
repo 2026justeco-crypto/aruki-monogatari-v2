@@ -1,0 +1,449 @@
+{
+  "pricing": {
+    "source": "https://developers.openai.com/api/docs/models/gpt-image-2.5-sunburst（依頼02が2026-10-19に確認した単価を流用）",
+    "rates_usd_per_1M_tokens": {
+      "text_input": 5.0,
+      "image_input": 8.0,
+      "image_output": 30.0
+    },
+    "note": "各エントリの usage（APIが返したトークン数）×上の単価で計算した概算。請求額そのものは未確認",
+    "total_usd_estimate": 0.5763
+  },
+  "entries": [
+    {
+      "file": "gen/bg01.png",
+      "bgId": "bg01",
+      "endpoint": "images.generate",
+      "input_image": null,
+      "blocks": [
+        "style",
+        "layout",
+        "kinkaku",
+        "garden",
+        "bg01"
+      ],
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1536x1024",
+      "quality": "high",
+      "background": "opaque",
+      "output_format": "png",
+      "prompt": "Picture-book illustration with a woodblock-print feel, a wide landscape background painting. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours of trees, rocks and water. Depth is shown with layered planes: near, middle and far, with the far planes paler and cooler, and light shown as flat shapes of brighter color; reflections on the water are drawn as flat broken bands. Restrained palette built on deep indigo (#1E3A5F), moss green (#4F6B42), warm off-white (#FAF6EE) and muted vermilion (#A8432F) only in small accents, plus natural greens, browns and the gold of the building where described. Not photorealistic, not 3D rendered, not anime style. Absolutely no text, no letters, no characters of any script, no signboard, no logo, no signature, no watermark, no red seal stamp, no frame or border.\n\nComposition rules: a wide 3:2 landscape. The main subject sits in the central third of the width and in the upper two-thirds of the height, so the picture still works when the left and right sides are cropped to a tall phone screen. The upper right area is open sky or soft distant foliage with no important detail. The bottom third of the image is a calm, darker, low-detail area such as shadowed water or shadowed ground, with no important objects in it. Eye-level or slightly raised viewpoint unless stated.\n\nThe building is a three-story wooden temple pavilion standing at the edge of a pond, described precisely. First story: plain natural unpainted wood pillars and beams with white plaster wall panels and wooden lattice shutters, an open veranda; the first story is NOT gold. Second story: its walls, pillars and veranda railing are completely covered in gold leaf. Third story: smaller and square, completely covered in gold leaf, with bell-shaped cusped-arch windows in Zen temple style. Roofs: wide, gently curved eaves made of thin layered wooden shingles in dark grey-brown, never ceramic tile and never gold; one broad roof between the second and third stories and a top roof that is square and pyramidal, four slopes rising to a single point, crowned by a small golden phoenix statue. A small open wooden pavilion annex projects out over the water from the left side of the first story. Exactly three stories, no more.\n\nSetting: a wide quiet pond in front of the pavilion, with small islands planted with low pine trees and a few large natural rocks rising from the water. Dense trees and Japanese pines frame the pavilion, and a gently rounded forested hill rises behind it as a borrowed background. The pavilion is reflected in the still pond. No other buildings are visible. No visitors, no fences, no signs, no lamps, no modern objects.\n\nTime: the present day, early morning in early summer. Fresh deep greens, soft clear morning light from the left, pale blue sky with a few thin clouds. The view is from the far bank of the pond, looking at the pavilion from the front at a slight angle. The pavilion's reflection lies in the pond below it; the lower third of the picture is the darker, shadowed near part of the pond with a few flat reflection bands.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792410247,
+        "request_id": "req_01122eb595c44bdaa2635a9eb8a5cfbb"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 723,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 723
+        },
+        "output_tokens": 1372,
+        "total_tokens": 2095,
+        "output_tokens_details": {
+          "image_tokens": 1372,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.04478,
+      "generated_at": "2026-10-19T20:44:11+09:00",
+      "elapsed_sec": 33.6,
+      "adopted": true
+    },
+    {
+      "file": "gen/bg02_try1.png",
+      "bgId": "bg02",
+      "endpoint": "images.generate",
+      "input_image": null,
+      "blocks": [
+        "style",
+        "layout",
+        "bg02"
+      ],
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1536x1024",
+      "quality": "high",
+      "background": "opaque",
+      "output_format": "png",
+      "prompt": "Picture-book illustration with a woodblock-print feel, a wide landscape background painting. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours of trees, rocks and water. Depth is shown with layered planes: near, middle and far, with the far planes paler and cooler, and light shown as flat shapes of brighter color; reflections on the water are drawn as flat broken bands. Restrained palette built on deep indigo (#1E3A5F), moss green (#4F6B42), warm off-white (#FAF6EE) and muted vermilion (#A8432F) only in small accents, plus natural greens, browns and the gold of the building where described. Not photorealistic, not 3D rendered, not anime style. Absolutely no text, no letters, no characters of any script, no signboard, no logo, no signature, no watermark, no red seal stamp, no frame or border.\n\nComposition rules: a wide 3:2 landscape. The main subject sits in the central third of the width and in the upper two-thirds of the height, so the picture still works when the left and right sides are cropped to a tall phone screen. The upper right area is open sky or soft distant foliage with no important detail. The bottom third of the image is a calm, darker, low-detail area such as shadowed water or shadowed ground, with no important objects in it. Eye-level or slightly raised viewpoint unless stated.\n\nAn imagined reconstruction of a nobleman's lakeside villa estate in Kyoto's northern hills around the year 1400, seen from a slightly raised viewpoint. Time: a calm spring day, soft pale greens and soft light. In the center, at the edge of a wide pond with small pine-covered islands and large natural rocks, stands a three-story pavilion: the first story plain natural wood with white plaster panels and not gold, the second and third stories covered in gold leaf, the third story small and square with cusped-arch windows, roofs of thin dark wooden shingles with gently curved eaves, the top roof square and pyramidal with a small golden phoenix on the peak. Around the pond, further away, several other low halls with dark bark-shingled roofs and long covered corridors are only suggested, soft and half hidden in spring haze and trees, without clear detail. A rounded forested hill behind, pale in the haze. No people. No plaques or name boards on any building.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792410254,
+        "request_id": "req_ac4703928462446b9de1b90732b06aa7"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 558,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 558
+        },
+        "output_tokens": 1372,
+        "total_tokens": 1930,
+        "output_tokens_details": {
+          "image_tokens": 1372,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.04395,
+      "generated_at": "2026-10-19T20:44:17+09:00",
+      "elapsed_sec": 37.8,
+      "adopted": false,
+      "note": "殿舎がはっきり・桜が出たため不採用"
+    },
+    {
+      "file": "gen/bg02.png",
+      "bgId": "bg02",
+      "endpoint": "images.generate",
+      "input_image": null,
+      "blocks": [
+        "style",
+        "layout",
+        "bg02"
+      ],
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1536x1024",
+      "quality": "high",
+      "background": "opaque",
+      "output_format": "png",
+      "prompt": "Picture-book illustration with a woodblock-print feel, a wide landscape background painting. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours of trees, rocks and water. Depth is shown with layered planes: near, middle and far, with the far planes paler and cooler, and light shown as flat shapes of brighter color; reflections on the water are drawn as flat broken bands. Restrained palette built on deep indigo (#1E3A5F), moss green (#4F6B42), warm off-white (#FAF6EE) and muted vermilion (#A8432F) only in small accents, plus natural greens, browns and the gold of the building where described. Not photorealistic, not 3D rendered, not anime style. Absolutely no text, no letters, no characters of any script, no signboard, no logo, no signature, no watermark, no red seal stamp, no frame or border.\n\nComposition rules: a wide 3:2 landscape. The main subject sits in the central third of the width and in the upper two-thirds of the height, so the picture still works when the left and right sides are cropped to a tall phone screen. The upper right area is open sky or soft distant foliage with no important detail. The bottom third of the image is a calm, darker, low-detail area such as shadowed water or shadowed ground, with no important objects in it. Eye-level or slightly raised viewpoint unless stated.\n\nAn imagined reconstruction of a nobleman's lakeside villa estate in Kyoto's northern hills around the year 1400, seen from a slightly raised viewpoint. Time: a calm spring day, soft pale greens and soft light. In the center, at the edge of a wide pond with small pine-covered islands and large natural rocks, stands a three-story pavilion: the first story plain natural wood with white plaster panels and not gold, the second and third stories covered in gold leaf, the third story small and square with cusped-arch windows, roofs of thin dark wooden shingles with gently curved eaves, the top roof square and pyramidal with a small golden phoenix on the peak. Around the pond, further away, several other low halls and long covered corridors are only suggested as pale, simplified flat silhouettes of roofs dissolving into a thick band of spring haze and trees, with no windows, no doors and no clear detail, clearly much fainter than the pavilion. A rounded forested hill behind, pale in the haze. The spring is shown only by soft fresh green leaves: no cherry blossoms, no flowering trees. No people. No plaques or name boards on any building.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792410315,
+        "request_id": "req_0cbd2cdc09fd4e0aa313d6746aed58cd"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 594,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 594
+        },
+        "output_tokens": 1372,
+        "total_tokens": 1966,
+        "output_tokens_details": {
+          "image_tokens": 1372,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.04413,
+      "generated_at": "2026-10-19T20:45:17+09:00",
+      "elapsed_sec": 32.1,
+      "adopted": true
+    },
+    {
+      "file": "gen/bg06.png",
+      "bgId": "bg06",
+      "endpoint": "images.edit",
+      "input_image": "gen/bg01.png",
+      "blocks": [
+        "style",
+        "bg06"
+      ],
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1536x1024",
+      "quality": "high",
+      "background": "opaque",
+      "output_format": "png",
+      "prompt": "Picture-book illustration with a woodblock-print feel, a wide landscape background painting. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours of trees, rocks and water. Depth is shown with layered planes: near, middle and far, with the far planes paler and cooler, and light shown as flat shapes of brighter color; reflections on the water are drawn as flat broken bands. Restrained palette built on deep indigo (#1E3A5F), moss green (#4F6B42), warm off-white (#FAF6EE) and muted vermilion (#A8432F) only in small accents, plus natural greens, browns and the gold of the building where described. Not photorealistic, not 3D rendered, not anime style. Absolutely no text, no letters, no characters of any script, no signboard, no logo, no signature, no watermark, no red seal stamp, no frame or border.\n\nEdit the provided image. Keep the same pavilion exactly as it is (plain first story, gold second and third stories, dark wooden shingle roofs, phoenix on top), the same pond, the same viewpoint and the same flat woodblock picture-book style. Change the time to a calm evening in the seventeenth century: warm low light from the left, the sky turning soft orange and indigo. On the wooded slope behind and to the right of the pavilion, partly hidden among trees, add one very small, simple rustic tea hut with a plain roof and an earthen-colored wall, modest and quiet. No people, no text, no lanterns. Keep the bottom third of the picture calm and darker.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792410315,
+        "request_id": "req_827920c38ee242118dbe49e7f1f5874b"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 1940,
+        "input_tokens_details": {
+          "image_tokens": 1536,
+          "text_tokens": 404
+        },
+        "output_tokens": 1372,
+        "total_tokens": 3312,
+        "output_tokens_details": {
+          "image_tokens": 1372,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.05547,
+      "generated_at": "2026-10-19T20:45:18+09:00",
+      "elapsed_sec": 32.0,
+      "adopted": true
+    },
+    {
+      "file": "gen/bg07.png",
+      "bgId": "bg07",
+      "endpoint": "images.edit",
+      "input_image": "gen/bg01.png",
+      "blocks": [
+        "style",
+        "bg07"
+      ],
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1536x1024",
+      "quality": "high",
+      "background": "opaque",
+      "output_format": "png",
+      "prompt": "Picture-book illustration with a woodblock-print feel, a wide landscape background painting. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours of trees, rocks and water. Depth is shown with layered planes: near, middle and far, with the far planes paler and cooler, and light shown as flat shapes of brighter color; reflections on the water are drawn as flat broken bands. Restrained palette built on deep indigo (#1E3A5F), moss green (#4F6B42), warm off-white (#FAF6EE) and muted vermilion (#A8432F) only in small accents, plus natural greens, browns and the gold of the building where described. Not photorealistic, not 3D rendered, not anime style. Absolutely no text, no letters, no characters of any script, no signboard, no logo, no signature, no watermark, no red seal stamp, no frame or border.\n\nEdit the provided image. Keep the same pond, the same viewpoint and the same flat woodblock picture-book style. Change the time to a plain daytime around the year 1905: the pavilion is surrounded by a traditional scaffolding of tied wooden poles and planks during careful repair work, the pavilion's shape still recognizable behind the scaffolding. In the lower left foreground, at the edge of the picture, add the corner of a simple wooden work table with a large sheet of paper showing a precise architectural line drawing of the pavilion's elevation (only lines, no letters, no numbers), a wooden ruler and a small ink stone. No people. No text anywhere. The bottom third stays darker and calm apart from that table corner.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792410317,
+        "request_id": "req_0333f1cebcc6428db2c48017d4c894f7"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 1943,
+        "input_tokens_details": {
+          "image_tokens": 1536,
+          "text_tokens": 407
+        },
+        "output_tokens": 1372,
+        "total_tokens": 3315,
+        "output_tokens_details": {
+          "image_tokens": 1372,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.05548,
+      "generated_at": "2026-10-19T20:45:20+09:00",
+      "elapsed_sec": 32.6,
+      "adopted": true
+    },
+    {
+      "file": "gen/bg09.png",
+      "bgId": "bg09",
+      "endpoint": "images.edit",
+      "input_image": "gen/bg01.png",
+      "blocks": [
+        "style",
+        "bg09"
+      ],
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1536x1024",
+      "quality": "high",
+      "background": "opaque",
+      "output_format": "png",
+      "prompt": "Picture-book illustration with a woodblock-print feel, a wide landscape background painting. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours of trees, rocks and water. Depth is shown with layered planes: near, middle and far, with the far planes paler and cooler, and light shown as flat shapes of brighter color; reflections on the water are drawn as flat broken bands. Restrained palette built on deep indigo (#1E3A5F), moss green (#4F6B42), warm off-white (#FAF6EE) and muted vermilion (#A8432F) only in small accents, plus natural greens, browns and the gold of the building where described. Not photorealistic, not 3D rendered, not anime style. Absolutely no text, no letters, no characters of any script, no signboard, no logo, no signature, no watermark, no red seal stamp, no frame or border.\n\nEdit the provided image. Keep the same pavilion shape exactly (plain unpainted first story, gold second and third stories, dark wooden shingle roofs, square pyramidal top roof with a phoenix), the same pond, the same viewpoint and the same flat woodblock picture-book style. Change the light to a clear, bright midday under a deep blue sky with small white clouds. The gold of the second and third stories is fresh and bright, the wood of the first story looks new and pale. The season is not clearly marked: plain green trees, no blossoms, no autumn colors, no snow. No people, no text. Keep the bottom third of the picture calm and darker.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792410317,
+        "request_id": "req_cb5a980f9e974472895df2ef4a662378"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 1934,
+        "input_tokens_details": {
+          "image_tokens": 1536,
+          "text_tokens": 398
+        },
+        "output_tokens": 1372,
+        "total_tokens": 3306,
+        "output_tokens_details": {
+          "image_tokens": 1372,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.05544,
+      "generated_at": "2026-10-19T20:45:20+09:00",
+      "elapsed_sec": 31.1,
+      "adopted": true
+    },
+    {
+      "file": "gen/bg08.png",
+      "bgId": "bg08",
+      "endpoint": "images.edit",
+      "input_image": "gen/bg01.png",
+      "blocks": [
+        "style",
+        "bg08"
+      ],
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1536x1024",
+      "quality": "high",
+      "background": "opaque",
+      "output_format": "png",
+      "prompt": "Picture-book illustration with a woodblock-print feel, a wide landscape background painting. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours of trees, rocks and water. Depth is shown with layered planes: near, middle and far, with the far planes paler and cooler, and light shown as flat shapes of brighter color; reflections on the water are drawn as flat broken bands. Restrained palette built on deep indigo (#1E3A5F), moss green (#4F6B42), warm off-white (#FAF6EE) and muted vermilion (#A8432F) only in small accents, plus natural greens, browns and the gold of the building where described. Not photorealistic, not 3D rendered, not anime style. Absolutely no text, no letters, no characters of any script, no signboard, no logo, no signature, no watermark, no red seal stamp, no frame or border.\n\nEdit the provided image. Keep the same pond, the same islands, the same trees and hill and the same viewpoint and the same flat woodblock picture-book style. Change the time to the deep blue darkness just before dawn on a summer night. Remove the pavilion completely: where it stood, there is only a thick, soft bank of pale mist and darkness among the trees, so nothing of the building can be seen. The pond is still and dark, with only a faint pale band of the coming dawn reflected on it. Quiet and solemn. No fire, no flames, no glow of fire, no smoke, no ruins, no people, no text.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792410321,
+        "request_id": "req_4497672225a84a1dbe4c5a7da79b0339"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 1928,
+        "input_tokens_details": {
+          "image_tokens": 1536,
+          "text_tokens": 392
+        },
+        "output_tokens": 1372,
+        "total_tokens": 3300,
+        "output_tokens_details": {
+          "image_tokens": 1372,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.05541,
+      "generated_at": "2026-10-19T20:45:24+09:00",
+      "elapsed_sec": 35.6,
+      "adopted": true
+    },
+    {
+      "file": "gen/bg10.png",
+      "bgId": "bg10",
+      "endpoint": "images.edit",
+      "input_image": "gen/bg01.png",
+      "blocks": [
+        "style",
+        "bg10"
+      ],
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1536x1024",
+      "quality": "high",
+      "background": "opaque",
+      "output_format": "png",
+      "prompt": "Picture-book illustration with a woodblock-print feel, a wide landscape background painting. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours of trees, rocks and water. Depth is shown with layered planes: near, middle and far, with the far planes paler and cooler, and light shown as flat shapes of brighter color; reflections on the water are drawn as flat broken bands. Restrained palette built on deep indigo (#1E3A5F), moss green (#4F6B42), warm off-white (#FAF6EE) and muted vermilion (#A8432F) only in small accents, plus natural greens, browns and the gold of the building where described. Not photorealistic, not 3D rendered, not anime style. Absolutely no text, no letters, no characters of any script, no signboard, no logo, no signature, no watermark, no red seal stamp, no frame or border.\n\nEdit the provided image. Keep the same pavilion exactly (plain first story, gold second and third stories, dark wooden shingle roofs, phoenix on top), the same pond, the same viewpoint and the same flat woodblock picture-book style. Change the time to late afternoon sunset: warm low sunlight from the left lights the gold stories in a deep warm glow, the sky shades from soft orange near the horizon to indigo above, the trees turn darker. The reflection of the golden pavilion on the still pond is clear and complete. No people, no text. Keep the bottom third of the picture calm and darker, the near water in deep indigo.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792410321,
+        "request_id": "req_2899c0f744144bc89040dd67037e3462"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 1927,
+        "input_tokens_details": {
+          "image_tokens": 1536,
+          "text_tokens": 391
+        },
+        "output_tokens": 1372,
+        "total_tokens": 3299,
+        "output_tokens_details": {
+          "image_tokens": 1372,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.0554,
+      "generated_at": "2026-10-19T20:45:25+09:00",
+      "elapsed_sec": 34.5,
+      "adopted": true
+    },
+    {
+      "file": "gen/bg03.png",
+      "bgId": "bg03",
+      "endpoint": "images.edit",
+      "input_image": "gen/bg02.png",
+      "blocks": [
+        "style",
+        "bg03"
+      ],
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1536x1024",
+      "quality": "high",
+      "background": "opaque",
+      "output_format": "png",
+      "prompt": "Picture-book illustration with a woodblock-print feel, a wide landscape background painting. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours of trees, rocks and water. Depth is shown with layered planes: near, middle and far, with the far planes paler and cooler, and light shown as flat shapes of brighter color; reflections on the water are drawn as flat broken bands. Restrained palette built on deep indigo (#1E3A5F), moss green (#4F6B42), warm off-white (#FAF6EE) and muted vermilion (#A8432F) only in small accents, plus natural greens, browns and the gold of the building where described. Not photorealistic, not 3D rendered, not anime style. Absolutely no text, no letters, no characters of any script, no signboard, no logo, no signature, no watermark, no red seal stamp, no frame or border.\n\nEdit the provided image. Keep the same estate, the same pavilion, the same pond, the same viewpoint, the same flat woodblock picture-book style and colors. Change it into a festive spring day: along the far shore and between the distant halls, add long plain cloth curtains in muted indigo and off-white stretched on poles, and a few tiny distant lines of people in court robes, so small that no faces or individual features can be seen. No palanquin in the foreground, no single person emphasized, no cherry blossoms, no text, no crests or symbols on the curtains. Keep the bottom third of the picture calm and darker.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792410370,
+        "request_id": "req_2785218c13d340129e50b110199fb0fa"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 1927,
+        "input_tokens_details": {
+          "image_tokens": 1536,
+          "text_tokens": 391
+        },
+        "output_tokens": 1372,
+        "total_tokens": 3299,
+        "output_tokens_details": {
+          "image_tokens": 1372,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.0554,
+      "generated_at": "2026-10-19T20:46:13+09:00",
+      "elapsed_sec": 32.0,
+      "adopted": true
+    },
+    {
+      "file": "gen/bg05.png",
+      "bgId": "bg05",
+      "endpoint": "images.edit",
+      "input_image": "gen/bg02.png",
+      "blocks": [
+        "style",
+        "bg05"
+      ],
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1536x1024",
+      "quality": "high",
+      "background": "opaque",
+      "output_format": "png",
+      "prompt": "Picture-book illustration with a woodblock-print feel, a wide landscape background painting. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours of trees, rocks and water. Depth is shown with layered planes: near, middle and far, with the far planes paler and cooler, and light shown as flat shapes of brighter color; reflections on the water are drawn as flat broken bands. Restrained palette built on deep indigo (#1E3A5F), moss green (#4F6B42), warm off-white (#FAF6EE) and muted vermilion (#A8432F) only in small accents, plus natural greens, browns and the gold of the building where described. Not photorealistic, not 3D rendered, not anime style. Absolutely no text, no letters, no characters of any script, no signboard, no logo, no signature, no watermark, no red seal stamp, no frame or border.\n\nEdit the provided image. Keep the same pond, the same three-story pavilion with the plain first story and gold second and third stories, the same viewpoint and the same flat woodblock picture-book style. The pavilion still stands untouched. Change the rest of the estate into a desolate, neglected state under a cloudy sky: where the other halls stood there are now only blackened foundation stones, a few broken charred posts and overgrown tall grass, softened and partly hidden by haze in the distance; a single faint thin trail of old smoke far away. No fire, no flames, no soldiers, no weapons, no people, no text. Keep the bottom third of the picture calm and darker.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792410373,
+        "request_id": "req_ba9dc71bc7fa4115be88ad4966e615c3"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 1936,
+        "input_tokens_details": {
+          "image_tokens": 1536,
+          "text_tokens": 400
+        },
+        "output_tokens": 1372,
+        "total_tokens": 3308,
+        "output_tokens_details": {
+          "image_tokens": 1372,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.05545,
+      "generated_at": "2026-10-19T20:46:16+09:00",
+      "elapsed_sec": 32.6,
+      "adopted": true
+    },
+    {
+      "file": "gen/bg04.png",
+      "bgId": "bg04",
+      "endpoint": "images.edit",
+      "input_image": "gen/bg02.png",
+      "blocks": [
+        "style",
+        "bg04"
+      ],
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1536x1024",
+      "quality": "high",
+      "background": "opaque",
+      "output_format": "png",
+      "prompt": "Picture-book illustration with a woodblock-print feel, a wide landscape background painting. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours of trees, rocks and water. Depth is shown with layered planes: near, middle and far, with the far planes paler and cooler, and light shown as flat shapes of brighter color; reflections on the water are drawn as flat broken bands. Restrained palette built on deep indigo (#1E3A5F), moss green (#4F6B42), warm off-white (#FAF6EE) and muted vermilion (#A8432F) only in small accents, plus natural greens, browns and the gold of the building where described. Not photorealistic, not 3D rendered, not anime style. Absolutely no text, no letters, no characters of any script, no signboard, no logo, no signature, no watermark, no red seal stamp, no frame or border.\n\nEdit the provided image. Keep the same pond, the same three-story pavilion with the plain first story and gold second and third stories, the same viewpoint and the same flat woodblock picture-book style. Change the weather to a quiet overcast day with a grey, even sky and muted colors. Remove most of the other halls and corridors around the pond, leaving only open ground, a few stone foundations half covered by grass, and trees, so the estate feels emptier and quieter. Add one very small distant figure of a Buddhist monk in a dark robe seen from behind on the far shore, no face visible. No text. Keep the bottom third of the picture calm and darker.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792410374,
+        "request_id": "req_65c8bed51d8e4171b172268910538896"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 1933,
+        "input_tokens_details": {
+          "image_tokens": 1536,
+          "text_tokens": 397
+        },
+        "output_tokens": 1372,
+        "total_tokens": 3305,
+        "output_tokens_details": {
+          "image_tokens": 1372,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.05543,
+      "generated_at": "2026-10-19T20:46:17+09:00",
+      "elapsed_sec": 34.8,
+      "adopted": true
+    }
+  ]
+}

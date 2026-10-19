@@ -1,0 +1,56 @@
+{
+  "ym_bust": {
+    "alpha_bbox": [
+      0,
+      41,
+      1024,
+      1024
+    ]
+  },
+  "ym_expr_normal": {
+    "alpha_bbox": [
+      0,
+      40,
+      1024,
+      1024
+    ],
+    "bbox_delta_vs_bust": [
+      0,
+      -1,
+      0,
+      0
+    ],
+    "mean_abs_diff_rgb_vs_bust": [
+      4.18,
+      4.01,
+      4.31
+    ]
+  },
+  "ym_expr_smile": {
+    "alpha_bbox": [
+      0,
+      40,
+      1024,
+      1024
+    ],
+    "bbox_delta_vs_bust": [
+      0,
+      -1,
+      0,
+      0
+    ],
+    "mean_abs_diff_rgb_vs_bust": [
+      4.38,
+      4.13,
+      4.25
+    ]
+  },
+  "annaiyaku_an3_expr_normal": {
+    "alpha_bbox": [
+      75,
+      44,
+      998,
+      1024
+    ]
+  }
+}
