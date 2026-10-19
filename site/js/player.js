@@ -161,7 +161,12 @@ export class Player extends EventTarget {
     if (this.audio.dataset.src !== src) { this.audio.dataset.src = src; this.audio.src = src; }
     this.audio.volume = this.volume;
     this.audio.playbackRate = this.speed;
-    try { this.audio.currentTime = this.t; } catch (e) { /* 読み込み前は無視 */ }
+    // 位置がずれているときだけ動かす（一時停止→再開で同じ位置を入れ直さない。
+    // 範囲指定の読み込みに応じないサーバーでは、位置を入れると会話の頭に戻ってしまうため）
+    const cur = this.audio.currentTime || 0;
+    if (Math.abs(cur - this.t) > 0.25) {
+      try { this.audio.currentTime = this.t; } catch (e) { /* 読み込み前は無視 */ }
+    }
     const p = this.audio.play();
     if (p && p.catch) {
       p.catch(() => {
