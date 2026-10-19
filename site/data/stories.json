@@ -1,0 +1,61 @@
+{
+  "note": "（仮）画面の土台用の仮データ。題・問い・出典・年は依頼01（史実調査）と依頼05（台本）で差し替える",
+  "regions": [
+    { "id": "hokkaido", "name": "北海道", "prefs": ["北海道"] },
+    { "id": "tohoku", "name": "東北", "prefs": ["青森県", "岩手県", "宮城県", "秋田県", "山形県", "福島県"] },
+    { "id": "kanto", "name": "関東", "prefs": ["茨城県", "栃木県", "群馬県", "埼玉県", "千葉県", "東京都", "神奈川県"] },
+    { "id": "chubu", "name": "中部", "prefs": ["新潟県", "富山県", "石川県", "福井県", "山梨県", "長野県", "岐阜県", "静岡県", "愛知県"] },
+    { "id": "kinki", "name": "近畿", "prefs": ["三重県", "滋賀県", "京都府", "大阪府", "兵庫県", "奈良県", "和歌山県"] },
+    { "id": "chugoku", "name": "中国", "prefs": ["鳥取県", "島根県", "岡山県", "広島県", "山口県"] },
+    { "id": "shikoku", "name": "四国", "prefs": ["徳島県", "香川県", "愛媛県", "高知県"] },
+    { "id": "kyushu", "name": "九州・沖縄", "prefs": ["福岡県", "佐賀県", "長崎県", "熊本県", "大分県", "宮崎県", "鹿児島県", "沖縄県"] }
+  ],
+  "eras": [
+    { "id": "jomon", "name": "縄文" },
+    { "id": "yayoi", "name": "弥生" },
+    { "id": "kofun", "name": "古墳" },
+    { "id": "asuka", "name": "飛鳥" },
+    { "id": "nara", "name": "奈良" },
+    { "id": "heian", "name": "平安" },
+    { "id": "kamakura", "name": "鎌倉" },
+    { "id": "muromachi", "name": "室町" },
+    { "id": "azuchimomoyama", "name": "安土桃山" },
+    { "id": "edo", "name": "江戸" },
+    { "id": "meiji", "name": "明治" },
+    { "id": "taisho", "name": "大正" },
+    { "id": "showa", "name": "昭和" },
+    { "id": "heisei", "name": "平成" },
+    { "id": "reiwa", "name": "令和" }
+  ],
+  "stories": [
+    {
+      "id": "kinkakuji",
+      "title": "（仮）池に映る金色",
+      "place": "金閣寺（鹿苑寺）",
+      "placeShort": "金閣寺",
+      "area": "京都・北山",
+      "region": "kinki",
+      "pref": "京都府",
+      "era": "muromachi",
+      "year": 1397,
+      "yearLabel": "（仮）1397年ごろ",
+      "people": ["yoshimitsu", "guide"],
+      "durationMin": 2,
+      "language": "日本語",
+      "onSite": "どこでも聴ける",
+      "question": "（仮）なぜ、この建物は金色なのだろう？",
+      "finale": { "speaker": "yoshimitsu", "quote": "（仮）また、この池のほとりで会おう。" },
+      "sources": [
+        { "label": "（仮）出典は依頼01の史実調査の結果で差し替える", "url": null }
+      ],
+      "assets": { "script": "仮", "audio": "なし", "art": "なし" },
+      "basis": "shiryo",
+      "theme": { "sky": "#CFDCE3", "sky2": "#F1E3C6", "hill": "#6F8A5E", "hill2": "#4F6B42", "accent": "#D9B25A", "water": "#5D7C8C", "water2": "#3E5A6B" }
+    }
+  ],
+  "planned": [
+    { "id": "ginkakuji", "place": "（仮）銀閣寺（慈照寺）", "region": "kinki", "pref": "京都府" },
+    { "id": "byodoin", "place": "（仮）平等院", "region": "kinki", "pref": "京都府" },
+    { "id": "nijojo", "place": "（仮）二条城", "region": "kinki", "pref": "京都府" }
+  ]
+}

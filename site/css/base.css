@@ -1,0 +1,240 @@
+/* 文明の軌跡 v2 土台と部品 */
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--c-bg);
+  color: var(--c-text);
+  font-family: var(--font-ui);
+  font-size: var(--fs-body);
+  line-height: var(--lh-body);
+  overflow-x: hidden;
+}
+img, svg { display: block; max-width: 100%; }
+button, input, select { font: inherit; color: inherit; }
+a { color: var(--c-ai); }
+h1, h2, h3 { line-height: var(--lh-tight); margin: 0; font-weight: 700; }
+p { margin: 0; }
+ul, ol { margin: 0; padding: 0; list-style: none; }
+.mincho { font-family: var(--font-mincho); font-weight: 700; letter-spacing: .04em; }
+.muted { color: var(--c-muted); }
+.small { font-size: var(--fs-small); line-height: 1.6; }
+.visually-hidden {
+  position: absolute !important; width: 1px; height: 1px; overflow: hidden;
+  clip: rect(0 0 0 0); white-space: nowrap;
+}
+.skip {
+  position: absolute; left: var(--sp-2); top: -100px; z-index: 100;
+  background: var(--c-ai); color: var(--c-on-ai); padding: var(--sp-2) var(--sp-4); border-radius: var(--radius-sm);
+}
+.skip:focus { top: var(--sp-2); }
+:focus-visible { outline: 3px solid var(--c-ai); outline-offset: 2px; }
+
+/* ---------- ボタン ---------- */
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: var(--sp-2);
+  min-height: var(--hit); min-width: var(--hit);
+  padding: var(--sp-2) var(--sp-5);
+  border-radius: var(--radius-pill);
+  border: 2px solid transparent;
+  font-weight: 700; font-size: var(--fs-body); line-height: 1.4;
+  text-decoration: none; cursor: pointer;
+  transition: transform var(--dur) var(--ease), background-color var(--dur) var(--ease);
+}
+.btn:active { transform: scale(.98); }
+.btn[disabled] { opacity: .5; cursor: not-allowed; }
+/* 主ボタン：画面に1つだけ */
+.btn-primary { background: var(--c-ai); color: var(--c-on-ai); box-shadow: var(--shadow-1); }
+.btn-primary:hover { background: #18304F; }
+.btn-block { display: flex; width: 100%; }
+/* 副ボタン */
+.btn-secondary { background: var(--c-surface); color: var(--c-ai); border-color: var(--c-ai); }
+.btn-secondary:hover { background: var(--c-ai-wash); }
+.btn-text { background: transparent; color: var(--c-ai); padding-inline: var(--sp-3); text-decoration: underline; text-underline-offset: 4px; }
+
+.iconbtn {
+  display: inline-grid; place-items: center;
+  width: var(--hit); height: var(--hit);
+  border-radius: var(--radius-pill); border: 0; background: transparent; color: inherit; cursor: pointer;
+  text-decoration: none;
+}
+.iconbtn svg { width: 26px; height: 26px; }
+
+/* ---------- カード ---------- */
+.card {
+  background: var(--c-surface);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-1);
+  overflow: hidden;
+}
+.card-link { display: block; color: inherit; text-decoration: none; transition: transform var(--dur) var(--ease); }
+.card-link:hover { transform: translateY(-2px); }
+.card__body { padding: var(--sp-4); display: grid; gap: var(--sp-2); }
+.card__title { font-size: var(--fs-h3); }
+.card__meta { display: flex; flex-wrap: wrap; gap: var(--sp-1) var(--sp-3); color: var(--c-muted); font-size: var(--fs-small); }
+
+/* ---------- 進み具合の棒 ---------- */
+.bar {
+  position: relative; height: 6px; border-radius: var(--radius-pill);
+  background: var(--c-line); overflow: hidden;
+}
+.bar > span {
+  position: absolute; inset: 0 auto 0 0; width: var(--value, 0%);
+  background: var(--c-ai); border-radius: inherit;
+  transition: width var(--dur) var(--ease);
+}
+.bar--reward > span { background: var(--c-reward); }
+
+/* ---------- 印（苔＝現地で訪れた／藍＝聴いた） ---------- */
+.mark {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: var(--fs-small); font-weight: 700; line-height: 1.4;
+  padding: 2px 10px; border-radius: var(--radius-pill); border: 2px solid currentColor;
+}
+.mark::before { content: ""; width: 10px; height: 10px; border-radius: 50%; background: currentColor; }
+.mark--koke { color: var(--c-koke); background: var(--c-koke-wash); }
+.mark--ai { color: var(--c-ai); background: var(--c-ai-wash); }
+.mark--off { color: var(--c-muted); background: transparent; border-style: dashed; }
+.mark--off::before { background: transparent; border: 2px solid currentColor; }
+
+/* 史料にもとづく／解釈／創作 の区別（色だけに頼らず形も変える） */
+.basis {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: var(--fs-small); line-height: 1.4; font-weight: 700;
+  padding: 2px 8px; border-radius: 4px; border: 1px solid currentColor; background: var(--c-surface);
+}
+.basis::before { content: ""; width: 9px; height: 9px; background: currentColor; }
+.basis--shiryo { color: var(--c-ai); }
+.basis--kaishaku { color: var(--c-koke); }
+.basis--kaishaku::before { transform: rotate(45deg); }
+.basis--sousaku { color: var(--c-shu); }
+.basis--sousaku::before { border-radius: 50%; }
+
+/* ---------- 名前札・会話欄 ---------- */
+.nametag {
+  display: inline-block;
+  font-weight: 700; font-size: var(--fs-body); line-height: 1.4;
+  color: var(--c-nametag); background: var(--c-stage);
+  border: 2px solid var(--c-nametag);
+  padding: 4px 16px; border-radius: var(--radius-sm);
+  letter-spacing: .06em;
+}
+.stage-box {
+  position: relative;
+  background: var(--c-stage); color: var(--c-on-stage);
+  border-radius: var(--radius);
+  padding: var(--sp-6) var(--sp-5) var(--sp-5);
+  box-shadow: var(--shadow-2);
+}
+.stage-box .nametag { position: absolute; top: 0; left: var(--sp-4); transform: translateY(-55%); }
+.stage-box__text { font-size: calc(var(--fs-body) * var(--sub-scale, 1.1)); line-height: var(--lh-body); min-height: calc(3 * var(--lh-body) * 1em); }
+
+/* ---------- 切り替え（セグメント） ---------- */
+.seg {
+  display: grid; grid-auto-flow: column; grid-auto-columns: minmax(0, 1fr);
+  background: var(--c-surface); border: 2px solid var(--c-ai); border-radius: var(--radius-pill);
+  padding: 3px; gap: 3px;
+}
+.seg button {
+  min-height: 44px; border: 0; border-radius: var(--radius-pill); background: transparent;
+  color: var(--c-ai); font-weight: 700; cursor: pointer; padding: 4px 6px; line-height: 1.3;
+}
+.seg button[aria-pressed="true"], .seg button[aria-selected="true"] { background: var(--c-ai); color: var(--c-on-ai); }
+
+/* ---------- 下部タブバー ---------- */
+.tabbar {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 40;
+  height: calc(var(--tabbar-h) + env(safe-area-inset-bottom));
+  padding-bottom: env(safe-area-inset-bottom);
+  background: var(--c-surface); border-top: 1px solid var(--c-line);
+  display: grid; grid-template-columns: repeat(4, 1fr);
+}
+.tabbar a {
+  display: grid; place-items: center; align-content: center; gap: 2px;
+  min-height: var(--hit); color: var(--c-muted); text-decoration: none;
+  font-size: var(--fs-small); font-weight: 700; line-height: 1.2;
+}
+.tabbar a svg { width: 24px; height: 24px; }
+.tabbar a[aria-current="page"] { color: var(--c-ai); }
+.tabbar a[aria-current="page"] svg { stroke-width: 2.4; }
+
+/* ---------- ミニプレーヤー ---------- */
+.mini {
+  position: fixed; left: 0; right: 0; z-index: 39;
+  bottom: calc(var(--tabbar-h) + env(safe-area-inset-bottom));
+  height: var(--mini-h);
+  display: grid; grid-template-columns: 1fr auto; align-items: center; gap: var(--sp-2);
+  padding: 0 var(--sp-2) 0 var(--gutter);
+  background: var(--c-stage); color: var(--c-on-stage);
+}
+.mini[hidden] { display: none; }
+.mini__open { display: grid; gap: 2px; color: inherit; text-decoration: none; min-height: var(--hit); align-content: center; min-width: 0; }
+.mini__title { font-weight: 700; font-size: var(--fs-small); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.mini__sub { font-size: var(--fs-small); color: var(--c-nametag); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.mini .bar { position: absolute; left: 0; right: 0; top: 0; height: 3px; border-radius: 0; background: rgba(245, 241, 232, .2); }
+.mini .bar > span { background: var(--c-nametag); }
+.mini .iconbtn { color: var(--c-on-stage); }
+
+/* ---------- 下から出る板（ログ・その他） ---------- */
+.sheet-backdrop {
+  position: fixed; inset: 0; z-index: 60; background: rgba(20, 36, 59, .55);
+  display: grid; align-items: end; justify-items: center;
+  animation: fade var(--dur) var(--ease);
+}
+.sheet {
+  width: min(100%, 720px); max-height: 80vh; overflow: auto;
+  background: var(--c-bg); color: var(--c-text);
+  border-radius: var(--radius) var(--radius) 0 0; padding: var(--sp-4) var(--gutter) calc(var(--sp-5) + env(safe-area-inset-bottom));
+  animation: rise var(--dur) var(--ease);
+}
+.sheet__head { display: flex; align-items: center; justify-content: space-between; gap: var(--sp-2); margin-bottom: var(--sp-3); }
+.sheet__head h2 { font-size: var(--fs-h3); }
+
+/* ---------- 仮の画像枠 ---------- */
+.ph-scene {
+  position: relative; overflow: hidden;
+  background:
+    linear-gradient(180deg, transparent 58%, var(--scene-water, #5D7C8C) 58%, var(--scene-water2, #3E5A6B) 100%),
+    radial-gradient(ellipse 22% 14% at 50% 56%, var(--scene-accent, #D9B25A) 0 60%, transparent 62%),
+    linear-gradient(180deg, var(--scene-sky, #D7E2E6) 0%, var(--scene-sky2, #F2E6CF) 45%, var(--scene-hill, #6F8A5E) 46%, var(--scene-hill2, #4F6B42) 58%);
+}
+.ph-scene__label {
+  position: absolute; left: var(--sp-2); top: var(--sp-2); z-index: 1;
+  font-size: 14px; line-height: 1.4; padding: 2px 8px; border-radius: 4px;
+  background: rgba(255, 255, 255, .85); color: var(--c-text);
+}
+.ph-person {
+  position: relative; display: grid; place-items: end center; overflow: hidden;
+  background: linear-gradient(180deg, var(--person-bg, #EFE7D6), var(--person-bg2, #E2D6BE));
+  border: 2px dashed var(--c-muted);
+  border-radius: var(--radius);
+}
+.ph-person::before { /* 頭 */
+  content: ""; position: absolute; left: 50%; top: 22%; width: 34%; aspect-ratio: 1; transform: translateX(-50%);
+  border-radius: 50%; background: var(--person-fg, #B9AE98);
+}
+.ph-person::after { /* 胸 */
+  content: ""; position: absolute; left: 50%; bottom: -10%; width: 76%; height: 42%; transform: translateX(-50%);
+  border-radius: 50% 50% 0 0; background: var(--person-fg, #B9AE98);
+}
+.ph-person__label {
+  position: relative; z-index: 1; margin-bottom: 6px;
+  font-size: 14px; line-height: 1.4; padding: 0 6px; border-radius: 4px; background: rgba(255, 255, 255, .9); color: var(--c-text);
+}
+.silhouette { --person-bg: var(--c-silhouette); --person-bg2: var(--c-silhouette); --person-fg: #A79F90; border-style: solid; border-color: transparent; }
+
+/* ---------- 動き ---------- */
+@keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+@keyframes rise { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: none; } }
+@keyframes appear { from { opacity: 0; transform: scale(.98); } to { opacity: 1; transform: none; } }
+.appear { animation: appear var(--dur) var(--ease) both; }
+
+@media (prefers-reduced-motion: reduce) {
+  html:not([data-motion="full"]) *, html:not([data-motion="full"]) *::before, html:not([data-motion="full"]) *::after {
+    animation-duration: 0ms !important; animation-delay: 0ms !important; transition-duration: 0ms !important;
+  }
+}
+html[data-motion="reduce"] *, html[data-motion="reduce"] *::before, html[data-motion="reduce"] *::after {
+  animation-duration: 0ms !important; animation-delay: 0ms !important; transition-duration: 0ms !important;
+}
+.mark, .basis { white-space: nowrap; }

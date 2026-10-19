@@ -1,0 +1,92 @@
+[
+  {
+    "id": "k001",
+    "speaker": "guide",
+    "expression": "smile",
+    "text": "（仮）ここは京都の北のはずれ、北山です。池の向こうに、金色の建物が見えてきましたね。",
+    "reading": "（かり）ここは きょうとの きたの はずれ、きたやまです。いけの むこうに、きんいろの たてものが みえて きましたね。",
+    "direction": "落ち着いて、景色を指さすように",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k002",
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "（仮）金閣と呼ばれていますが、お寺の正式な名前は鹿苑寺といいます。",
+    "reading": "（かり）きんかくと よばれて いますが、おてらの せいしきな なまえは ろくおんじ と いいます。",
+    "direction": "鹿苑寺を少しゆっくり",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k003",
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "（仮）この場所を山荘として整えたのは、室町幕府の三代将軍、足利義満です。",
+    "reading": "（かり）この ばしょを さんそうと して ととのえたのは、むろまちばくふの さんだいしょうぐん、あしかが よしみつ です。",
+    "direction": "人物を紹介する間をとる",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k004",
+    "speaker": "yoshimitsu",
+    "expression": "calm",
+    "text": "（仮）よく来たな。池に映る姿も、ゆっくり見ていくがよい。",
+    "reading": "（かり）よく きたな。いけに うつる すがたも、ゆっくり みて いくが よい。",
+    "direction": "低く、ゆったりと。威張らない",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k005",
+    "speaker": "guide",
+    "expression": "normal",
+    "text": "（仮）義満が亡くなったあと、この山荘は禅のお寺になりました。",
+    "reading": "（かり）よしみつが なくなった あと、この さんそうは ぜんの おてらに なりました。",
+    "direction": "淡々と",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k006",
+    "speaker": "guide",
+    "expression": "serious",
+    "text": "（仮）いまの金閣は、昭和の時代に一度焼けて、そのあと建て直されたものです。",
+    "reading": "（かり）いまの きんかくは、しょうわの じだいに いちど やけて、その あと たてなおされた ものです。",
+    "direction": "少し声を落として",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k007",
+    "speaker": "yoshimitsu",
+    "expression": "calm",
+    "text": "（仮）形は変わっても、ここに込めた思いは残っておろう。",
+    "reading": "（かり）かたちは かわっても、ここに こめた おもいは のこって おろう。",
+    "direction": "遠くを見るように",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k008",
+    "speaker": "guide",
+    "expression": "smile",
+    "text": "（仮）この台本は画面を試すための仮の文です。本番の物語は、調べた史実と出典にもとづいて書き直します。",
+    "reading": "（かり）この だいほんは がめんを ためす ための かりの ぶんです。ほんばんの ものがたりは、しらべた しじつと しゅってんに もとづいて かきなおします。",
+    "direction": "ふつうに",
+    "audio": null,
+    "duration": null
+  },
+  {
+    "id": "k009",
+    "speaker": "guide",
+    "expression": "smile",
+    "text": "（仮）では最後に、ひとつ問いを残しておきますね。",
+    "reading": "（かり）では さいごに、ひとつ といを のこして おきますね。",
+    "direction": "やわらかく締める",
+    "audio": null,
+    "duration": null
+  }
+]

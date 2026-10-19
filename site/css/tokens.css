@@ -1,0 +1,77 @@
+/* 文明の軌跡 v2 デザイン部品の値（案A「和紙と藍」）
+   色の値は design-chousa-2026-10-19.md のとおり。ここ以外で色・文字・余白を直書きしない。 */
+:root {
+  /* 色 */
+  --c-bg: #FAF6EE;          /* 地色（和紙） */
+  --c-surface: #FFFFFF;     /* 面（カード） */
+  --c-text: #1F2430;        /* 本文 14.4:1 */
+  --c-muted: #5A5F6B;       /* 補助 5.9:1 */
+  --c-ai: #1E3A5F;          /* 主色 藍（白文字 11.5:1） */
+  --c-on-ai: #FFFFFF;
+  --c-shu: #A8432F;         /* 朱 5.6:1 */
+  --c-shu-bright: #C8553D;  /* 明るい朱：大きな文字か飾りのみ */
+  --c-koke: #4F6B42;        /* 苔＝現地で訪れた */
+  --c-stage: #14243B;       /* 再生画面の会話欄 */
+  --c-on-stage: #F5F1E8;    /* 会話欄の文字 13.8:1 */
+  --c-nametag: #E8C77A;     /* 名前札の金 9.6:1（会話欄の上） */
+  --c-reward: #B8862B;      /* 報酬の金：文字に使わない（図形・縁取りのみ） */
+
+  /* 補助の色（上の色から作った淡い面と線。文字色には使わない） */
+  --c-line: #E3DCCD;
+  --c-ai-wash: #E7ECF2;
+  --c-koke-wash: #E9EEE4;
+  --c-shu-wash: #F6E6E1;
+  --c-silhouette: #D9D2C3;
+
+  /* 文字 */
+  --font-ui: "BIZ UDPGothic", "BIZ UDPゴシック", "Hiragino Kaku Gothic ProN", "Yu Gothic", system-ui, sans-serif;
+  --font-mincho: "Shippori Mincho", "BIZ UDPMincho", "Hiragino Mincho ProN", "Yu Mincho", serif;
+  --text-scale: 1;                                  /* 設定「文字の大きさ」で 1 / 1.12 / 1.25 */
+  --fs-body: calc(18px * var(--text-scale));        /* 本文は18px以上 */
+  --fs-small: calc(16px * var(--text-scale));       /* 補助の短い語（印・数値）のみ */
+  --fs-h3: calc(20px * var(--text-scale));
+  --fs-h2: calc(24px * var(--text-scale));
+  --fs-h1: calc(32px * var(--text-scale));
+  --fs-display: calc(40px * var(--text-scale));
+  --lh-body: 1.8;
+  --lh-tight: 1.35;
+
+  /* 余白 */
+  --sp-1: 4px;
+  --sp-2: 8px;
+  --sp-3: 12px;
+  --sp-4: 16px;
+  --sp-5: 24px;
+  --sp-6: 32px;
+  --sp-7: 48px;
+  --gutter: 16px;
+
+  /* 角丸・影 */
+  --radius: 12px;
+  --radius-sm: 8px;
+  --radius-pill: 999px;
+  --shadow-1: 0 1px 2px rgba(31, 36, 48, .08), 0 2px 8px rgba(31, 36, 48, .06);
+  --shadow-2: 0 4px 16px rgba(31, 36, 48, .14);
+
+  /* 押せる範囲 */
+  --hit: 48px;
+
+  /* 動き（200〜300msのフェードと少しの拡大のみ） */
+  --dur: 240ms;
+  --dur-reward: 1100ms;     /* 記録の瞬間（0.5〜1.5秒） */
+  --ease: cubic-bezier(.2, .7, .2, 1);
+
+  /* 配置 */
+  --tabbar-h: 64px;
+  --mini-h: 64px;
+  --content-max: 960px;
+}
+
+html[data-text="l"] { --text-scale: 1.12; }
+html[data-text="xl"] { --text-scale: 1.25; }
+
+/* 動きを止める：端末の設定、または設定画面の「減らす」 */
+@media (prefers-reduced-motion: reduce) {
+  html:not([data-motion="full"]) { --dur: 0ms; --dur-reward: 0ms; }
+}
+html[data-motion="reduce"] { --dur: 0ms; --dur-reward: 0ms; }

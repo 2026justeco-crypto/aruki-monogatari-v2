@@ -1,0 +1,33 @@
+{
+  "note": "（仮）画面の土台用の仮データ。説明・顔・区別は依頼01・02・06で差し替える",
+  "people": [
+    {
+      "id": "yoshimitsu",
+      "name": "足利義満",
+      "reading": "あしかが よしみつ",
+      "born": 1358,
+      "died": 1408,
+      "desc": "（仮）室町幕府の三代将軍。北山に山荘を営んだ。",
+      "face": null,
+      "basis": "kaishaku",
+      "basisNote": "（仮）顔の絵は依頼06で決める。いまは仮の枠",
+      "historical": true,
+      "stories": ["kinkakuji"],
+      "colors": { "bg": "#E9E0CC", "bg2": "#D8C9A8", "fg": "#8C7A5C" }
+    },
+    {
+      "id": "guide",
+      "name": "案内役",
+      "reading": "あんないやく",
+      "born": null,
+      "died": null,
+      "desc": "架空の案内役。名前と姿は準備中（いまは仮の枠）。",
+      "face": null,
+      "basis": "sousaku",
+      "basisNote": "架空の人物",
+      "historical": false,
+      "stories": ["kinkakuji"],
+      "colors": { "bg": "#E3E8EE", "bg2": "#CBD5E0", "fg": "#6B7F96" }
+    }
+  ]
+}
