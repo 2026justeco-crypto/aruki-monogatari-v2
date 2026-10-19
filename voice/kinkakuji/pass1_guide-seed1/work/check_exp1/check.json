@@ -1,0 +1,531 @@
+[
+ {
+  "id": "k045_a",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\work\\exp\\k045_a.wav",
+  "text_display": "開山、つまり寺を開いた僧とされるのは、夢窓疎石です。",
+  "text_sent": "かいさん、つまり てらを ひらいた そう と される のは、むそうそせき です。",
+  "reading_ref": null,
+  "transcript": "解散、つまり、寺を開いた僧とされるのは、無僧組織です。",
+  "src_norm": "開山つまり寺を開いた僧とされるのはむそうそせきです",
+  "hyp_norm": "解散つまり寺を開いた僧とされるのは無僧組織です",
+  "diffs": [
+   "開山→解散",
+   "むそうそせき→無僧組織"
+  ],
+  "cer": 0.32,
+  "src_kana": "カイサンツマリテラオヒライタソートサレルノワムソーソセキデス",
+  "hyp_kana": "カイサンツマリテラオヒライタソートサレルノワムソーソシキデス",
+  "kana_diffs": [
+   "セ→シ"
+  ],
+  "kana_er": 0.033,
+  "total_sec": 6.16,
+  "voiced_sec": 6.01,
+  "chars": 23,
+  "sec_per_char": 0.261,
+  "silences_mid": [
+   {
+    "start": 0.65,
+    "end": 1.06,
+    "sec": 0.41,
+    "kind": "mid",
+    "after": "散、"
+   },
+   {
+    "start": 1.49,
+    "end": 2.08,
+    "sec": 0.59,
+    "kind": "mid",
+    "after": "まり、"
+   },
+   {
+    "start": 4.32,
+    "end": 4.81,
+    "sec": 0.49,
+    "kind": "mid",
+    "after": "のは、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.15,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "k045_b",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\work\\exp\\k045_b.wav",
+  "text_display": "開山、つまり寺を開いた僧とされるのは、夢窓疎石です。",
+  "text_sent": "かいさん、つまり てらを ひらいた そう と される のは、むそう そせき です。",
+  "reading_ref": null,
+  "transcript": "開山、つまり寺を開いた僧とされるのは、無僧祖跡です。",
+  "src_norm": "開山つまり寺を開いた僧とされるのはむそうそせきです",
+  "hyp_norm": "開山つまり寺を開いた僧とされるのは無僧祖跡です",
+  "diffs": [
+   "むそうそせき→無僧祖跡"
+  ],
+  "cer": 0.24,
+  "src_kana": "カイサンツマリテラオヒライタソートサレルノワムソーソセキデス",
+  "hyp_kana": "カイサンツマリテラオヒライタソートサレルノワムソーソセキデス",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.52,
+  "voiced_sec": 6.3,
+  "chars": 23,
+  "sec_per_char": 0.274,
+  "silences_mid": [
+   {
+    "start": 0.64,
+    "end": 1.06,
+    "sec": 0.42,
+    "kind": "mid",
+    "after": "山、"
+   },
+   {
+    "start": 1.49,
+    "end": 1.7,
+    "sec": 0.21,
+    "kind": "mid",
+    "after": "まり"
+   },
+   {
+    "start": 2.82,
+    "end": 3.09,
+    "sec": 0.27,
+    "kind": "mid",
+    "after": "いた"
+   },
+   {
+    "start": 4.26,
+    "end": 4.89,
+    "sec": 0.63,
+    "kind": "mid",
+    "after": "のは、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.2,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "k045_c",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\work\\exp\\k045_c.wav",
+  "text_display": "開山、つまり寺を開いた僧とされるのは、夢窓疎石です。",
+  "text_sent": "かいさん、つまり てらを ひらいた そう と される のは、ムソウソセキ です。",
+  "reading_ref": null,
+  "transcript": "開山、つまり寺を開いた僧とされるのは、無僧組織です。",
+  "src_norm": "開山つまり寺を開いた僧とされるのはむそうそせきです",
+  "hyp_norm": "開山つまり寺を開いた僧とされるのは無僧組織です",
+  "diffs": [
+   "むそうそせき→無僧組織"
+  ],
+  "cer": 0.24,
+  "src_kana": "カイサンツマリテラオヒライタソートサレルノワムソーソセキデス",
+  "hyp_kana": "カイサンツマリテラオヒライタソートサレルノワムソーソシキデス",
+  "kana_diffs": [
+   "セ→シ"
+  ],
+  "kana_er": 0.033,
+  "total_sec": 6.24,
+  "voiced_sec": 6.07,
+  "chars": 23,
+  "sec_per_char": 0.264,
+  "silences_mid": [
+   {
+    "start": 0.64,
+    "end": 1.06,
+    "sec": 0.42,
+    "kind": "mid",
+    "after": "山、"
+   },
+   {
+    "start": 1.48,
+    "end": 1.7,
+    "sec": 0.22,
+    "kind": "mid",
+    "after": "まり"
+   },
+   {
+    "start": 2.82,
+    "end": 3.09,
+    "sec": 0.27,
+    "kind": "mid",
+    "after": "いた"
+   },
+   {
+    "start": 4.26,
+    "end": 4.9,
+    "sec": 0.64,
+    "kind": "mid",
+    "after": "のは、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.15,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "k046_a",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\work\\exp\\k046_a.wav",
+  "text_display": "夢窓疎石は、天龍寺の開山としても知られる禅僧です。",
+  "text_sent": "むそうそせきは、てんりゅうじの かいさん としても 知られる ぜんそう です。",
+  "reading_ref": null,
+  "transcript": "無双組織は天竜寺の解散としても知られる禅僧です。",
+  "src_norm": "むそうそせきはてんりゅうじの開山としても知られる禅僧です",
+  "hyp_norm": "無双組織は天竜寺の解散としても知られる禅僧です",
+  "diffs": [
+   "むそうそせき→無双組織",
+   "てんりゅうじ→天竜寺",
+   "開山→解散"
+  ],
+  "cer": 0.5,
+  "src_kana": "ムソーソセキワテンリュージノカイサントシテモシラレルゼンソーデス",
+  "hyp_kana": "ムソーソシキワテンリュージノカイサントシテモシラレルゼンソーデス",
+  "kana_diffs": [
+   "セ→シ"
+  ],
+  "kana_er": 0.031,
+  "total_sec": 5.0,
+  "voiced_sec": 4.88,
+  "chars": 23,
+  "sec_per_char": 0.212,
+  "silences_mid": [
+   {
+    "start": 1.05,
+    "end": 1.54,
+    "sec": 0.49,
+    "kind": "mid",
+    "after": "は"
+   },
+   {
+    "start": 3.93,
+    "end": 4.11,
+    "sec": 0.18,
+    "kind": "mid",
+    "after": "れる"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "k046_b",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\work\\exp\\k046_b.wav",
+  "text_display": "夢窓疎石は、天龍寺の開山としても知られる禅僧です。",
+  "text_sent": "むそう そせきは、てんりゅうじの かいさん としても 知られる ぜんそう です。",
+  "reading_ref": null,
+  "transcript": "無双組織は天竜寺の解散としても知られる禅僧です。",
+  "src_norm": "むそうそせきはてんりゅうじの開山としても知られる禅僧です",
+  "hyp_norm": "無双組織は天竜寺の解散としても知られる禅僧です",
+  "diffs": [
+   "むそうそせき→無双組織",
+   "てんりゅうじ→天竜寺",
+   "開山→解散"
+  ],
+  "cer": 0.5,
+  "src_kana": "ムソーソセキワテンリュージノカイサントシテモシラレルゼンソーデス",
+  "hyp_kana": "ムソーソシキワテンリュージノカイサントシテモシラレルゼンソーデス",
+  "kana_diffs": [
+   "セ→シ"
+  ],
+  "kana_er": 0.031,
+  "total_sec": 5.08,
+  "voiced_sec": 4.97,
+  "chars": 23,
+  "sec_per_char": 0.216,
+  "silences_mid": [
+   {
+    "start": 1.16,
+    "end": 1.66,
+    "sec": 0.5,
+    "kind": "mid",
+    "after": "は"
+   },
+   {
+    "start": 4.01,
+    "end": 4.17,
+    "sec": 0.16,
+    "kind": "mid",
+    "after": "れる"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "k056_a",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\work\\exp\\k056_a.wav",
+  "text_display": "その少し前、京都は応仁・文明の乱で、長い戦乱の中にありました。",
+  "text_sent": "その すこし まえ、きょうとは おうにん・ぶんめいの らんで、ながい せんらんの なかに ありました。",
+  "reading_ref": null,
+  "transcript": "その少し前、京都は黄泉文明の乱で、長い戦乱の中にありました。",
+  "src_norm": "その少し前京都はおうにん文明の乱で長い戦乱の中にありました",
+  "hyp_norm": "その少し前京都は黄泉文明の乱で長い戦乱の中にありました",
+  "diffs": [
+   "おうにん→黄泉"
+  ],
+  "cer": 0.138,
+  "src_kana": "ソノスコシマエキョートワオーニンブンメーノランデナガイセンランノナカニアリマシタ",
+  "hyp_kana": "ソノスコシマエキョートワヨミブンメーノランデナガイセンランノナカニアリマシタ",
+  "kana_diffs": [
+   "オーニン→ヨミ"
+  ],
+  "kana_er": 0.1,
+  "total_sec": 8.08,
+  "voiced_sec": 7.94,
+  "chars": 27,
+  "sec_per_char": 0.294,
+  "silences_mid": [
+   {
+    "start": 1.12,
+    "end": 2.12,
+    "sec": 1.0,
+    "kind": "mid",
+    "after": "前、"
+   },
+   {
+    "start": 2.7,
+    "end": 3.08,
+    "sec": 0.38,
+    "kind": "mid",
+    "after": "は"
+   },
+   {
+    "start": 5.07,
+    "end": 5.78,
+    "sec": 0.71,
+    "kind": "mid",
+    "after": "で、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "k056_b",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\work\\exp\\k056_b.wav",
+  "text_display": "その少し前、京都は応仁・文明の乱で、長い戦乱の中にありました。",
+  "text_sent": "その すこし まえ、きょうとは おうにん ぶんめいの らんで、ながい せんらんの なかに ありました。",
+  "reading_ref": null,
+  "transcript": "その少し前、京都は黄人文明の乱で、長い戦乱の中にありました。",
+  "src_norm": "その少し前京都はおうにん文明の乱で長い戦乱の中にありました",
+  "hyp_norm": "その少し前京都は黄人文明の乱で長い戦乱の中にありました",
+  "diffs": [
+   "おうにん→黄人"
+  ],
+  "cer": 0.138,
+  "src_kana": "ソノスコシマエキョートワオーニンブンメーノランデナガイセンランノナカニアリマシタ",
+  "hyp_kana": "ソノスコシマエキョートワキジンブンメーノランデナガイセンランノナカニアリマシタ",
+  "kana_diffs": [
+   "オーニ→キジ"
+  ],
+  "kana_er": 0.075,
+  "total_sec": 7.76,
+  "voiced_sec": 7.59,
+  "chars": 27,
+  "sec_per_char": 0.281,
+  "silences_mid": [
+   {
+    "start": 1.1,
+    "end": 1.95,
+    "sec": 0.85,
+    "kind": "mid",
+    "after": "前、"
+   },
+   {
+    "start": 2.51,
+    "end": 2.88,
+    "sec": 0.37,
+    "kind": "mid",
+    "after": "は"
+   },
+   {
+    "start": 4.45,
+    "end": 5.35,
+    "sec": 0.9,
+    "kind": "mid",
+    "after": "で、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.15,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "k056_c",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\work\\exp\\k056_c.wav",
+  "text_display": "その少し前、京都は応仁・文明の乱で、長い戦乱の中にありました。",
+  "text_sent": "その すこし まえ、きょうとは おうにん、ぶんめいの らんで、ながい せんらんの なかに ありました。",
+  "reading_ref": null,
+  "transcript": "その少し前、京都は黄金、文明の乱で、長い戦乱の中にありました。",
+  "src_norm": "その少し前京都はおうにん文明の乱で長い戦乱の中にありました",
+  "hyp_norm": "その少し前京都は黄金文明の乱で長い戦乱の中にありました",
+  "diffs": [
+   "おうにん→黄金"
+  ],
+  "cer": 0.138,
+  "src_kana": "ソノスコシマエキョートワオーニンブンメーノランデナガイセンランノナカニアリマシタ",
+  "hyp_kana": "ソノスコシマエキョートワオーゴンブンメーノランデナガイセンランノナカニアリマシタ",
+  "kana_diffs": [
+   "ニ→ゴ"
+  ],
+  "kana_er": 0.025,
+  "total_sec": 8.08,
+  "voiced_sec": 7.96,
+  "chars": 27,
+  "sec_per_char": 0.295,
+  "silences_mid": [
+   {
+    "start": 1.09,
+    "end": 1.56,
+    "sec": 0.47,
+    "kind": "mid",
+    "after": "前、"
+   },
+   {
+    "start": 2.18,
+    "end": 2.4,
+    "sec": 0.22,
+    "kind": "mid",
+    "after": "は"
+   },
+   {
+    "start": 2.96,
+    "end": 3.29,
+    "sec": 0.33,
+    "kind": "mid",
+    "after": "金、"
+   },
+   {
+    "start": 4.45,
+    "end": 5.85,
+    "sec": 1.4,
+    "kind": "mid",
+    "after": "で、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "k074_a",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\work\\exp\\k074_a.wav",
+  "text_display": "応仁・文明の乱をくぐり抜けた建物が、このとき失われたのです。",
+  "text_sent": "おうにん・ぶんめいの らんを くぐりぬけた たてものが、この とき うしなわれたのです。",
+  "reading_ref": null,
+  "transcript": "応仁文明の乱をくぐり抜けた建物が、この時失われたのです。",
+  "src_norm": "おうにん文明の乱をくぐり抜けた建物がこのとき失われたのです",
+  "hyp_norm": "おうにん文明の乱をくぐり抜けた建物がこの時失われたのです",
+  "diffs": [
+   "とき→時"
+  ],
+  "cer": 0.069,
+  "src_kana": "オーニンブンメーノランオクグリヌケタタテモノガコノトキウシナワレタノデス",
+  "hyp_kana": "オーニンブンメーノランオクグリヌケタタテモノガコノトキウシナワレタノデス",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.16,
+  "voiced_sec": 5.98,
+  "chars": 27,
+  "sec_per_char": 0.221,
+  "silences_mid": [
+   {
+    "start": 1.57,
+    "end": 1.88,
+    "sec": 0.31,
+    "kind": "mid",
+    "after": "を"
+   },
+   {
+    "start": 3.36,
+    "end": 3.88,
+    "sec": 0.52,
+    "kind": "mid",
+    "after": "が、"
+   },
+   {
+    "start": 4.5,
+    "end": 4.83,
+    "sec": 0.33,
+    "kind": "mid",
+    "after": "時"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.15,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "k074_b",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\work\\exp\\k074_b.wav",
+  "text_display": "応仁・文明の乱をくぐり抜けた建物が、このとき失われたのです。",
+  "text_sent": "おうにん ぶんめいの らんを くぐりぬけた たてものが、この とき うしなわれたのです。",
+  "reading_ref": null,
+  "transcript": "黄泉文明の乱をくぐり抜けた建物が、この時失われたのです。",
+  "src_norm": "おうにん文明の乱をくぐり抜けた建物がこのとき失われたのです",
+  "hyp_norm": "黄泉文明の乱をくぐり抜けた建物がこの時失われたのです",
+  "diffs": [
+   "おうにん→黄泉",
+   "とき→時"
+  ],
+  "cer": 0.207,
+  "src_kana": "オーニンブンメーノランオクグリヌケタタテモノガコノトキウシナワレタノデス",
+  "hyp_kana": "ヨミブンメーノランオクグリヌケタタテモノガコノトキウシナワレタノデス",
+  "kana_diffs": [
+   "オーニン→ヨミ"
+  ],
+  "kana_er": 0.111,
+  "total_sec": 6.04,
+  "voiced_sec": 5.93,
+  "chars": 27,
+  "sec_per_char": 0.22,
+  "silences_mid": [
+   {
+    "start": 1.63,
+    "end": 1.8,
+    "sec": 0.17,
+    "kind": "mid",
+    "after": "を"
+   },
+   {
+    "start": 3.31,
+    "end": 3.86,
+    "sec": 0.55,
+    "kind": "mid",
+    "after": "が、"
+   },
+   {
+    "start": 4.47,
+    "end": 4.76,
+    "sec": 0.29,
+    "kind": "mid",
+    "after": "時"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ }
+]

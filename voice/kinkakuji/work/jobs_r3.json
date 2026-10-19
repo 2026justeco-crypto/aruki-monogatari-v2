@@ -1,0 +1,152 @@
+[
+ {
+  "id": "k005",
+  "text": "しゃりでん という たてもの、つまり きんかくが 有名な ため、きんかくじ と 呼ばれて います。",
+  "display": "舎利殿という建物、つまり金閣が有名なため、金閣寺と呼ばれています。",
+  "reading_ref": "しゃりでん という たてもの、つまり きんかくが 有名な ため、きんかくじ と 呼ばれて います。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed4_ref.wav",
+  "seed": 3,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k005_r3_s3.wav"
+ },
+ {
+  "id": "k007",
+  "text": "この きんかくは、いまから なんねん まえに 建った ものだと 思いますか。",
+  "display": "この金閣は、いまから何年前に建ったものだと思いますか。",
+  "reading_ref": "この きんかくは、いまから なんねん まえに 建った ものだと 思いますか。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。静かに。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed4_ref.wav",
+  "seed": 3,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k007_r3_s3.wav"
+ },
+ {
+  "id": "k009",
+  "text": "おうえい よねん、せんさんびゃくきゅうじゅうななねん、きょうとの きたやまで、大きな さんそうの 工事が 始まりました。",
+  "display": "応永四年（1397年）、京都の北山で、大きな山荘の工事が始まりました。",
+  "reading_ref": "おうえい よねん、せんさんびゃくきゅうじゅうななねん、きょうとの きたやまで、大きな さんそうの 工事が 始まりました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。ゆっくりと。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed4_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k009_r3_s1.wav"
+ },
+ {
+  "id": "k014",
+  "text": "きゅうさいの よしもちに しょうぐんの しょくを ゆずったのは、おうえい がんねん、せんさんびゃくきゅうじゅうよねんの こと。",
+  "display": "九歳の義持に将軍の職を譲ったのは、応永元年（1394年）のこと。",
+  "reading_ref": "きゅうさいの よしもちに しょうぐんの しょくを ゆずったのは、おうえい がんねん、せんさんびゃくきゅうじゅうよねんの こと。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。ゆっくりと。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed4_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k014_r3_s1.wav"
+ },
+ {
+  "id": "k018",
+  "text": "みんの つかいが 持ってきた ぶんしょには、よしみつを にほんこくおう と しるして いました。",
+  "display": "明の使いが持ってきた文書には、義満を「日本国王」と記していました。",
+  "reading_ref": "みんの つかいが 持ってきた ぶんしょには、よしみつを にほんこくおう と しるして いました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed4_ref.wav",
+  "seed": 3,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k018_r3_s3.wav"
+ },
+ {
+  "id": "k026",
+  "text": "いっそうには しゃかさんぞん、にそうは かんのんでん、さんそうには ぶっしゃりが おさめられました。",
+  "display": "一層には釈迦三尊、二層は観音殿、三層には仏舎利が納められました。",
+  "reading_ref": "いっそうには しゃかさんぞん、にそうは かんのんでん、さんそうには ぶっしゃりが おさめられました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed4_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k026_r3_s1.wav"
+ },
+ {
+  "id": "k029",
+  "text": "おうえい じゅうごねん、せんよんひゃくはちねん、さんがつ、その ごこまつてんのうが きたやまどのを おとずれます。",
+  "display": "応永十五年（1408年）三月、その後小松天皇が北山殿を訪れます。",
+  "reading_ref": "おうえい じゅうごねん、せんよんひゃくはちねん、さんがつ、その ごこまつてんのうが きたやまどのを おとずれます。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。ゆっくりと。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed4_ref.wav",
+  "seed": 2,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k029_r3_s2.wav"
+ },
+ {
+  "id": "k030",
+  "text": "きたやまぎょうこう と 呼ばれる できごと です。よしみつは せいだいな うたげを 開きました。",
+  "display": "北山行幸と呼ばれる出来事です。義満は盛大な宴を開きました。",
+  "reading_ref": "きたやまぎょうこう と 呼ばれる できごと です。よしみつは せいだいな うたげを 開きました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。少し明るく。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed4_ref.wav",
+  "seed": 3,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k030_r3_s3.wav"
+ },
+ {
+  "id": "k047",
+  "text": "ところが、むそうは かんのう にねん、せんさんびゃくごじゅういちねんに なくなって います。",
+  "display": "ところが、夢窓は観応二年（1351年）に亡くなっています。",
+  "reading_ref": "ところが、むそうは かんのう にねん、せんさんびゃくごじゅういちねんに なくなって います。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed4_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k047_r3_s1.wav"
+ },
+ {
+  "id": "k054",
+  "text": "きんかくの なが きろくに はじめて 見えるのは、ぶんめい じゅうろくねん、せんよんひゃくはちじゅうよねん。",
+  "display": "「金閣」の名が記録に初めて見えるのは、文明十六年（1484年）。",
+  "reading_ref": "きんかくの なが きろくに はじめて 見えるのは、ぶんめい じゅうろくねん、せんよんひゃくはちじゅうよねん。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed4_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k054_r3_s1.wav"
+ },
+ {
+  "id": "k065",
+  "text": "めいじ にじゅうしちねん、せんはっぴゃくきゅうじゅうよねん、てらは はいかんの うけいれを はじめます。",
+  "display": "明治二十七年（1894年）、寺は拝観の受け入れを始めます。",
+  "reading_ref": "めいじ にじゅうしちねん、せんはっぴゃくきゅうじゅうよねん、てらは はいかんの うけいれを はじめます。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。ゆっくりと。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed4_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k065_r3_s1.wav"
+ },
+ {
+  "id": "k072",
+  "text": "しょうわ にじゅうごねん、せんきゅうひゃくごじゅうねん、しちがつふつか。",
+  "display": "昭和二十五年（1950年）七月二日。",
+  "reading_ref": "しょうわ にじゅうごねん、せんきゅうひゃくごじゅうねん、しちがつふつか。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。ゆっくりと。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed4_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k072_r3_s1.wav"
+ },
+ {
+  "id": "k074",
+  "text": "おうにん・ぶんめいの らんを くぐりぬけた たてものが、この とき うしなわれたのです。",
+  "display": "応仁・文明の乱をくぐり抜けた建物が、このとき失われたのです。",
+  "reading_ref": "おうにん・ぶんめいの らんを くぐりぬけた たてものが、この とき うしなわれたのです。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。静かに。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed4_ref.wav",
+  "seed": 3,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k074_r3_s3.wav"
+ },
+ {
+  "id": "k080",
+  "text": "ごねんごの しょうわ さんじゅうねん、せんきゅうひゃくごじゅうごねん、きんかくは さいけん されます。",
+  "display": "五年後の昭和三十年（1955年）、金閣は再建されます。",
+  "reading_ref": "ごねんごの しょうわ さんじゅうねん、せんきゅうひゃくごじゅうごねん、きんかくは さいけん されます。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。ゆっくりと。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed4_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k080_r3_s1.wav"
+ },
+ {
+  "id": "k088",
+  "text": "しょうわ ろくじゅうにねん、せんきゅうひゃくはちじゅうななねんの しゅうりでは、きんぱくの はりかえも おこなわれました。",
+  "display": "昭和六十二年（1987年）の修理では、金箔の張り替えも行われました。",
+  "reading_ref": "しょうわ ろくじゅうにねん、せんきゅうひゃくはちじゅうななねんの しゅうりでは、きんぱくの はりかえも おこなわれました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed4_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k088_r3_s1.wav"
+ }
+]

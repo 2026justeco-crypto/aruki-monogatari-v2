@@ -1,0 +1,2903 @@
+[
+ {
+  "id": "guide_seed1_ref",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "text_display": "北山殿は、政治と外交の中心になっていきます。",
+  "text_sent": "きたやまどのは、せいじと がいこうの ちゅうしんに なって いきます。",
+  "reading_ref": null,
+  "transcript": "北山殿は、政治と外交の中心になっていきます。",
+  "src_norm": "きたやま殿は政治と外交の中心になっていきます",
+  "hyp_norm": "きたやま殿は政治と外交の中心になっていきます",
+  "diffs": [],
+  "cer": 0.0,
+  "src_kana": "キタヤマドノワセージトガイコーノチューシンニナッテーキマス",
+  "hyp_kana": "キタヤマドノワセージトガイコーノチューシンニナッテーキマス",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 4.52,
+  "voiced_sec": 4.4,
+  "chars": 20,
+  "sec_per_char": 0.22,
+  "silences_mid": [
+   {
+    "start": 0.98,
+    "end": 1.34,
+    "sec": 0.36,
+    "kind": "mid",
+    "after": "は、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed2_ref",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed2_ref.wav",
+  "text_display": "北山殿は、政治と外交の中心になっていきます。",
+  "text_sent": "きたやまどのは、せいじと がいこうの ちゅうしんに なって いきます。",
+  "reading_ref": null,
+  "transcript": "北山殿は、政治と外交の中心になっていきます。",
+  "src_norm": "きたやま殿は政治と外交の中心になっていきます",
+  "hyp_norm": "きたやま殿は政治と外交の中心になっていきます",
+  "diffs": [],
+  "cer": 0.0,
+  "src_kana": "キタヤマドノワセージトガイコーノチューシンニナッテーキマス",
+  "hyp_kana": "キタヤマドノワセージトガイコーノチューシンニナッテーキマス",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 4.52,
+  "voiced_sec": 4.4,
+  "chars": 20,
+  "sec_per_char": 0.22,
+  "silences_mid": [
+   {
+    "start": 0.99,
+    "end": 1.52,
+    "sec": 0.53,
+    "kind": "mid",
+    "after": "は、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed3_ref",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed3_ref.wav",
+  "text_display": "北山殿は、政治と外交の中心になっていきます。",
+  "text_sent": "きたやまどのは、せいじと がいこうの ちゅうしんに なって いきます。",
+  "reading_ref": null,
+  "transcript": "北山殿は、政治と外交の中心になっていきます。",
+  "src_norm": "きたやま殿は政治と外交の中心になっていきます",
+  "hyp_norm": "きたやま殿は政治と外交の中心になっていきます",
+  "diffs": [],
+  "cer": 0.0,
+  "src_kana": "キタヤマドノワセージトガイコーノチューシンニナッテーキマス",
+  "hyp_kana": "キタヤマドノワセージトガイコーノチューシンニナッテーキマス",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 4.52,
+  "voiced_sec": 4.47,
+  "chars": 20,
+  "sec_per_char": 0.223,
+  "silences_mid": [
+   {
+    "start": 0.92,
+    "end": 1.46,
+    "sec": 0.54,
+    "kind": "mid",
+    "after": "は、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed4_ref",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed4_ref.wav",
+  "text_display": "北山殿は、政治と外交の中心になっていきます。",
+  "text_sent": "きたやまどのは、せいじと がいこうの ちゅうしんに なって いきます。",
+  "reading_ref": null,
+  "transcript": "北山殿は、政治と外交の中心になっていきます。",
+  "src_norm": "きたやま殿は政治と外交の中心になっていきます",
+  "hyp_norm": "きたやま殿は政治と外交の中心になっていきます",
+  "diffs": [],
+  "cer": 0.0,
+  "src_kana": "キタヤマドノワセージトガイコーノチューシンニナッテーキマス",
+  "hyp_kana": "キタヤマドノワセージトガイコーノチューシンニナッテーキマス",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 4.52,
+  "voiced_sec": 4.42,
+  "chars": 20,
+  "sec_per_char": 0.221,
+  "silences_mid": [
+   {
+    "start": 1.06,
+    "end": 1.33,
+    "sec": 0.27,
+    "kind": "mid",
+    "after": "は、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed5_ref",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed5_ref.wav",
+  "text_display": "北山殿は、政治と外交の中心になっていきます。",
+  "text_sent": "きたやまどのは、せいじと がいこうの ちゅうしんに なって いきます。",
+  "reading_ref": null,
+  "transcript": "北山殿は、政治と外交の中心になっていきます。",
+  "src_norm": "きたやま殿は政治と外交の中心になっていきます",
+  "hyp_norm": "きたやま殿は政治と外交の中心になっていきます",
+  "diffs": [],
+  "cer": 0.0,
+  "src_kana": "キタヤマドノワセージトガイコーノチューシンニナッテーキマス",
+  "hyp_kana": "キタヤマドノワセージトガイコーノチューシンニナッテーキマス",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 4.52,
+  "voiced_sec": 4.38,
+  "chars": 20,
+  "sec_per_char": 0.219,
+  "silences_mid": [
+   {
+    "start": 1.03,
+    "end": 1.52,
+    "sec": 0.49,
+    "kind": "mid",
+    "after": "は、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed6_ref",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed6_ref.wav",
+  "text_display": "北山殿は、政治と外交の中心になっていきます。",
+  "text_sent": "きたやまどのは、せいじと がいこうの ちゅうしんに なって いきます。",
+  "reading_ref": null,
+  "transcript": "北山殿は、政治と外交の中心になっていきます。",
+  "src_norm": "きたやま殿は政治と外交の中心になっていきます",
+  "hyp_norm": "きたやま殿は政治と外交の中心になっていきます",
+  "diffs": [],
+  "cer": 0.0,
+  "src_kana": "キタヤマドノワセージトガイコーノチューシンニナッテーキマス",
+  "hyp_kana": "キタヤマドノワセージトガイコーノチューシンニナッテーキマス",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 4.52,
+  "voiced_sec": 4.41,
+  "chars": 20,
+  "sec_per_char": 0.22,
+  "silences_mid": [
+   {
+    "start": 0.97,
+    "end": 1.43,
+    "sec": 0.46,
+    "kind": "mid",
+    "after": "は、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed7_ref",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed7_ref.wav",
+  "text_display": "北山殿は、政治と外交の中心になっていきます。",
+  "text_sent": "きたやまどのは、せいじと がいこうの ちゅうしんに なって いきます。",
+  "reading_ref": null,
+  "transcript": "北山殿は政治と外交の中心になっていきます。",
+  "src_norm": "きたやま殿は政治と外交の中心になっていきます",
+  "hyp_norm": "きたやま殿は政治と外交の中心になっていきます",
+  "diffs": [],
+  "cer": 0.0,
+  "src_kana": "キタヤマドノワセージトガイコーノチューシンニナッテーキマス",
+  "hyp_kana": "キタヤマドノワセージトガイコーノチューシンニナッテーキマス",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 4.52,
+  "voiced_sec": 4.43,
+  "chars": 20,
+  "sec_per_char": 0.222,
+  "silences_mid": [
+   {
+    "start": 1.01,
+    "end": 1.44,
+    "sec": 0.43,
+    "kind": "mid",
+    "after": "は"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed8_ref",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed8_ref.wav",
+  "text_display": "北山殿は、政治と外交の中心になっていきます。",
+  "text_sent": "きたやまどのは、せいじと がいこうの ちゅうしんに なって いきます。",
+  "reading_ref": null,
+  "transcript": "北山殿は、政治と外交の中心になっていきます。",
+  "src_norm": "きたやま殿は政治と外交の中心になっていきます",
+  "hyp_norm": "きたやま殿は政治と外交の中心になっていきます",
+  "diffs": [],
+  "cer": 0.0,
+  "src_kana": "キタヤマドノワセージトガイコーノチューシンニナッテーキマス",
+  "hyp_kana": "キタヤマドノワセージトガイコーノチューシンニナッテーキマス",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 4.52,
+  "voiced_sec": 4.39,
+  "chars": 20,
+  "sec_per_char": 0.22,
+  "silences_mid": [
+   {
+    "start": 1.02,
+    "end": 1.46,
+    "sec": 0.44,
+    "kind": "mid",
+    "after": "は、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed1_ref",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed1_ref.wav",
+  "text_display": "わしが義満だ。頭は丸めたが、政から退いたわけではないぞ。",
+  "text_sent": "わしが よしみつだ。あたまは まるめたが、まつりごとから しりぞいた わけでは ないぞ。",
+  "reading_ref": null,
+  "transcript": "わしが吉光だ。頭は丸めたが、祭りごとから退いたわけではないぞ。",
+  "src_norm": "わしがよしみつだ頭は丸めたが政から退いたわけではないぞ",
+  "hyp_norm": "わしが吉光だ頭は丸めたが祭りごとから退いたわけではないぞ",
+  "diffs": [
+   "よしみつ→吉光",
+   "政→祭りごと"
+  ],
+  "cer": 0.296,
+  "src_kana": "ワシガヨシミツダアタマワマルメタガマツリゴトカラシリゾイタワケデワナイゾ",
+  "hyp_kana": "ワシガヨシミツダアタマワマルメタガマツリゴトカラシリゾイタワケデワナイゾ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.92,
+  "voiced_sec": 6.78,
+  "chars": 25,
+  "sec_per_char": 0.271,
+  "silences_mid": [
+   {
+    "start": 1.3,
+    "end": 2.43,
+    "sec": 1.13,
+    "kind": "mid",
+    "after": "だ。"
+   },
+   {
+    "start": 3.72,
+    "end": 4.21,
+    "sec": 0.49,
+    "kind": "mid",
+    "after": "が、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed2_ref",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed2_ref.wav",
+  "text_display": "わしが義満だ。頭は丸めたが、政から退いたわけではないぞ。",
+  "text_sent": "わしが よしみつだ。あたまは まるめたが、まつりごとから しりぞいた わけでは ないぞ。",
+  "reading_ref": null,
+  "transcript": "わしが義満だ。頭は丸めたが、祭りごとから退いたわけではないぞ。",
+  "src_norm": "わしがよしみつだ頭は丸めたが政から退いたわけではないぞ",
+  "hyp_norm": "わしがよしみつだ頭は丸めたが祭りごとから退いたわけではないぞ",
+  "diffs": [
+   "政→祭りごと"
+  ],
+  "cer": 0.148,
+  "src_kana": "ワシガヨシミツダアタマワマルメタガマツリゴトカラシリゾイタワケデワナイゾ",
+  "hyp_kana": "ワシガヨシミツダアタマワマルメタガマツリゴトカラシリゾイタワケデワナイゾ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.92,
+  "voiced_sec": 6.87,
+  "chars": 25,
+  "sec_per_char": 0.275,
+  "silences_mid": [
+   {
+    "start": 1.32,
+    "end": 2.42,
+    "sec": 1.1,
+    "kind": "mid",
+    "after": "だ。"
+   },
+   {
+    "start": 3.83,
+    "end": 4.5,
+    "sec": 0.67,
+    "kind": "mid",
+    "after": "が、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed3_ref",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed3_ref.wav",
+  "text_display": "わしが義満だ。頭は丸めたが、政から退いたわけではないぞ。",
+  "text_sent": "わしが よしみつだ。あたまは まるめたが、まつりごとから しりぞいた わけでは ないぞ。",
+  "reading_ref": null,
+  "transcript": "わしが義満だ頭は丸めたがまつり 事から退いたわけではないぞ",
+  "src_norm": "わしがよしみつだ頭は丸めたが政から退いたわけではないぞ",
+  "hyp_norm": "わしがよしみつだ頭は丸めたがまつり事から退いたわけではないぞ",
+  "diffs": [
+   "政→まつり事"
+  ],
+  "cer": 0.148,
+  "src_kana": "ワシガヨシミツダアタマワマルメタガマツリゴトカラシリゾイタワケデワナイゾ",
+  "hyp_kana": "ワシガヨシミツダアタマワマルメタガマツリゴトカラシリゾイタワケデワナイゾ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.92,
+  "voiced_sec": 6.88,
+  "chars": 25,
+  "sec_per_char": 0.275,
+  "silences_mid": [
+   {
+    "start": 1.33,
+    "end": 2.37,
+    "sec": 1.04,
+    "kind": "mid",
+    "after": "だ"
+   },
+   {
+    "start": 3.77,
+    "end": 4.28,
+    "sec": 0.51,
+    "kind": "mid",
+    "after": "が"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed4_ref",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed4_ref.wav",
+  "text_display": "わしが義満だ。頭は丸めたが、政から退いたわけではないぞ。",
+  "text_sent": "わしが よしみつだ。あたまは まるめたが、まつりごとから しりぞいた わけでは ないぞ。",
+  "reading_ref": null,
+  "transcript": "わしが吉光だ。頭は丸めたが、祭りごとから退いたわけではないぞ。",
+  "src_norm": "わしがよしみつだ頭は丸めたが政から退いたわけではないぞ",
+  "hyp_norm": "わしが吉光だ頭は丸めたが祭りごとから退いたわけではないぞ",
+  "diffs": [
+   "よしみつ→吉光",
+   "政→祭りごと"
+  ],
+  "cer": 0.296,
+  "src_kana": "ワシガヨシミツダアタマワマルメタガマツリゴトカラシリゾイタワケデワナイゾ",
+  "hyp_kana": "ワシガヨシミツダアタマワマルメタガマツリゴトカラシリゾイタワケデワナイゾ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.92,
+  "voiced_sec": 6.87,
+  "chars": 25,
+  "sec_per_char": 0.275,
+  "silences_mid": [
+   {
+    "start": 1.21,
+    "end": 2.52,
+    "sec": 1.31,
+    "kind": "mid",
+    "after": "だ。"
+   },
+   {
+    "start": 3.85,
+    "end": 4.59,
+    "sec": 0.74,
+    "kind": "mid",
+    "after": "が、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed5_ref",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed5_ref.wav",
+  "text_display": "わしが義満だ。頭は丸めたが、政から退いたわけではないぞ。",
+  "text_sent": "わしが よしみつだ。あたまは まるめたが、まつりごとから しりぞいた わけでは ないぞ。",
+  "reading_ref": null,
+  "transcript": "わしが吉光だ。頭は丸めたが、祭りごとから退いたわけではないぞ。",
+  "src_norm": "わしがよしみつだ頭は丸めたが政から退いたわけではないぞ",
+  "hyp_norm": "わしが吉光だ頭は丸めたが祭りごとから退いたわけではないぞ",
+  "diffs": [
+   "よしみつ→吉光",
+   "政→祭りごと"
+  ],
+  "cer": 0.296,
+  "src_kana": "ワシガヨシミツダアタマワマルメタガマツリゴトカラシリゾイタワケデワナイゾ",
+  "hyp_kana": "ワシガヨシミツダアタマワマルメタガマツリゴトカラシリゾイタワケデワナイゾ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.92,
+  "voiced_sec": 6.84,
+  "chars": 25,
+  "sec_per_char": 0.274,
+  "silences_mid": [
+   {
+    "start": 1.23,
+    "end": 2.53,
+    "sec": 1.3,
+    "kind": "mid",
+    "after": "だ。"
+   },
+   {
+    "start": 3.91,
+    "end": 4.42,
+    "sec": 0.51,
+    "kind": "mid",
+    "after": "が、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed6_ref",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed6_ref.wav",
+  "text_display": "わしが義満だ。頭は丸めたが、政から退いたわけではないぞ。",
+  "text_sent": "わしが よしみつだ。あたまは まるめたが、まつりごとから しりぞいた わけでは ないぞ。",
+  "reading_ref": null,
+  "transcript": "わしが吉光だ。頭は丸めたが、祭りごとから退いたわけではないぞ。",
+  "src_norm": "わしがよしみつだ頭は丸めたが政から退いたわけではないぞ",
+  "hyp_norm": "わしが吉光だ頭は丸めたが祭りごとから退いたわけではないぞ",
+  "diffs": [
+   "よしみつ→吉光",
+   "政→祭りごと"
+  ],
+  "cer": 0.296,
+  "src_kana": "ワシガヨシミツダアタマワマルメタガマツリゴトカラシリゾイタワケデワナイゾ",
+  "hyp_kana": "ワシガヨシミツダアタマワマルメタガマツリゴトカラシリゾイタワケデワナイゾ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.92,
+  "voiced_sec": 6.86,
+  "chars": 25,
+  "sec_per_char": 0.274,
+  "silences_mid": [
+   {
+    "start": 1.38,
+    "end": 2.06,
+    "sec": 0.68,
+    "kind": "mid",
+    "after": "だ。"
+   },
+   {
+    "start": 3.57,
+    "end": 3.94,
+    "sec": 0.37,
+    "kind": "mid",
+    "after": "が、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed7_ref",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed7_ref.wav",
+  "text_display": "わしが義満だ。頭は丸めたが、政から退いたわけではないぞ。",
+  "text_sent": "わしが よしみつだ。あたまは まるめたが、まつりごとから しりぞいた わけでは ないぞ。",
+  "reading_ref": null,
+  "transcript": "わしがよしみつだ。あたまはまるめたがまつりごとからしりぞいたわけではないぞ。",
+  "src_norm": "わしがよしみつだ頭は丸めたが政から退いたわけではないぞ",
+  "hyp_norm": "わしがよしみつだあたまはまるめたがまつりごとからしりぞいたわけではないぞ",
+  "diffs": [
+   "頭→あたま",
+   "丸→まる",
+   "政→まつりごと",
+   "退→しりぞ"
+  ],
+  "cer": 0.481,
+  "src_kana": "ワシガヨシミツダアタマワマルメタガマツリゴトカラシリゾイタワケデワナイゾ",
+  "hyp_kana": "ワシガヨシミツダアタマワマルメタガマツリゴトカラシリゾイタワケデワナイゾ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.92,
+  "voiced_sec": 6.88,
+  "chars": 25,
+  "sec_per_char": 0.275,
+  "silences_mid": [
+   {
+    "start": 1.24,
+    "end": 2.4,
+    "sec": 1.16,
+    "kind": "mid",
+    "after": "だ。"
+   },
+   {
+    "start": 3.81,
+    "end": 4.31,
+    "sec": 0.5,
+    "kind": "mid",
+    "after": "が"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed8_ref",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed8_ref.wav",
+  "text_display": "わしが義満だ。頭は丸めたが、政から退いたわけではないぞ。",
+  "text_sent": "わしが よしみつだ。あたまは まるめたが、まつりごとから しりぞいた わけでは ないぞ。",
+  "reading_ref": null,
+  "transcript": "わしが吉光だ。頭は丸めたが、祭りごとから退いたわけではないぞ。",
+  "src_norm": "わしがよしみつだ頭は丸めたが政から退いたわけではないぞ",
+  "hyp_norm": "わしが吉光だ頭は丸めたが祭りごとから退いたわけではないぞ",
+  "diffs": [
+   "よしみつ→吉光",
+   "政→祭りごと"
+  ],
+  "cer": 0.296,
+  "src_kana": "ワシガヨシミツダアタマワマルメタガマツリゴトカラシリゾイタワケデワナイゾ",
+  "hyp_kana": "ワシガヨシミツダアタマワマルメタガマツリゴトカラシリゾイタワケデワナイゾ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.92,
+  "voiced_sec": 6.86,
+  "chars": 25,
+  "sec_per_char": 0.274,
+  "silences_mid": [
+   {
+    "start": 1.29,
+    "end": 2.25,
+    "sec": 0.96,
+    "kind": "mid",
+    "after": "だ。"
+   },
+   {
+    "start": 3.62,
+    "end": 4.37,
+    "sec": 0.75,
+    "kind": "mid",
+    "after": "が、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed1_k009",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed1_k009.wav",
+  "text_display": "応永四年（1397年）、京都の北山で、大きな山荘の工事が始まりました。",
+  "text_sent": "おうえいよねん、せんさんびゃくきゅうじゅうななねん、きょうとの きたやまで、大きな さんそうの 工事が 始まりました。",
+  "reading_ref": null,
+  "transcript": "大江4年、1397年、京都の北山で、大きな山荘の工事が始まりました。",
+  "src_norm": "おうえいよねんせんさんびゃくきゅうじゅうななねん京都のきたやまで大きな山荘の工事が始まりました",
+  "hyp_norm": "大江よねんせんさんびゃくきゅうじゅうななねん京都のきたやまで大きな山荘の工事が始まりました",
+  "diffs": [
+   "おうえい→大江"
+  ],
+  "cer": 0.085,
+  "src_kana": "オーエーヨネンセンサンビャクキュージューナナネンキョートノキタヤマデオーキナサンソーノコージガハジマリマシタ",
+  "hyp_kana": "オーエヨネンセンサンビャクキュージューナナネンキョートノキタヤマデオーキナサンソーノコージガハジマリマシタ",
+  "kana_diffs": [
+   "ー→∅"
+  ],
+  "kana_er": 0.019,
+  "total_sec": 9.44,
+  "voiced_sec": 9.26,
+  "chars": 30,
+  "sec_per_char": 0.309,
+  "silences_mid": [
+   {
+    "start": 0.97,
+    "end": 1.79,
+    "sec": 0.82,
+    "kind": "mid",
+    "after": "年、"
+   },
+   {
+    "start": 3.91,
+    "end": 4.55,
+    "sec": 0.64,
+    "kind": "mid",
+    "after": "年、"
+   },
+   {
+    "start": 5.77,
+    "end": 6.48,
+    "sec": 0.71,
+    "kind": "mid",
+    "after": "で、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.15,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed1_k027",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed1_k027.wav",
+  "text_display": "三層には、後小松天皇が書いた「究竟頂」の額が掛けられました。",
+  "text_sent": "さんそうには、ごこまつてんのうが 書いた くっきょうちょうの がくが かけられました。",
+  "reading_ref": null,
+  "transcript": "三奏には、五個松天皇が書いた屈強調の楽がかけられました。",
+  "src_norm": "さんそうには後小松天皇が書いたくっきょうちょうの額が掛けられました",
+  "hyp_norm": "三奏には五個松天皇が書いた屈強調の楽がかけられました",
+  "diffs": [
+   "さんそう→三奏",
+   "後小→五個",
+   "くっきょうちょう→屈強調",
+   "額→楽",
+   "掛→か"
+  ],
+  "cer": 0.485,
+  "src_kana": "サンソーニワゴコマツテンノーガカイタクッキョーチョーノガクガカケラレマシタ",
+  "hyp_kana": "サンソーニワゴコマツテンノーガカイタクッキョーチョーノガクガカケラレマシタ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.08,
+  "voiced_sec": 5.94,
+  "chars": 26,
+  "sec_per_char": 0.228,
+  "silences_mid": [
+   {
+    "start": 0.95,
+    "end": 1.37,
+    "sec": 0.42,
+    "kind": "mid",
+    "after": "には、"
+   },
+   {
+    "start": 2.98,
+    "end": 3.46,
+    "sec": 0.48,
+    "kind": "mid",
+    "after": "いた"
+   },
+   {
+    "start": 3.6,
+    "end": 3.76,
+    "sec": 0.16,
+    "kind": "mid",
+    "after": "屈"
+   },
+   {
+    "start": 4.86,
+    "end": 5.02,
+    "sec": 0.16,
+    "kind": "mid",
+    "after": "が"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed1_k035",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed1_k035.wav",
+  "text_display": "少し、立ち止まってみましょうか。",
+  "text_sent": "すこし、たちどまって みましょうか。",
+  "reading_ref": null,
+  "transcript": "少し立ち止まってみましょうか。",
+  "src_norm": "少し立ち止まってみましょうか",
+  "hyp_norm": "少し立ち止まってみましょうか",
+  "diffs": [],
+  "cer": 0.0,
+  "src_kana": "スコシタチドマッテミマショーカ",
+  "hyp_kana": "スコシタチドマッテミマショーカ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 2.88,
+  "voiced_sec": 2.78,
+  "chars": 14,
+  "sec_per_char": 0.199,
+  "silences_mid": [
+   {
+    "start": 0.61,
+    "end": 1.28,
+    "sec": 0.67,
+    "kind": "mid",
+    "after": "し"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed2_k009",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed2_k009.wav",
+  "text_display": "応永四年（1397年）、京都の北山で、大きな山荘の工事が始まりました。",
+  "text_sent": "おうえいよねん、せんさんびゃくきゅうじゅうななねん、きょうとの きたやまで、大きな さんそうの 工事が 始まりました。",
+  "reading_ref": null,
+  "transcript": "大江4年、1397年、京都の北山で、大きな山荘の工事が始まりました。",
+  "src_norm": "おうえいよねんせんさんびゃくきゅうじゅうななねん京都のきたやまで大きな山荘の工事が始まりました",
+  "hyp_norm": "大江よねんせんさんびゃくきゅうじゅうななねん京都のきたやまで大きな山荘の工事が始まりました",
+  "diffs": [
+   "おうえい→大江"
+  ],
+  "cer": 0.085,
+  "src_kana": "オーエーヨネンセンサンビャクキュージューナナネンキョートノキタヤマデオーキナサンソーノコージガハジマリマシタ",
+  "hyp_kana": "オーエヨネンセンサンビャクキュージューナナネンキョートノキタヤマデオーキナサンソーノコージガハジマリマシタ",
+  "kana_diffs": [
+   "ー→∅"
+  ],
+  "kana_er": 0.019,
+  "total_sec": 9.28,
+  "voiced_sec": 9.09,
+  "chars": 30,
+  "sec_per_char": 0.303,
+  "silences_mid": [
+   {
+    "start": 0.96,
+    "end": 1.83,
+    "sec": 0.87,
+    "kind": "mid",
+    "after": "年、"
+   },
+   {
+    "start": 3.89,
+    "end": 4.58,
+    "sec": 0.69,
+    "kind": "mid",
+    "after": "年、"
+   },
+   {
+    "start": 5.76,
+    "end": 6.48,
+    "sec": 0.72,
+    "kind": "mid",
+    "after": "で、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.16,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed2_k027",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed2_k027.wav",
+  "text_display": "三層には、後小松天皇が書いた「究竟頂」の額が掛けられました。",
+  "text_sent": "さんそうには、ごこまつてんのうが 書いた くっきょうちょうの がくが かけられました。",
+  "reading_ref": null,
+  "transcript": "三奏には、五個松天皇が書いた、屈強調の楽がかけられました。",
+  "src_norm": "さんそうには後小松天皇が書いたくっきょうちょうの額が掛けられました",
+  "hyp_norm": "三奏には五個松天皇が書いた屈強調の楽がかけられました",
+  "diffs": [
+   "さんそう→三奏",
+   "後小→五個",
+   "くっきょうちょう→屈強調",
+   "額→楽",
+   "掛→か"
+  ],
+  "cer": 0.485,
+  "src_kana": "サンソーニワゴコマツテンノーガカイタクッキョーチョーノガクガカケラレマシタ",
+  "hyp_kana": "サンソーニワゴコマツテンノーガカイタクッキョーチョーノガクガカケラレマシタ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.04,
+  "voiced_sec": 5.83,
+  "chars": 26,
+  "sec_per_char": 0.224,
+  "silences_mid": [
+   {
+    "start": 0.93,
+    "end": 1.37,
+    "sec": 0.44,
+    "kind": "mid",
+    "after": "には、"
+   },
+   {
+    "start": 2.98,
+    "end": 3.46,
+    "sec": 0.48,
+    "kind": "mid",
+    "after": "いた、"
+   },
+   {
+    "start": 4.86,
+    "end": 5.08,
+    "sec": 0.22,
+    "kind": "mid",
+    "after": "が"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed2_k035",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed2_k035.wav",
+  "text_display": "少し、立ち止まってみましょうか。",
+  "text_sent": "すこし、たちどまって みましょうか。",
+  "reading_ref": null,
+  "transcript": "少し立ち止まってみましょうか。",
+  "src_norm": "少し立ち止まってみましょうか",
+  "hyp_norm": "少し立ち止まってみましょうか",
+  "diffs": [],
+  "cer": 0.0,
+  "src_kana": "スコシタチドマッテミマショーカ",
+  "hyp_kana": "スコシタチドマッテミマショーカ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 2.76,
+  "voiced_sec": 2.63,
+  "chars": 14,
+  "sec_per_char": 0.188,
+  "silences_mid": [
+   {
+    "start": 0.54,
+    "end": 1.22,
+    "sec": 0.68,
+    "kind": "mid",
+    "after": "し"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed3_k009",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed3_k009.wav",
+  "text_display": "応永四年（1397年）、京都の北山で、大きな山荘の工事が始まりました。",
+  "text_sent": "おうえいよねん、せんさんびゃくきゅうじゅうななねん、きょうとの きたやまで、大きな さんそうの 工事が 始まりました。",
+  "reading_ref": null,
+  "transcript": "大江4年、1397年、京都の北山で、大きな山荘の工事が始まりました。",
+  "src_norm": "おうえいよねんせんさんびゃくきゅうじゅうななねん京都のきたやまで大きな山荘の工事が始まりました",
+  "hyp_norm": "大江よねんせんさんびゃくきゅうじゅうななねん京都のきたやまで大きな山荘の工事が始まりました",
+  "diffs": [
+   "おうえい→大江"
+  ],
+  "cer": 0.085,
+  "src_kana": "オーエーヨネンセンサンビャクキュージューナナネンキョートノキタヤマデオーキナサンソーノコージガハジマリマシタ",
+  "hyp_kana": "オーエヨネンセンサンビャクキュージューナナネンキョートノキタヤマデオーキナサンソーノコージガハジマリマシタ",
+  "kana_diffs": [
+   "ー→∅"
+  ],
+  "kana_er": 0.019,
+  "total_sec": 9.36,
+  "voiced_sec": 9.23,
+  "chars": 30,
+  "sec_per_char": 0.308,
+  "silences_mid": [
+   {
+    "start": 0.96,
+    "end": 1.8,
+    "sec": 0.84,
+    "kind": "mid",
+    "after": "年、"
+   },
+   {
+    "start": 3.87,
+    "end": 4.57,
+    "sec": 0.7,
+    "kind": "mid",
+    "after": "年、"
+   },
+   {
+    "start": 5.74,
+    "end": 6.49,
+    "sec": 0.75,
+    "kind": "mid",
+    "after": "で、"
+   },
+   {
+    "start": 8.28,
+    "end": 8.44,
+    "sec": 0.16,
+    "kind": "mid",
+    "after": "が"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed3_k027",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed3_k027.wav",
+  "text_display": "三層には、後小松天皇が書いた「究竟頂」の額が掛けられました。",
+  "text_sent": "さんそうには、ごこまつてんのうが 書いた くっきょうちょうの がくが かけられました。",
+  "reading_ref": null,
+  "transcript": "三奏には五個松天皇が書いた屈強調の楽がかけられました。",
+  "src_norm": "さんそうには後小松天皇が書いたくっきょうちょうの額が掛けられました",
+  "hyp_norm": "三奏には五個松天皇が書いた屈強調の楽がかけられました",
+  "diffs": [
+   "さんそう→三奏",
+   "後小→五個",
+   "くっきょうちょう→屈強調",
+   "額→楽",
+   "掛→か"
+  ],
+  "cer": 0.485,
+  "src_kana": "サンソーニワゴコマツテンノーガカイタクッキョーチョーノガクガカケラレマシタ",
+  "hyp_kana": "サンソーニワゴコマツテンノーガカイタクッキョーチョーノガクガカケラレマシタ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.08,
+  "voiced_sec": 5.96,
+  "chars": 26,
+  "sec_per_char": 0.229,
+  "silences_mid": [
+   {
+    "start": 0.92,
+    "end": 1.39,
+    "sec": 0.47,
+    "kind": "mid",
+    "after": "には"
+   },
+   {
+    "start": 2.98,
+    "end": 3.48,
+    "sec": 0.5,
+    "kind": "mid",
+    "after": "いた"
+   },
+   {
+    "start": 4.45,
+    "end": 4.64,
+    "sec": 0.19,
+    "kind": "mid",
+    "after": "の"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed3_k035",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed3_k035.wav",
+  "text_display": "少し、立ち止まってみましょうか。",
+  "text_sent": "すこし、たちどまって みましょうか。",
+  "reading_ref": null,
+  "transcript": "少し立ち止まってみましょうか。",
+  "src_norm": "少し立ち止まってみましょうか",
+  "hyp_norm": "少し立ち止まってみましょうか",
+  "diffs": [],
+  "cer": 0.0,
+  "src_kana": "スコシタチドマッテミマショーカ",
+  "hyp_kana": "スコシタチドマッテミマショーカ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 2.8,
+  "voiced_sec": 2.74,
+  "chars": 14,
+  "sec_per_char": 0.196,
+  "silences_mid": [
+   {
+    "start": 0.62,
+    "end": 1.23,
+    "sec": 0.61,
+    "kind": "mid",
+    "after": "し"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed4_k009",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed4_k009.wav",
+  "text_display": "応永四年（1397年）、京都の北山で、大きな山荘の工事が始まりました。",
+  "text_sent": "おうえいよねん、せんさんびゃくきゅうじゅうななねん、きょうとの きたやまで、大きな さんそうの 工事が 始まりました。",
+  "reading_ref": null,
+  "transcript": "大江4年、1397年、京都の北山で、大きな山荘の工事が始まりました。",
+  "src_norm": "おうえいよねんせんさんびゃくきゅうじゅうななねん京都のきたやまで大きな山荘の工事が始まりました",
+  "hyp_norm": "大江よねんせんさんびゃくきゅうじゅうななねん京都のきたやまで大きな山荘の工事が始まりました",
+  "diffs": [
+   "おうえい→大江"
+  ],
+  "cer": 0.085,
+  "src_kana": "オーエーヨネンセンサンビャクキュージューナナネンキョートノキタヤマデオーキナサンソーノコージガハジマリマシタ",
+  "hyp_kana": "オーエヨネンセンサンビャクキュージューナナネンキョートノキタヤマデオーキナサンソーノコージガハジマリマシタ",
+  "kana_diffs": [
+   "ー→∅"
+  ],
+  "kana_er": 0.019,
+  "total_sec": 9.52,
+  "voiced_sec": 9.41,
+  "chars": 30,
+  "sec_per_char": 0.314,
+  "silences_mid": [
+   {
+    "start": 1.07,
+    "end": 1.56,
+    "sec": 0.49,
+    "kind": "mid",
+    "after": "年、"
+   },
+   {
+    "start": 3.83,
+    "end": 4.28,
+    "sec": 0.45,
+    "kind": "mid",
+    "after": "年、"
+   },
+   {
+    "start": 5.73,
+    "end": 6.35,
+    "sec": 0.62,
+    "kind": "mid",
+    "after": "で、"
+   },
+   {
+    "start": 8.23,
+    "end": 8.4,
+    "sec": 0.17,
+    "kind": "mid",
+    "after": "が"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed4_k027",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed4_k027.wav",
+  "text_display": "三層には、後小松天皇が書いた「究竟頂」の額が掛けられました。",
+  "text_sent": "さんそうには、ごこまつてんのうが 書いた くっきょうちょうの がくが かけられました。",
+  "reading_ref": null,
+  "transcript": "3奏には、後小松天皇が書いた復興調の楽がかけられました。",
+  "src_norm": "さんそうには後小松天皇が書いたくっきょうちょうの額が掛けられました",
+  "hyp_norm": "さん奏には後小松天皇が書いた復興調の楽がかけられました",
+  "diffs": [
+   "そう→奏",
+   "くっきょうちょう→復興調",
+   "額→楽",
+   "掛→か"
+  ],
+  "cer": 0.364,
+  "src_kana": "サンソーニワゴコマツテンノーガカイタクッキョーチョーノガクガカケラレマシタ",
+  "hyp_kana": "サンソーニワゴコマツテンノーガカイタフッコーチョーノガクガカケラレマシタ",
+  "kana_diffs": [
+   "ク→フ",
+   "キョ→コ"
+  ],
+  "kana_er": 0.081,
+  "total_sec": 6.52,
+  "voiced_sec": 6.37,
+  "chars": 26,
+  "sec_per_char": 0.245,
+  "silences_mid": [
+   {
+    "start": 0.97,
+    "end": 1.33,
+    "sec": 0.36,
+    "kind": "mid",
+    "after": "には、"
+   },
+   {
+    "start": 3.11,
+    "end": 3.46,
+    "sec": 0.35,
+    "kind": "mid",
+    "after": "いた"
+   },
+   {
+    "start": 4.47,
+    "end": 4.69,
+    "sec": 0.22,
+    "kind": "mid",
+    "after": "の"
+   },
+   {
+    "start": 5.2,
+    "end": 5.4,
+    "sec": 0.2,
+    "kind": "mid",
+    "after": "が"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed4_k035",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed4_k035.wav",
+  "text_display": "少し、立ち止まってみましょうか。",
+  "text_sent": "すこし、たちどまって みましょうか。",
+  "reading_ref": null,
+  "transcript": "少し立ち止まってみましょうか。",
+  "src_norm": "少し立ち止まってみましょうか",
+  "hyp_norm": "少し立ち止まってみましょうか",
+  "diffs": [],
+  "cer": 0.0,
+  "src_kana": "スコシタチドマッテミマショーカ",
+  "hyp_kana": "スコシタチドマッテミマショーカ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 3.24,
+  "voiced_sec": 3.14,
+  "chars": 14,
+  "sec_per_char": 0.224,
+  "silences_mid": [
+   {
+    "start": 0.72,
+    "end": 1.3,
+    "sec": 0.58,
+    "kind": "mid",
+    "after": "し"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed5_k009",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed5_k009.wav",
+  "text_display": "応永四年（1397年）、京都の北山で、大きな山荘の工事が始まりました。",
+  "text_sent": "おうえいよねん、せんさんびゃくきゅうじゅうななねん、きょうとの きたやまで、大きな さんそうの 工事が 始まりました。",
+  "reading_ref": null,
+  "transcript": "応援4年、1397年、京都の北山で、大きな山荘の工事が始まりました。",
+  "src_norm": "おうえいよねんせんさんびゃくきゅうじゅうななねん京都のきたやまで大きな山荘の工事が始まりました",
+  "hyp_norm": "応援よねんせんさんびゃくきゅうじゅうななねん京都のきたやまで大きな山荘の工事が始まりました",
+  "diffs": [
+   "おうえい→応援"
+  ],
+  "cer": 0.085,
+  "src_kana": "オーエーヨネンセンサンビャクキュージューナナネンキョートノキタヤマデオーキナサンソーノコージガハジマリマシタ",
+  "hyp_kana": "オーエンヨネンセンサンビャクキュージューナナネンキョートノキタヤマデオーキナサンソーノコージガハジマリマシタ",
+  "kana_diffs": [
+   "ー→ン"
+  ],
+  "kana_er": 0.019,
+  "total_sec": 9.16,
+  "voiced_sec": 9.03,
+  "chars": 30,
+  "sec_per_char": 0.301,
+  "silences_mid": [
+   {
+    "start": 0.97,
+    "end": 1.64,
+    "sec": 0.67,
+    "kind": "mid",
+    "after": "年、"
+   },
+   {
+    "start": 3.74,
+    "end": 4.34,
+    "sec": 0.6,
+    "kind": "mid",
+    "after": "年、"
+   },
+   {
+    "start": 5.62,
+    "end": 6.37,
+    "sec": 0.75,
+    "kind": "mid",
+    "after": "で、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed5_k027",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed5_k027.wav",
+  "text_display": "三層には、後小松天皇が書いた「究竟頂」の額が掛けられました。",
+  "text_sent": "さんそうには、ごこまつてんのうが 書いた くっきょうちょうの がくが かけられました。",
+  "reading_ref": null,
+  "transcript": "三奏には、後小松天皇が書いた、屈強調の楽がかけられました。",
+  "src_norm": "さんそうには後小松天皇が書いたくっきょうちょうの額が掛けられました",
+  "hyp_norm": "三奏には後小松天皇が書いた屈強調の楽がかけられました",
+  "diffs": [
+   "さんそう→三奏",
+   "くっきょうちょう→屈強調",
+   "額→楽",
+   "掛→か"
+  ],
+  "cer": 0.424,
+  "src_kana": "サンソーニワゴコマツテンノーガカイタクッキョーチョーノガクガカケラレマシタ",
+  "hyp_kana": "サンソーニワゴコマツテンノーガカイタクッキョーチョーノガクガカケラレマシタ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.24,
+  "voiced_sec": 6.04,
+  "chars": 26,
+  "sec_per_char": 0.232,
+  "silences_mid": [
+   {
+    "start": 0.9,
+    "end": 1.38,
+    "sec": 0.48,
+    "kind": "mid",
+    "after": "には、"
+   },
+   {
+    "start": 2.99,
+    "end": 3.46,
+    "sec": 0.47,
+    "kind": "mid",
+    "after": "いた、"
+   },
+   {
+    "start": 3.6,
+    "end": 3.76,
+    "sec": 0.16,
+    "kind": "mid",
+    "after": "屈"
+   },
+   {
+    "start": 4.46,
+    "end": 4.71,
+    "sec": 0.25,
+    "kind": "mid",
+    "after": "の"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed5_k035",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed5_k035.wav",
+  "text_display": "少し、立ち止まってみましょうか。",
+  "text_sent": "すこし、たちどまって みましょうか。",
+  "reading_ref": null,
+  "transcript": "少し立ち止まってみましょうか。",
+  "src_norm": "少し立ち止まってみましょうか",
+  "hyp_norm": "少し立ち止まってみましょうか",
+  "diffs": [],
+  "cer": 0.0,
+  "src_kana": "スコシタチドマッテミマショーカ",
+  "hyp_kana": "スコシタチドマッテミマショーカ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 3.4,
+  "voiced_sec": 3.38,
+  "chars": 14,
+  "sec_per_char": 0.241,
+  "silences_mid": [
+   {
+    "start": 0.63,
+    "end": 1.75,
+    "sec": 1.12,
+    "kind": "mid",
+    "after": "し"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed6_k009",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed6_k009.wav",
+  "text_display": "応永四年（1397年）、京都の北山で、大きな山荘の工事が始まりました。",
+  "text_sent": "おうえいよねん、せんさんびゃくきゅうじゅうななねん、きょうとの きたやまで、大きな さんそうの 工事が 始まりました。",
+  "reading_ref": null,
+  "transcript": "大江4年、1397年、京都の北山で、大きな山荘の工事が始まりました。",
+  "src_norm": "おうえいよねんせんさんびゃくきゅうじゅうななねん京都のきたやまで大きな山荘の工事が始まりました",
+  "hyp_norm": "大江よねんせんさんびゃくきゅうじゅうななねん京都のきたやまで大きな山荘の工事が始まりました",
+  "diffs": [
+   "おうえい→大江"
+  ],
+  "cer": 0.085,
+  "src_kana": "オーエーヨネンセンサンビャクキュージューナナネンキョートノキタヤマデオーキナサンソーノコージガハジマリマシタ",
+  "hyp_kana": "オーエヨネンセンサンビャクキュージューナナネンキョートノキタヤマデオーキナサンソーノコージガハジマリマシタ",
+  "kana_diffs": [
+   "ー→∅"
+  ],
+  "kana_er": 0.019,
+  "total_sec": 9.28,
+  "voiced_sec": 9.12,
+  "chars": 30,
+  "sec_per_char": 0.304,
+  "silences_mid": [
+   {
+    "start": 0.98,
+    "end": 1.8,
+    "sec": 0.82,
+    "kind": "mid",
+    "after": "年、"
+   },
+   {
+    "start": 3.89,
+    "end": 4.55,
+    "sec": 0.66,
+    "kind": "mid",
+    "after": "年、"
+   },
+   {
+    "start": 5.76,
+    "end": 6.47,
+    "sec": 0.71,
+    "kind": "mid",
+    "after": "で、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed6_k027",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed6_k027.wav",
+  "text_display": "三層には、後小松天皇が書いた「究竟頂」の額が掛けられました。",
+  "text_sent": "さんそうには、ごこまつてんのうが 書いた くっきょうちょうの がくが かけられました。",
+  "reading_ref": null,
+  "transcript": "三奏には、五個松天皇が書いた復興帳の楽がかけられました。",
+  "src_norm": "さんそうには後小松天皇が書いたくっきょうちょうの額が掛けられました",
+  "hyp_norm": "三奏には五個松天皇が書いた復興帳の楽がかけられました",
+  "diffs": [
+   "さんそう→三奏",
+   "後小→五個",
+   "くっきょうちょう→復興帳",
+   "額→楽",
+   "掛→か"
+  ],
+  "cer": 0.485,
+  "src_kana": "サンソーニワゴコマツテンノーガカイタクッキョーチョーノガクガカケラレマシタ",
+  "hyp_kana": "サンソーニワゴコマツテンノーガカイタフッコーチョーノガクガカケラレマシタ",
+  "kana_diffs": [
+   "ク→フ",
+   "キョ→コ"
+  ],
+  "kana_er": 0.081,
+  "total_sec": 6.08,
+  "voiced_sec": 5.96,
+  "chars": 26,
+  "sec_per_char": 0.229,
+  "silences_mid": [
+   {
+    "start": 0.95,
+    "end": 1.38,
+    "sec": 0.43,
+    "kind": "mid",
+    "after": "には、"
+   },
+   {
+    "start": 2.99,
+    "end": 3.47,
+    "sec": 0.48,
+    "kind": "mid",
+    "after": "いた"
+   },
+   {
+    "start": 3.61,
+    "end": 3.79,
+    "sec": 0.18,
+    "kind": "mid",
+    "after": "復"
+   },
+   {
+    "start": 4.46,
+    "end": 4.61,
+    "sec": 0.15,
+    "kind": "mid",
+    "after": "の"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed6_k035",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed6_k035.wav",
+  "text_display": "少し、立ち止まってみましょうか。",
+  "text_sent": "すこし、たちどまって みましょうか。",
+  "reading_ref": null,
+  "transcript": "少し立ち止まってみましょうか。",
+  "src_norm": "少し立ち止まってみましょうか",
+  "hyp_norm": "少し立ち止まってみましょうか",
+  "diffs": [],
+  "cer": 0.0,
+  "src_kana": "スコシタチドマッテミマショーカ",
+  "hyp_kana": "スコシタチドマッテミマショーカ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 2.92,
+  "voiced_sec": 2.81,
+  "chars": 14,
+  "sec_per_char": 0.201,
+  "silences_mid": [
+   {
+    "start": 0.62,
+    "end": 1.34,
+    "sec": 0.72,
+    "kind": "mid",
+    "after": "し"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed7_k009",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed7_k009.wav",
+  "text_display": "応永四年（1397年）、京都の北山で、大きな山荘の工事が始まりました。",
+  "text_sent": "おうえいよねん、せんさんびゃくきゅうじゅうななねん、きょうとの きたやまで、大きな さんそうの 工事が 始まりました。",
+  "reading_ref": null,
+  "transcript": "OA4年、1397年、京都の北山で、大きな山荘の工事が始まりました。",
+  "src_norm": "おうえいよねんせんさんびゃくきゅうじゅうななねん京都のきたやまで大きな山荘の工事が始まりました",
+  "hyp_norm": "OAよねんせんさんびゃくきゅうじゅうななねん京都のきたやまで大きな山荘の工事が始まりました",
+  "diffs": [
+   "おうえい→OA"
+  ],
+  "cer": 0.085,
+  "src_kana": "オーエーヨネンセンサンビャクキュージューナナネンキョートノキタヤマデオーキナサンソーノコージガハジマリマシタ",
+  "hyp_kana": "オーエーヨネンセンサンビャクキュージューナナネンキョートノキタヤマデオーキナサンソーノコージガハジマリマシタ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 9.32,
+  "voiced_sec": 9.23,
+  "chars": 30,
+  "sec_per_char": 0.308,
+  "silences_mid": [
+   {
+    "start": 0.98,
+    "end": 1.8,
+    "sec": 0.82,
+    "kind": "mid",
+    "after": "年、"
+   },
+   {
+    "start": 3.89,
+    "end": 4.54,
+    "sec": 0.65,
+    "kind": "mid",
+    "after": "年、"
+   },
+   {
+    "start": 5.7,
+    "end": 6.45,
+    "sec": 0.75,
+    "kind": "mid",
+    "after": "で、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed7_k027",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed7_k027.wav",
+  "text_display": "三層には、後小松天皇が書いた「究竟頂」の額が掛けられました。",
+  "text_sent": "さんそうには、ごこまつてんのうが 書いた くっきょうちょうの がくが かけられました。",
+  "reading_ref": null,
+  "transcript": "三奏には五個松天皇が書いた屈強調の楽がかけられました。",
+  "src_norm": "さんそうには後小松天皇が書いたくっきょうちょうの額が掛けられました",
+  "hyp_norm": "三奏には五個松天皇が書いた屈強調の楽がかけられました",
+  "diffs": [
+   "さんそう→三奏",
+   "後小→五個",
+   "くっきょうちょう→屈強調",
+   "額→楽",
+   "掛→か"
+  ],
+  "cer": 0.485,
+  "src_kana": "サンソーニワゴコマツテンノーガカイタクッキョーチョーノガクガカケラレマシタ",
+  "hyp_kana": "サンソーニワゴコマツテンノーガカイタクッキョーチョーノガクガカケラレマシタ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.12,
+  "voiced_sec": 5.99,
+  "chars": 26,
+  "sec_per_char": 0.23,
+  "silences_mid": [
+   {
+    "start": 0.91,
+    "end": 1.37,
+    "sec": 0.46,
+    "kind": "mid",
+    "after": "には"
+   },
+   {
+    "start": 3.03,
+    "end": 3.68,
+    "sec": 0.65,
+    "kind": "mid",
+    "after": "いた"
+   },
+   {
+    "start": 3.83,
+    "end": 4.01,
+    "sec": 0.18,
+    "kind": "mid",
+    "after": "屈"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed7_k035",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed7_k035.wav",
+  "text_display": "少し、立ち止まってみましょうか。",
+  "text_sent": "すこし、たちどまって みましょうか。",
+  "reading_ref": null,
+  "transcript": "少し立ち止まってみましょうか。",
+  "src_norm": "少し立ち止まってみましょうか",
+  "hyp_norm": "少し立ち止まってみましょうか",
+  "diffs": [],
+  "cer": 0.0,
+  "src_kana": "スコシタチドマッテミマショーカ",
+  "hyp_kana": "スコシタチドマッテミマショーカ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 2.92,
+  "voiced_sec": 2.82,
+  "chars": 14,
+  "sec_per_char": 0.201,
+  "silences_mid": [
+   {
+    "start": 0.62,
+    "end": 1.33,
+    "sec": 0.71,
+    "kind": "mid",
+    "after": "し"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed8_k009",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed8_k009.wav",
+  "text_display": "応永四年（1397年）、京都の北山で、大きな山荘の工事が始まりました。",
+  "text_sent": "おうえいよねん、せんさんびゃくきゅうじゅうななねん、きょうとの きたやまで、大きな さんそうの 工事が 始まりました。",
+  "reading_ref": null,
+  "transcript": "大江4年、1397年、京都の北山で大きな山荘の工事が始まりました。",
+  "src_norm": "おうえいよねんせんさんびゃくきゅうじゅうななねん京都のきたやまで大きな山荘の工事が始まりました",
+  "hyp_norm": "大江よねんせんさんびゃくきゅうじゅうななねん京都のきたやまで大きな山荘の工事が始まりました",
+  "diffs": [
+   "おうえい→大江"
+  ],
+  "cer": 0.085,
+  "src_kana": "オーエーヨネンセンサンビャクキュージューナナネンキョートノキタヤマデオーキナサンソーノコージガハジマリマシタ",
+  "hyp_kana": "オーエヨネンセンサンビャクキュージューナナネンキョートノキタヤマデオーキナサンソーノコージガハジマリマシタ",
+  "kana_diffs": [
+   "ー→∅"
+  ],
+  "kana_er": 0.019,
+  "total_sec": 9.36,
+  "voiced_sec": 9.23,
+  "chars": 30,
+  "sec_per_char": 0.308,
+  "silences_mid": [
+   {
+    "start": 0.96,
+    "end": 1.67,
+    "sec": 0.71,
+    "kind": "mid",
+    "after": "年、"
+   },
+   {
+    "start": 2.24,
+    "end": 2.4,
+    "sec": 0.16,
+    "kind": "mid",
+    "after": "13"
+   },
+   {
+    "start": 2.76,
+    "end": 2.91,
+    "sec": 0.15,
+    "kind": "mid",
+    "after": "13"
+   },
+   {
+    "start": 3.89,
+    "end": 4.55,
+    "sec": 0.66,
+    "kind": "mid",
+    "after": "年、"
+   },
+   {
+    "start": 5.76,
+    "end": 6.44,
+    "sec": 0.68,
+    "kind": "mid",
+    "after": "で"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed8_k027",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed8_k027.wav",
+  "text_display": "三層には、後小松天皇が書いた「究竟頂」の額が掛けられました。",
+  "text_sent": "さんそうには、ごこまつてんのうが 書いた くっきょうちょうの がくが かけられました。",
+  "reading_ref": null,
+  "transcript": "三奏には、五個松天皇が書いた屈強調の楽がかけられました。",
+  "src_norm": "さんそうには後小松天皇が書いたくっきょうちょうの額が掛けられました",
+  "hyp_norm": "三奏には五個松天皇が書いた屈強調の楽がかけられました",
+  "diffs": [
+   "さんそう→三奏",
+   "後小→五個",
+   "くっきょうちょう→屈強調",
+   "額→楽",
+   "掛→か"
+  ],
+  "cer": 0.485,
+  "src_kana": "サンソーニワゴコマツテンノーガカイタクッキョーチョーノガクガカケラレマシタ",
+  "hyp_kana": "サンソーニワゴコマツテンノーガカイタクッキョーチョーノガクガカケラレマシタ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.04,
+  "voiced_sec": 5.85,
+  "chars": 26,
+  "sec_per_char": 0.225,
+  "silences_mid": [
+   {
+    "start": 0.94,
+    "end": 1.37,
+    "sec": 0.43,
+    "kind": "mid",
+    "after": "には、"
+   },
+   {
+    "start": 2.98,
+    "end": 3.46,
+    "sec": 0.48,
+    "kind": "mid",
+    "after": "いた"
+   },
+   {
+    "start": 3.61,
+    "end": 3.79,
+    "sec": 0.18,
+    "kind": "mid",
+    "after": "屈"
+   },
+   {
+    "start": 4.86,
+    "end": 5.08,
+    "sec": 0.22,
+    "kind": "mid",
+    "after": "が"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "guide_seed8_k035",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed8_k035.wav",
+  "text_display": "少し、立ち止まってみましょうか。",
+  "text_sent": "すこし、たちどまって みましょうか。",
+  "reading_ref": null,
+  "transcript": "少し立ち止まってみましょうか。",
+  "src_norm": "少し立ち止まってみましょうか",
+  "hyp_norm": "少し立ち止まってみましょうか",
+  "diffs": [],
+  "cer": 0.0,
+  "src_kana": "スコシタチドマッテミマショーカ",
+  "hyp_kana": "スコシタチドマッテミマショーカ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 2.76,
+  "voiced_sec": 2.6,
+  "chars": 14,
+  "sec_per_char": 0.186,
+  "silences_mid": [
+   {
+    "start": 0.57,
+    "end": 1.19,
+    "sec": 0.62,
+    "kind": "mid",
+    "after": "し"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed1_k017",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed1_k017.wav",
+  "text_display": "明の国の使いも、この北山殿で迎えたのだ。",
+  "text_sent": "みんの くにの つかいも、この きたやまどので むかえたのだ。",
+  "reading_ref": null,
+  "transcript": "民の国の使いも、この北山殿で迎えたのだ。",
+  "src_norm": "明の国の使いもこのきたやま殿で迎えたのだ",
+  "hyp_norm": "民の国の使いもこのきたやま殿で迎えたのだ",
+  "diffs": [
+   "明→民"
+  ],
+  "cer": 0.05,
+  "src_kana": "ミンノクニノツカイモコノキタヤマドノデムカエタノダ",
+  "hyp_kana": "ミンノクニノツカイモコノキタヤマドノデムカエタノダ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 4.56,
+  "voiced_sec": 4.12,
+  "chars": 18,
+  "sec_per_char": 0.229,
+  "silences_mid": [
+   {
+    "start": 1.5,
+    "end": 2.02,
+    "sec": 0.52,
+    "kind": "mid",
+    "after": "も、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.44,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed1_k085",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed1_k085.wav",
+  "text_display": "燃えても、図さえ残っておれば、閣はまた建つ。よう残してくれた。",
+  "text_sent": "もえても、ずさえ のこって おれば、かくは また たつ。よう のこして くれた。",
+  "reading_ref": null,
+  "transcript": "もえても、ずさえのこっておれば、かくはまたたつ。ようのこしてくれた。",
+  "src_norm": "燃えても図さえ残っておれば閣はまた建つよう残してくれた",
+  "hyp_norm": "もえてもずさえのこっておればかくはまたたつようのこしてくれた",
+  "diffs": [
+   "燃→も",
+   "図→ず",
+   "残→のこ",
+   "閣→かく",
+   "建→た",
+   "残→のこ"
+  ],
+  "cer": 0.333,
+  "src_kana": "モエテモズサエノコッテオレバカクワマタタツヨーノコシテクレタ",
+  "hyp_kana": "モエテモズサエノコッテオレバカクワマタタツヨーノコシテクレタ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 7.2,
+  "voiced_sec": 6.74,
+  "chars": 27,
+  "sec_per_char": 0.25,
+  "silences_mid": [
+   {
+    "start": 0.7,
+    "end": 1.13,
+    "sec": 0.43,
+    "kind": "mid",
+    "after": "も、"
+   },
+   {
+    "start": 2.55,
+    "end": 3.21,
+    "sec": 0.66,
+    "kind": "mid",
+    "after": "ば、"
+   },
+   {
+    "start": 4.52,
+    "end": 5.53,
+    "sec": 1.01,
+    "kind": "mid",
+    "after": "つ。"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.46,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed1_k091",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed1_k091.wav",
+  "text_display": "急ぐことはない。池に映る方の閣も、よう見てゆけ。",
+  "text_sent": "いそぐ ことは ない。いけに うつる ほうの かくも、よう みて ゆけ。",
+  "reading_ref": null,
+  "transcript": "急ぐことはない。池に移る方の角も、よう見てゆけ。",
+  "src_norm": "急ぐことはない池に映る方の閣もよう見てゆけ",
+  "hyp_norm": "急ぐことはない池に移る方の角もよう見てゆけ",
+  "diffs": [
+   "映→移",
+   "閣→角"
+  ],
+  "cer": 0.095,
+  "src_kana": "イソグコトワナイイケニウツルホーノカクモヨーミテユケ",
+  "hyp_kana": "イソグコトワナイイケニウツルホーノカクモヨーミテユケ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.64,
+  "voiced_sec": 6.52,
+  "chars": 21,
+  "sec_per_char": 0.31,
+  "silences_mid": [
+   {
+    "start": 1.39,
+    "end": 2.37,
+    "sec": 0.98,
+    "kind": "mid",
+    "after": "ない。"
+   },
+   {
+    "start": 4.45,
+    "end": 4.97,
+    "sec": 0.52,
+    "kind": "mid",
+    "after": "も、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed2_k017",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed2_k017.wav",
+  "text_display": "明の国の使いも、この北山殿で迎えたのだ。",
+  "text_sent": "みんの くにの つかいも、この きたやまどので むかえたのだ。",
+  "reading_ref": null,
+  "transcript": "民の国の使いもこの北山殿で迎えたのだ",
+  "src_norm": "明の国の使いもこのきたやま殿で迎えたのだ",
+  "hyp_norm": "民の国の使いもこのきたやま殿で迎えたのだ",
+  "diffs": [
+   "明→民"
+  ],
+  "cer": 0.05,
+  "src_kana": "ミンノクニノツカイモコノキタヤマドノデムカエタノダ",
+  "hyp_kana": "ミンノクニノツカイモコノキタヤマドノデムカエタノダ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 3.92,
+  "voiced_sec": 3.86,
+  "chars": 18,
+  "sec_per_char": 0.214,
+  "silences_mid": [
+   {
+    "start": 1.49,
+    "end": 1.8,
+    "sec": 0.31,
+    "kind": "mid",
+    "after": "も"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed2_k085",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed2_k085.wav",
+  "text_display": "燃えても、図さえ残っておれば、閣はまた建つ。よう残してくれた。",
+  "text_sent": "もえても、ずさえ のこって おれば、かくは また たつ。よう のこして くれた。",
+  "reading_ref": null,
+  "transcript": "燃えても図さえ残っておれば角 はまた立つ世を残してくれた",
+  "src_norm": "燃えても図さえ残っておれば閣はまた建つよう残してくれた",
+  "hyp_norm": "燃えても図さえ残っておれば角はまた立つ世を残してくれた",
+  "diffs": [
+   "閣→角",
+   "建→立",
+   "よう→世を"
+  ],
+  "cer": 0.148,
+  "src_kana": "モエテモズサエノコッテオレバカクワマタタツヨーノコシテクレタ",
+  "hyp_kana": "モエテモズサエノコッテオレバカクワマタタツヨオノコシテクレタ",
+  "kana_diffs": [
+   "ー→オ"
+  ],
+  "kana_er": 0.033,
+  "total_sec": 6.24,
+  "voiced_sec": 6.18,
+  "chars": 27,
+  "sec_per_char": 0.229,
+  "silences_mid": [
+   {
+    "start": 0.73,
+    "end": 1.12,
+    "sec": 0.39,
+    "kind": "mid",
+    "after": "も"
+   },
+   {
+    "start": 2.55,
+    "end": 3.04,
+    "sec": 0.49,
+    "kind": "mid",
+    "after": "ば"
+   },
+   {
+    "start": 4.34,
+    "end": 4.79,
+    "sec": 0.45,
+    "kind": "mid",
+    "after": "つ"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed2_k091",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed2_k091.wav",
+  "text_display": "急ぐことはない。池に映る方の閣も、よう見てゆけ。",
+  "text_sent": "いそぐ ことは ない。いけに うつる ほうの かくも、よう みて ゆけ。",
+  "reading_ref": null,
+  "transcript": "急ぐことはない。池に移る方の角も、よう見てゆけ。",
+  "src_norm": "急ぐことはない池に映る方の閣もよう見てゆけ",
+  "hyp_norm": "急ぐことはない池に移る方の角もよう見てゆけ",
+  "diffs": [
+   "映→移",
+   "閣→角"
+  ],
+  "cer": 0.095,
+  "src_kana": "イソグコトワナイイケニウツルホーノカクモヨーミテユケ",
+  "hyp_kana": "イソグコトワナイイケニウツルホーノカクモヨーミテユケ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 5.52,
+  "voiced_sec": 5.42,
+  "chars": 21,
+  "sec_per_char": 0.258,
+  "silences_mid": [
+   {
+    "start": 1.25,
+    "end": 2.07,
+    "sec": 0.82,
+    "kind": "mid",
+    "after": "ない。"
+   },
+   {
+    "start": 3.74,
+    "end": 4.12,
+    "sec": 0.38,
+    "kind": "mid",
+    "after": "も、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed3_k017",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed3_k017.wav",
+  "text_display": "明の国の使いも、この北山殿で迎えたのだ。",
+  "text_sent": "みんの くにの つかいも、この きたやまどので むかえたのだ。",
+  "reading_ref": null,
+  "transcript": "民の国の使いもこの北山殿で迎えたのだ",
+  "src_norm": "明の国の使いもこのきたやま殿で迎えたのだ",
+  "hyp_norm": "民の国の使いもこのきたやま殿で迎えたのだ",
+  "diffs": [
+   "明→民"
+  ],
+  "cer": 0.05,
+  "src_kana": "ミンノクニノツカイモコノキタヤマドノデムカエタノダ",
+  "hyp_kana": "ミンノクニノツカイモコノキタヤマドノデムカエタノダ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 4.28,
+  "voiced_sec": 4.15,
+  "chars": 18,
+  "sec_per_char": 0.231,
+  "silences_mid": [
+   {
+    "start": 1.53,
+    "end": 2.06,
+    "sec": 0.53,
+    "kind": "mid",
+    "after": "も"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed3_k085",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed3_k085.wav",
+  "text_display": "燃えても、図さえ残っておれば、閣はまた建つ。よう残してくれた。",
+  "text_sent": "もえても、ずさえ のこって おれば、かくは また たつ。よう のこして くれた。",
+  "reading_ref": null,
+  "transcript": "燃えても図さえ残っておれば、核はまた立つ。よう残してくれた。",
+  "src_norm": "燃えても図さえ残っておれば閣はまた建つよう残してくれた",
+  "hyp_norm": "燃えても図さえ残っておれば核はまた立つよう残してくれた",
+  "diffs": [
+   "閣→核",
+   "建→立"
+  ],
+  "cer": 0.074,
+  "src_kana": "モエテモズサエノコッテオレバカクワマタタツヨーノコシテクレタ",
+  "hyp_kana": "モエテモズサエノコッテオレバカクワマタタツヨーノコシテクレタ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.64,
+  "voiced_sec": 6.54,
+  "chars": 27,
+  "sec_per_char": 0.242,
+  "silences_mid": [
+   {
+    "start": 0.66,
+    "end": 1.03,
+    "sec": 0.37,
+    "kind": "mid",
+    "after": "も"
+   },
+   {
+    "start": 2.57,
+    "end": 3.04,
+    "sec": 0.47,
+    "kind": "mid",
+    "after": "ば、"
+   },
+   {
+    "start": 4.36,
+    "end": 5.09,
+    "sec": 0.73,
+    "kind": "mid",
+    "after": "つ。"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed3_k091",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed3_k091.wav",
+  "text_display": "急ぐことはない。池に映る方の閣も、よう見てゆけ。",
+  "text_sent": "いそぐ ことは ない。いけに うつる ほうの かくも、よう みて ゆけ。",
+  "reading_ref": null,
+  "transcript": "いそぐことはない。いけにうつるほうのかくも、ようみてゆけ。",
+  "src_norm": "急ぐことはない池に映る方の閣もよう見てゆけ",
+  "hyp_norm": "いそぐことはないいけにうつるほうのかくもようみてゆけ",
+  "diffs": [
+   "急→いそ",
+   "池→いけ",
+   "映→うつ",
+   "方→ほう",
+   "閣→かく",
+   "見→み"
+  ],
+  "cer": 0.524,
+  "src_kana": "イソグコトワナイイケニウツルホーノカクモヨーミテユケ",
+  "hyp_kana": "イソグコトワナイイケニウツルホーノカクモヨーミテユケ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.0,
+  "voiced_sec": 5.77,
+  "chars": 21,
+  "sec_per_char": 0.275,
+  "silences_mid": [
+   {
+    "start": 1.29,
+    "end": 2.11,
+    "sec": 0.82,
+    "kind": "mid",
+    "after": "ない。"
+   },
+   {
+    "start": 4.12,
+    "end": 4.7,
+    "sec": 0.58,
+    "kind": "mid",
+    "after": "も、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.2,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed4_k017",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed4_k017.wav",
+  "text_display": "明の国の使いも、この北山殿で迎えたのだ。",
+  "text_sent": "みんの くにの つかいも、この きたやまどので むかえたのだ。",
+  "reading_ref": null,
+  "transcript": "民の国の使いもこの北山殿で迎えたのだ",
+  "src_norm": "明の国の使いもこのきたやま殿で迎えたのだ",
+  "hyp_norm": "民の国の使いもこのきたやま殿で迎えたのだ",
+  "diffs": [
+   "明→民"
+  ],
+  "cer": 0.05,
+  "src_kana": "ミンノクニノツカイモコノキタヤマドノデムカエタノダ",
+  "hyp_kana": "ミンノクニノツカイモコノキタヤマドノデムカエタノダ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 3.76,
+  "voiced_sec": 3.7,
+  "chars": 18,
+  "sec_per_char": 0.206,
+  "silences_mid": [
+   {
+    "start": 1.34,
+    "end": 1.79,
+    "sec": 0.45,
+    "kind": "mid",
+    "after": "も"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed4_k085",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed4_k085.wav",
+  "text_display": "燃えても、図さえ残っておれば、閣はまた建つ。よう残してくれた。",
+  "text_sent": "もえても、ずさえ のこって おれば、かくは また たつ。よう のこして くれた。",
+  "reading_ref": null,
+  "transcript": "燃えても、図さえ残っておれば、角はまた立つ。よう残してくれた。",
+  "src_norm": "燃えても図さえ残っておれば閣はまた建つよう残してくれた",
+  "hyp_norm": "燃えても図さえ残っておれば角はまた立つよう残してくれた",
+  "diffs": [
+   "閣→角",
+   "建→立"
+  ],
+  "cer": 0.074,
+  "src_kana": "モエテモズサエノコッテオレバカクワマタタツヨーノコシテクレタ",
+  "hyp_kana": "モエテモズサエノコッテオレバカクワマタタツヨーノコシテクレタ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.0,
+  "voiced_sec": 5.96,
+  "chars": 27,
+  "sec_per_char": 0.221,
+  "silences_mid": [
+   {
+    "start": 0.63,
+    "end": 1.18,
+    "sec": 0.55,
+    "kind": "mid",
+    "after": "も、"
+   },
+   {
+    "start": 2.54,
+    "end": 3.05,
+    "sec": 0.51,
+    "kind": "mid",
+    "after": "ば、"
+   },
+   {
+    "start": 4.14,
+    "end": 4.79,
+    "sec": 0.65,
+    "kind": "mid",
+    "after": "つ。"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed4_k091",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed4_k091.wav",
+  "text_display": "急ぐことはない。池に映る方の閣も、よう見てゆけ。",
+  "text_sent": "いそぐ ことは ない。いけに うつる ほうの かくも、よう みて ゆけ。",
+  "reading_ref": null,
+  "transcript": "急ぐことはない。池に移る方の角も、よう見てゆけ。",
+  "src_norm": "急ぐことはない池に映る方の閣もよう見てゆけ",
+  "hyp_norm": "急ぐことはない池に移る方の角もよう見てゆけ",
+  "diffs": [
+   "映→移",
+   "閣→角"
+  ],
+  "cer": 0.095,
+  "src_kana": "イソグコトワナイイケニウツルホーノカクモヨーミテユケ",
+  "hyp_kana": "イソグコトワナイイケニウツルホーノカクモヨーミテユケ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 5.4,
+  "voiced_sec": 5.2,
+  "chars": 21,
+  "sec_per_char": 0.248,
+  "silences_mid": [
+   {
+    "start": 1.04,
+    "end": 2.11,
+    "sec": 1.07,
+    "kind": "mid",
+    "after": "ない。"
+   },
+   {
+    "start": 3.68,
+    "end": 4.2,
+    "sec": 0.52,
+    "kind": "mid",
+    "after": "も、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.17,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed5_k017",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed5_k017.wav",
+  "text_display": "明の国の使いも、この北山殿で迎えたのだ。",
+  "text_sent": "みんの くにの つかいも、この きたやまどので むかえたのだ。",
+  "reading_ref": null,
+  "transcript": "明の国の使いもこの北山殿で迎えたのだ",
+  "src_norm": "明の国の使いもこのきたやま殿で迎えたのだ",
+  "hyp_norm": "明の国の使いもこのきたやま殿で迎えたのだ",
+  "diffs": [],
+  "cer": 0.0,
+  "src_kana": "ミンノクニノツカイモコノキタヤマドノデムカエタノダ",
+  "hyp_kana": "ミンノクニノツカイモコノキタヤマドノデムカエタノダ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 4.12,
+  "voiced_sec": 3.82,
+  "chars": 18,
+  "sec_per_char": 0.212,
+  "silences_mid": [
+   {
+    "start": 1.41,
+    "end": 1.91,
+    "sec": 0.5,
+    "kind": "mid",
+    "after": "も"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.24,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed5_k085",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed5_k085.wav",
+  "text_display": "燃えても、図さえ残っておれば、閣はまた建つ。よう残してくれた。",
+  "text_sent": "もえても、ずさえ のこって おれば、かくは また たつ。よう のこして くれた。",
+  "reading_ref": null,
+  "transcript": "燃えても図さえ残っておれば、角はまた立つ。よう残してくれた。",
+  "src_norm": "燃えても図さえ残っておれば閣はまた建つよう残してくれた",
+  "hyp_norm": "燃えても図さえ残っておれば角はまた立つよう残してくれた",
+  "diffs": [
+   "閣→角",
+   "建→立"
+  ],
+  "cer": 0.074,
+  "src_kana": "モエテモズサエノコッテオレバカクワマタタツヨーノコシテクレタ",
+  "hyp_kana": "モエテモズサエノコッテオレバカクワマタタツヨーノコシテクレタ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.4,
+  "voiced_sec": 6.28,
+  "chars": 27,
+  "sec_per_char": 0.233,
+  "silences_mid": [
+   {
+    "start": 0.67,
+    "end": 1.03,
+    "sec": 0.36,
+    "kind": "mid",
+    "after": "も"
+   },
+   {
+    "start": 1.79,
+    "end": 1.96,
+    "sec": 0.17,
+    "kind": "mid",
+    "after": "残"
+   },
+   {
+    "start": 2.54,
+    "end": 3.05,
+    "sec": 0.51,
+    "kind": "mid",
+    "after": "ば、"
+   },
+   {
+    "start": 4.33,
+    "end": 4.97,
+    "sec": 0.64,
+    "kind": "mid",
+    "after": "つ。"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed5_k091",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed5_k091.wav",
+  "text_display": "急ぐことはない。池に映る方の閣も、よう見てゆけ。",
+  "text_sent": "いそぐ ことは ない。いけに うつる ほうの かくも、よう みて ゆけ。",
+  "reading_ref": null,
+  "transcript": "いそぐことはないいけにうつる ほうのかくもようみてゆけ",
+  "src_norm": "急ぐことはない池に映る方の閣もよう見てゆけ",
+  "hyp_norm": "いそぐことはないいけにうつるほうのかくもようみてゆけ",
+  "diffs": [
+   "急→いそ",
+   "池→いけ",
+   "映→うつ",
+   "方→ほう",
+   "閣→かく",
+   "見→み"
+  ],
+  "cer": 0.524,
+  "src_kana": "イソグコトワナイイケニウツルホーノカクモヨーミテユケ",
+  "hyp_kana": "イソグコトワナイイケニウツルホーノカクモヨーミテユケ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 5.68,
+  "voiced_sec": 5.58,
+  "chars": 21,
+  "sec_per_char": 0.266,
+  "silences_mid": [
+   {
+    "start": 1.23,
+    "end": 2.1,
+    "sec": 0.87,
+    "kind": "mid",
+    "after": "ない"
+   },
+   {
+    "start": 4.0,
+    "end": 4.56,
+    "sec": 0.56,
+    "kind": "mid",
+    "after": "も"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed6_k017",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed6_k017.wav",
+  "text_display": "明の国の使いも、この北山殿で迎えたのだ。",
+  "text_sent": "みんの くにの つかいも、この きたやまどので むかえたのだ。",
+  "reading_ref": null,
+  "transcript": "みんのくにのつかいもこのきたやまどのでむかえたのだ",
+  "src_norm": "明の国の使いもこのきたやま殿で迎えたのだ",
+  "hyp_norm": "みんのくにのつかいもこのきたやまどのでむかえたのだ",
+  "diffs": [
+   "明→みん",
+   "国→くに",
+   "使→つか",
+   "殿→どの",
+   "迎→むか"
+  ],
+  "cer": 0.5,
+  "src_kana": "ミンノクニノツカイモコノキタヤマドノデムカエタノダ",
+  "hyp_kana": "ミンノクニノツカイモコノキタヤマドノデムカエタノダ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 4.64,
+  "voiced_sec": 4.44,
+  "chars": 18,
+  "sec_per_char": 0.247,
+  "silences_mid": [
+   {
+    "start": 1.61,
+    "end": 2.01,
+    "sec": 0.4,
+    "kind": "mid",
+    "after": "も"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.2,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed6_k085",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed6_k085.wav",
+  "text_display": "燃えても、図さえ残っておれば、閣はまた建つ。よう残してくれた。",
+  "text_sent": "もえても、ずさえ のこって おれば、かくは また たつ。よう のこして くれた。",
+  "reading_ref": null,
+  "transcript": "もえてもずさえのこっておれば かくはまたたつよをのこしてくれた",
+  "src_norm": "燃えても図さえ残っておれば閣はまた建つよう残してくれた",
+  "hyp_norm": "もえてもずさえのこっておればかくはまたたつよをのこしてくれた",
+  "diffs": [
+   "燃→も",
+   "図→ず",
+   "残→のこ",
+   "閣→かく",
+   "建→た",
+   "う残→をのこ"
+  ],
+  "cer": 0.37,
+  "src_kana": "モエテモズサエノコッテオレバカクワマタタツヨーノコシテクレタ",
+  "hyp_kana": "モエテモズサエノコッテオレバカクワマタタツヨオノコシテクレタ",
+  "kana_diffs": [
+   "ー→オ"
+  ],
+  "kana_er": 0.033,
+  "total_sec": 7.04,
+  "voiced_sec": 6.76,
+  "chars": 27,
+  "sec_per_char": 0.25,
+  "silences_mid": [
+   {
+    "start": 0.79,
+    "end": 1.0,
+    "sec": 0.21,
+    "kind": "mid",
+    "after": "も"
+   },
+   {
+    "start": 1.79,
+    "end": 1.95,
+    "sec": 0.16,
+    "kind": "mid",
+    "after": "って"
+   },
+   {
+    "start": 2.53,
+    "end": 3.01,
+    "sec": 0.48,
+    "kind": "mid",
+    "after": "ば"
+   },
+   {
+    "start": 4.37,
+    "end": 5.02,
+    "sec": 0.65,
+    "kind": "mid",
+    "after": "つ"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.28,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed6_k091",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed6_k091.wav",
+  "text_display": "急ぐことはない。池に映る方の閣も、よう見てゆけ。",
+  "text_sent": "いそぐ ことは ない。いけに うつる ほうの かくも、よう みて ゆけ。",
+  "reading_ref": null,
+  "transcript": "急ぐことはない。池に移る方の角も、よう見て行け。",
+  "src_norm": "急ぐことはない池に映る方の閣もよう見てゆけ",
+  "hyp_norm": "急ぐことはない池に移る方の角もよう見て行け",
+  "diffs": [
+   "映→移",
+   "閣→角",
+   "ゆ→行"
+  ],
+  "cer": 0.143,
+  "src_kana": "イソグコトワナイイケニウツルホーノカクモヨーミテユケ",
+  "hyp_kana": "イソグコトワナイイケニウツルホーノカクモヨーミテーケ",
+  "kana_diffs": [
+   "ユ→ー"
+  ],
+  "kana_er": 0.038,
+  "total_sec": 6.4,
+  "voiced_sec": 6.23,
+  "chars": 21,
+  "sec_per_char": 0.297,
+  "silences_mid": [
+   {
+    "start": 1.4,
+    "end": 2.19,
+    "sec": 0.79,
+    "kind": "mid",
+    "after": "ない。"
+   },
+   {
+    "start": 4.46,
+    "end": 4.95,
+    "sec": 0.49,
+    "kind": "mid",
+    "after": "も、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed7_k017",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed7_k017.wav",
+  "text_display": "明の国の使いも、この北山殿で迎えたのだ。",
+  "text_sent": "みんの くにの つかいも、この きたやまどので むかえたのだ。",
+  "reading_ref": null,
+  "transcript": "民の国の使いもこの北山殿で迎えたのだ。",
+  "src_norm": "明の国の使いもこのきたやま殿で迎えたのだ",
+  "hyp_norm": "民の国の使いもこのきたやま殿で迎えたのだ",
+  "diffs": [
+   "明→民"
+  ],
+  "cer": 0.05,
+  "src_kana": "ミンノクニノツカイモコノキタヤマドノデムカエタノダ",
+  "hyp_kana": "ミンノクニノツカイモコノキタヤマドノデムカエタノダ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 4.28,
+  "voiced_sec": 4.27,
+  "chars": 18,
+  "sec_per_char": 0.237,
+  "silences_mid": [
+   {
+    "start": 1.45,
+    "end": 2.29,
+    "sec": 0.84,
+    "kind": "mid",
+    "after": "も"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed7_k085",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed7_k085.wav",
+  "text_display": "燃えても、図さえ残っておれば、閣はまた建つ。よう残してくれた。",
+  "text_sent": "もえても、ずさえ のこって おれば、かくは また たつ。よう のこして くれた。",
+  "reading_ref": null,
+  "transcript": "燃えても図さえ残っておれば角はまた立つ。よう残してくれた。",
+  "src_norm": "燃えても図さえ残っておれば閣はまた建つよう残してくれた",
+  "hyp_norm": "燃えても図さえ残っておれば角はまた立つよう残してくれた",
+  "diffs": [
+   "閣→角",
+   "建→立"
+  ],
+  "cer": 0.074,
+  "src_kana": "モエテモズサエノコッテオレバカクワマタタツヨーノコシテクレタ",
+  "hyp_kana": "モエテモズサエノコッテオレバカクワマタタツヨーノコシテクレタ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.88,
+  "voiced_sec": 6.87,
+  "chars": 27,
+  "sec_per_char": 0.254,
+  "silences_mid": [
+   {
+    "start": 0.66,
+    "end": 1.18,
+    "sec": 0.52,
+    "kind": "mid",
+    "after": "も"
+   },
+   {
+    "start": 2.57,
+    "end": 3.22,
+    "sec": 0.65,
+    "kind": "mid",
+    "after": "ば"
+   },
+   {
+    "start": 4.33,
+    "end": 5.63,
+    "sec": 1.3,
+    "kind": "mid",
+    "after": "つ。"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed7_k091",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed7_k091.wav",
+  "text_display": "急ぐことはない。池に映る方の閣も、よう見てゆけ。",
+  "text_sent": "いそぐ ことは ない。いけに うつる ほうの かくも、よう みて ゆけ。",
+  "reading_ref": null,
+  "transcript": "急ぐことはない。池に移る方の角も、よう見てゆけ。",
+  "src_norm": "急ぐことはない池に映る方の閣もよう見てゆけ",
+  "hyp_norm": "急ぐことはない池に移る方の角もよう見てゆけ",
+  "diffs": [
+   "映→移",
+   "閣→角"
+  ],
+  "cer": 0.095,
+  "src_kana": "イソグコトワナイイケニウツルホーノカクモヨーミテユケ",
+  "hyp_kana": "イソグコトワナイイケニウツルホーノカクモヨーミテユケ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.48,
+  "voiced_sec": 6.41,
+  "chars": 21,
+  "sec_per_char": 0.305,
+  "silences_mid": [
+   {
+    "start": 1.22,
+    "end": 2.45,
+    "sec": 1.23,
+    "kind": "mid",
+    "after": "ない。"
+   },
+   {
+    "start": 4.42,
+    "end": 5.29,
+    "sec": 0.87,
+    "kind": "mid",
+    "after": "も、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed8_k017",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed8_k017.wav",
+  "text_display": "明の国の使いも、この北山殿で迎えたのだ。",
+  "text_sent": "みんの くにの つかいも、この きたやまどので むかえたのだ。",
+  "reading_ref": null,
+  "transcript": "民の国の使いもこの北山殿で迎えたのだ",
+  "src_norm": "明の国の使いもこのきたやま殿で迎えたのだ",
+  "hyp_norm": "民の国の使いもこのきたやま殿で迎えたのだ",
+  "diffs": [
+   "明→民"
+  ],
+  "cer": 0.05,
+  "src_kana": "ミンノクニノツカイモコノキタヤマドノデムカエタノダ",
+  "hyp_kana": "ミンノクニノツカイモコノキタヤマドノデムカエタノダ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 4.52,
+  "voiced_sec": 4.07,
+  "chars": 18,
+  "sec_per_char": 0.226,
+  "silences_mid": [
+   {
+    "start": 1.49,
+    "end": 2.06,
+    "sec": 0.57,
+    "kind": "mid",
+    "after": "も"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.43,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed8_k085",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed8_k085.wav",
+  "text_display": "燃えても、図さえ残っておれば、閣はまた建つ。よう残してくれた。",
+  "text_sent": "もえても、ずさえ のこって おれば、かくは また たつ。よう のこして くれた。",
+  "reading_ref": null,
+  "transcript": "もえてもずさえのこっておれば、かくはまたたつ。ようのこしてくれた。",
+  "src_norm": "燃えても図さえ残っておれば閣はまた建つよう残してくれた",
+  "hyp_norm": "もえてもずさえのこっておればかくはまたたつようのこしてくれた",
+  "diffs": [
+   "燃→も",
+   "図→ず",
+   "残→のこ",
+   "閣→かく",
+   "建→た",
+   "残→のこ"
+  ],
+  "cer": 0.333,
+  "src_kana": "モエテモズサエノコッテオレバカクワマタタツヨーノコシテクレタ",
+  "hyp_kana": "モエテモズサエノコッテオレバカクワマタタツヨーノコシテクレタ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.76,
+  "voiced_sec": 6.65,
+  "chars": 27,
+  "sec_per_char": 0.246,
+  "silences_mid": [
+   {
+    "start": 1.7,
+    "end": 1.87,
+    "sec": 0.17,
+    "kind": "mid",
+    "after": "こ"
+   },
+   {
+    "start": 2.48,
+    "end": 3.05,
+    "sec": 0.57,
+    "kind": "mid",
+    "after": "ば、"
+   },
+   {
+    "start": 4.33,
+    "end": 5.09,
+    "sec": 0.76,
+    "kind": "mid",
+    "after": "つ。"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ },
+ {
+  "id": "yoshimitsu_seed8_k091",
+  "engine": "irodori-v4.1-int8",
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed8_k091.wav",
+  "text_display": "急ぐことはない。池に映る方の閣も、よう見てゆけ。",
+  "text_sent": "いそぐ ことは ない。いけに うつる ほうの かくも、よう みて ゆけ。",
+  "reading_ref": null,
+  "transcript": "急ぐことはない。池に移る方の角も、よう見てゆけ。",
+  "src_norm": "急ぐことはない池に映る方の閣もよう見てゆけ",
+  "hyp_norm": "急ぐことはない池に移る方の角もよう見てゆけ",
+  "diffs": [
+   "映→移",
+   "閣→角"
+  ],
+  "cer": 0.095,
+  "src_kana": "イソグコトワナイイケニウツルホーノカクモヨーミテユケ",
+  "hyp_kana": "イソグコトワナイイケニウツルホーノカクモヨーミテユケ",
+  "kana_diffs": [],
+  "kana_er": 0.0,
+  "total_sec": 6.04,
+  "voiced_sec": 5.97,
+  "chars": 21,
+  "sec_per_char": 0.284,
+  "silences_mid": [
+   {
+    "start": 1.23,
+    "end": 2.36,
+    "sec": 1.13,
+    "kind": "mid",
+    "after": "ない。"
+   },
+   {
+    "start": 4.15,
+    "end": 4.88,
+    "sec": 0.73,
+    "kind": "mid",
+    "after": "も、"
+   }
+  ],
+  "head_sil": 0.0,
+  "tail_sil": 0.0,
+  "short": false,
+  "flags": []
+ }
+]

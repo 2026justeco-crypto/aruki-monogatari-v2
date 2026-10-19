@@ -1,0 +1,130 @@
+[
+ {
+  "id": "guide_seed1_ref",
+  "text": "きたやまどのは、せいじと がいこうの ちゅうしんに なって いきます。",
+  "display": "北山殿は、政治と外交の中心になっていきます。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav"
+ },
+ {
+  "id": "guide_seed2_ref",
+  "text": "きたやまどのは、せいじと がいこうの ちゅうしんに なって いきます。",
+  "display": "北山殿は、政治と外交の中心になっていきます。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "seed": 2,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed2_ref.wav"
+ },
+ {
+  "id": "guide_seed3_ref",
+  "text": "きたやまどのは、せいじと がいこうの ちゅうしんに なって いきます。",
+  "display": "北山殿は、政治と外交の中心になっていきます。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "seed": 3,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed3_ref.wav"
+ },
+ {
+  "id": "guide_seed4_ref",
+  "text": "きたやまどのは、せいじと がいこうの ちゅうしんに なって いきます。",
+  "display": "北山殿は、政治と外交の中心になっていきます。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "seed": 4,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed4_ref.wav"
+ },
+ {
+  "id": "guide_seed5_ref",
+  "text": "きたやまどのは、せいじと がいこうの ちゅうしんに なって いきます。",
+  "display": "北山殿は、政治と外交の中心になっていきます。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "seed": 5,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed5_ref.wav"
+ },
+ {
+  "id": "guide_seed6_ref",
+  "text": "きたやまどのは、せいじと がいこうの ちゅうしんに なって いきます。",
+  "display": "北山殿は、政治と外交の中心になっていきます。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "seed": 6,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed6_ref.wav"
+ },
+ {
+  "id": "guide_seed7_ref",
+  "text": "きたやまどのは、せいじと がいこうの ちゅうしんに なって いきます。",
+  "display": "北山殿は、政治と外交の中心になっていきます。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "seed": 7,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed7_ref.wav"
+ },
+ {
+  "id": "guide_seed8_ref",
+  "text": "きたやまどのは、せいじと がいこうの ちゅうしんに なって いきます。",
+  "display": "北山殿は、政治と外交の中心になっていきます。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "seed": 8,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed8_ref.wav"
+ },
+ {
+  "id": "yoshimitsu_seed1_ref",
+  "text": "わしが よしみつだ。あたまは まるめたが、まつりごとから しりぞいた わけでは ないぞ。",
+  "display": "わしが義満だ。頭は丸めたが、政から退いたわけではないぞ。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed1_ref.wav"
+ },
+ {
+  "id": "yoshimitsu_seed2_ref",
+  "text": "わしが よしみつだ。あたまは まるめたが、まつりごとから しりぞいた わけでは ないぞ。",
+  "display": "わしが義満だ。頭は丸めたが、政から退いたわけではないぞ。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "seed": 2,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed2_ref.wav"
+ },
+ {
+  "id": "yoshimitsu_seed3_ref",
+  "text": "わしが よしみつだ。あたまは まるめたが、まつりごとから しりぞいた わけでは ないぞ。",
+  "display": "わしが義満だ。頭は丸めたが、政から退いたわけではないぞ。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "seed": 3,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed3_ref.wav"
+ },
+ {
+  "id": "yoshimitsu_seed4_ref",
+  "text": "わしが よしみつだ。あたまは まるめたが、まつりごとから しりぞいた わけでは ないぞ。",
+  "display": "わしが義満だ。頭は丸めたが、政から退いたわけではないぞ。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "seed": 4,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed4_ref.wav"
+ },
+ {
+  "id": "yoshimitsu_seed5_ref",
+  "text": "わしが よしみつだ。あたまは まるめたが、まつりごとから しりぞいた わけでは ないぞ。",
+  "display": "わしが義満だ。頭は丸めたが、政から退いたわけではないぞ。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "seed": 5,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed5_ref.wav"
+ },
+ {
+  "id": "yoshimitsu_seed6_ref",
+  "text": "わしが よしみつだ。あたまは まるめたが、まつりごとから しりぞいた わけでは ないぞ。",
+  "display": "わしが義満だ。頭は丸めたが、政から退いたわけではないぞ。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "seed": 6,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed6_ref.wav"
+ },
+ {
+  "id": "yoshimitsu_seed7_ref",
+  "text": "わしが よしみつだ。あたまは まるめたが、まつりごとから しりぞいた わけでは ないぞ。",
+  "display": "わしが義満だ。頭は丸めたが、政から退いたわけではないぞ。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "seed": 7,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed7_ref.wav"
+ },
+ {
+  "id": "yoshimitsu_seed8_ref",
+  "text": "わしが よしみつだ。あたまは まるめたが、まつりごとから しりぞいた わけでは ないぞ。",
+  "display": "わしが義満だ。頭は丸めたが、政から退いたわけではないぞ。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "seed": 8,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed8_ref.wav"
+ }
+]

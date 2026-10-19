@@ -1,0 +1,218 @@
+[
+ {
+  "id": "guide_seed1_k004",
+  "text": "きんかくの なで 知られる この おてら、せいしきには ほくざんろくおんじ と いいます。",
+  "display": "金閣の名で知られるこのお寺、正式には北山鹿苑寺といいます。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test2\\guide_seed1_k004.wav"
+ },
+ {
+  "id": "guide_seed1_k014",
+  "text": "きゅうさいの よしもちに しょうぐんの しょくを ゆずったのは、おうえいがんねん、せんさんびゃくきゅうじゅうよねんの こと。",
+  "display": "九歳の義持に将軍の職を譲ったのは、応永元年（1394年）のこと。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test2\\guide_seed1_k014.wav"
+ },
+ {
+  "id": "guide_seed1_k024",
+  "text": "いっそうは しんでんづくり、にそうは ぶけづくり、さんそうは ぜんしゅうの ぶつでんづくり です。",
+  "display": "一層は寝殿造、二層は武家造、三層は禅宗の仏殿造です。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test2\\guide_seed1_k024.wav"
+ },
+ {
+  "id": "guide_seed1_k044",
+  "text": "なまえは、よしみつの ほうごう、ろくおんいんどの から、にじを とった もの です。",
+  "display": "名前は、義満の法号「鹿苑院殿」から、二字をとったものです。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test2\\guide_seed1_k044.wav"
+ },
+ {
+  "id": "guide_seed1_k050",
+  "text": "こうした かいさんの むかえかたを、かんじょうかいさん と いいます。",
+  "display": "こうした開山の迎え方を、勧請開山といいます。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test2\\guide_seed1_k050.wav"
+ },
+ {
+  "id": "guide_seed1_k061",
+  "text": "えどじだいには、じゅうしょくの ほうりんじょうしょうが、かたむいた きんかくと にわを しゅうり しました。",
+  "display": "江戸時代には、住職の鳳林承章が、傾いた金閣と庭を修理しました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test2\\guide_seed1_k061.wav"
+ },
+ {
+  "id": "guide_seed1_k072",
+  "text": "しょうわにじゅうごねん、せんきゅうひゃくごじゅうねん、しちがつふつか。",
+  "display": "昭和二十五年（1950年）七月二日。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test2\\guide_seed1_k072.wav"
+ },
+ {
+  "id": "guide_seed1_k089",
+  "text": "ゆうひの ころの きんかくは、せっかていの なの とおり、やはり よい もの ですね。",
+  "display": "夕日のころの金閣は、夕佳亭の名のとおり、やはり佳いものですね。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test2\\guide_seed1_k089.wav"
+ },
+ {
+  "id": "guide_seed2_k004",
+  "text": "きんかくの なで 知られる この おてら、せいしきには ほくざんろくおんじ と いいます。",
+  "display": "金閣の名で知られるこのお寺、正式には北山鹿苑寺といいます。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed2_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test2\\guide_seed2_k004.wav"
+ },
+ {
+  "id": "guide_seed2_k014",
+  "text": "きゅうさいの よしもちに しょうぐんの しょくを ゆずったのは、おうえいがんねん、せんさんびゃくきゅうじゅうよねんの こと。",
+  "display": "九歳の義持に将軍の職を譲ったのは、応永元年（1394年）のこと。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed2_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test2\\guide_seed2_k014.wav"
+ },
+ {
+  "id": "guide_seed2_k024",
+  "text": "いっそうは しんでんづくり、にそうは ぶけづくり、さんそうは ぜんしゅうの ぶつでんづくり です。",
+  "display": "一層は寝殿造、二層は武家造、三層は禅宗の仏殿造です。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed2_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test2\\guide_seed2_k024.wav"
+ },
+ {
+  "id": "guide_seed2_k044",
+  "text": "なまえは、よしみつの ほうごう、ろくおんいんどの から、にじを とった もの です。",
+  "display": "名前は、義満の法号「鹿苑院殿」から、二字をとったものです。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed2_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test2\\guide_seed2_k044.wav"
+ },
+ {
+  "id": "guide_seed2_k050",
+  "text": "こうした かいさんの むかえかたを、かんじょうかいさん と いいます。",
+  "display": "こうした開山の迎え方を、勧請開山といいます。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed2_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test2\\guide_seed2_k050.wav"
+ },
+ {
+  "id": "guide_seed2_k061",
+  "text": "えどじだいには、じゅうしょくの ほうりんじょうしょうが、かたむいた きんかくと にわを しゅうり しました。",
+  "display": "江戸時代には、住職の鳳林承章が、傾いた金閣と庭を修理しました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed2_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test2\\guide_seed2_k061.wav"
+ },
+ {
+  "id": "guide_seed2_k072",
+  "text": "しょうわにじゅうごねん、せんきゅうひゃくごじゅうねん、しちがつふつか。",
+  "display": "昭和二十五年（1950年）七月二日。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed2_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test2\\guide_seed2_k072.wav"
+ },
+ {
+  "id": "guide_seed2_k089",
+  "text": "ゆうひの ころの きんかくは、せっかていの なの とおり、やはり よい もの ですね。",
+  "display": "夕日のころの金閣は、夕佳亭の名のとおり、やはり佳いものですね。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed2_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test2\\guide_seed2_k089.wav"
+ },
+ {
+  "id": "guide_seed7_k004",
+  "text": "きんかくの なで 知られる この おてら、せいしきには ほくざんろくおんじ と いいます。",
+  "display": "金閣の名で知られるこのお寺、正式には北山鹿苑寺といいます。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed7_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test2\\guide_seed7_k004.wav"
+ },
+ {
+  "id": "guide_seed7_k014",
+  "text": "きゅうさいの よしもちに しょうぐんの しょくを ゆずったのは、おうえいがんねん、せんさんびゃくきゅうじゅうよねんの こと。",
+  "display": "九歳の義持に将軍の職を譲ったのは、応永元年（1394年）のこと。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed7_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test2\\guide_seed7_k014.wav"
+ },
+ {
+  "id": "guide_seed7_k024",
+  "text": "いっそうは しんでんづくり、にそうは ぶけづくり、さんそうは ぜんしゅうの ぶつでんづくり です。",
+  "display": "一層は寝殿造、二層は武家造、三層は禅宗の仏殿造です。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed7_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test2\\guide_seed7_k024.wav"
+ },
+ {
+  "id": "guide_seed7_k044",
+  "text": "なまえは、よしみつの ほうごう、ろくおんいんどの から、にじを とった もの です。",
+  "display": "名前は、義満の法号「鹿苑院殿」から、二字をとったものです。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed7_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test2\\guide_seed7_k044.wav"
+ },
+ {
+  "id": "guide_seed7_k050",
+  "text": "こうした かいさんの むかえかたを、かんじょうかいさん と いいます。",
+  "display": "こうした開山の迎え方を、勧請開山といいます。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed7_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test2\\guide_seed7_k050.wav"
+ },
+ {
+  "id": "guide_seed7_k061",
+  "text": "えどじだいには、じゅうしょくの ほうりんじょうしょうが、かたむいた きんかくと にわを しゅうり しました。",
+  "display": "江戸時代には、住職の鳳林承章が、傾いた金閣と庭を修理しました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed7_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test2\\guide_seed7_k061.wav"
+ },
+ {
+  "id": "guide_seed7_k072",
+  "text": "しょうわにじゅうごねん、せんきゅうひゃくごじゅうねん、しちがつふつか。",
+  "display": "昭和二十五年（1950年）七月二日。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed7_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test2\\guide_seed7_k072.wav"
+ },
+ {
+  "id": "guide_seed7_k089",
+  "text": "ゆうひの ころの きんかくは、せっかていの なの とおり、やはり よい もの ですね。",
+  "display": "夕日のころの金閣は、夕佳亭の名のとおり、やはり佳いものですね。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed7_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test2\\guide_seed7_k089.wav"
+ }
+]

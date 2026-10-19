@@ -11,8 +11,8 @@
     "creative": true,
     "bgId": "bg01",
     "bg": "いま・朝の鏡湖池越しの金閣（初夏）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k001.m4a",
+    "duration": 3.88
   },
   {
     "id": "k002",
@@ -26,8 +26,8 @@
     "creative": true,
     "bgId": "bg01",
     "bg": "いま・朝の鏡湖池越しの金閣（初夏）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k002.m4a",
+    "duration": 5.8
   },
   {
     "id": "k003",
@@ -45,8 +45,8 @@
     "creative": false,
     "bgId": "bg01",
     "bg": "いま・朝の鏡湖池越しの金閣（初夏）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k003.m4a",
+    "duration": 6.36
   },
   {
     "id": "k004",
@@ -62,8 +62,8 @@
     "creative": false,
     "bgId": "bg01",
     "bg": "いま・朝の鏡湖池越しの金閣（初夏）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k004.m4a",
+    "duration": 7.04
   },
   {
     "id": "k005",
@@ -79,8 +79,8 @@
     "creative": false,
     "bgId": "bg01",
     "bg": "いま・朝の鏡湖池越しの金閣（初夏）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k005.m4a",
+    "duration": 7.52
   },
   {
     "id": "k006",
@@ -94,8 +94,8 @@
     "creative": true,
     "bgId": "bg01",
     "bg": "いま・朝の鏡湖池越しの金閣（初夏）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k006.m4a",
+    "duration": 3.72
   },
   {
     "id": "k007",
@@ -103,14 +103,14 @@
     "speaker": "guide",
     "expression": "think",
     "text": "この金閣は、いまから何年前に建ったものだと思いますか。",
-    "reading": "この きんかくは、いまから なんねん まえに 建った ものだと 思いますか。",
+    "reading": "この キンカクは、いまから なんねん まえに 建った ものだと 思いますか。",
     "direction": "答えを迫らない。語尾を上げすぎず、静かに置く",
     "facts": [],
     "creative": true,
     "bgId": "bg01",
     "bg": "いま・朝の鏡湖池越しの金閣（初夏）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k007.m4a",
+    "duration": 5.04
   },
   {
     "id": "k008",
@@ -126,8 +126,8 @@
     "creative": false,
     "bgId": "bg01",
     "bg": "いま・朝の鏡湖池越しの金閣（初夏）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k008.m4a",
+    "duration": 7.72
   },
   {
     "id": "k009",
@@ -143,8 +143,8 @@
     "creative": false,
     "bgId": "bg02",
     "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k009.m4a",
+    "duration": 9.88
   },
   {
     "id": "k010",
@@ -152,7 +152,7 @@
     "speaker": "guide",
     "expression": "normal",
     "text": "工事を始めたのは、室町幕府の三代将軍、足利義満です。",
-    "reading": "工事を 始めたのは、むろまちばくふの さんだいしょうぐん、あしかがよしみつ です。",
+    "reading": "工事を 始めたのは、むろまちばくふの さんだいしょうぐん、あしかが よしみつ です。",
     "direction": "人物を紹介する間をとる",
     "facts": [
       "T02",
@@ -161,8 +161,8 @@
     "creative": false,
     "bgId": "bg02",
     "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k010.m4a",
+    "duration": 6.72
   },
   {
     "id": "k011",
@@ -178,8 +178,8 @@
     "creative": false,
     "bgId": "bg02",
     "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k011.m4a",
+    "duration": 7.96
   },
   {
     "id": "k012",
@@ -195,8 +195,8 @@
     "creative": false,
     "bgId": "bg02",
     "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k012.m4a",
+    "duration": 6.84
   },
   {
     "id": "k013",
@@ -212,8 +212,8 @@
     "creative": false,
     "bgId": "bg02",
     "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k013.m4a",
+    "duration": 4.36
   },
   {
     "id": "k014",
@@ -229,8 +229,8 @@
     "creative": false,
     "bgId": "bg02",
     "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k014.m4a",
+    "duration": 9.64
   },
   {
     "id": "k015",
@@ -247,8 +247,8 @@
     "creative": false,
     "bgId": "bg02",
     "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k015.m4a",
+    "duration": 6.8
   },
   {
     "id": "k016",
@@ -266,8 +266,8 @@
     "creativeNote": "言い回しは創作。「政から退いていない」は T05（北山殿が政治・外交の中心）にもとづく",
     "bgId": "bg02",
     "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k016.m4a",
+    "duration": 6.24
   },
   {
     "id": "k017",
@@ -284,8 +284,8 @@
     "creativeNote": "言い回しは創作。明の使いを北山殿で迎えたことは T05（公式）",
     "bgId": "bg02",
     "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k017.m4a",
+    "duration": 3.76
   },
   {
     "id": "k018",
@@ -301,8 +301,8 @@
     "creative": false,
     "bgId": "bg02",
     "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k018.m4a",
+    "duration": 7.08
   },
   {
     "id": "k019",
@@ -318,8 +318,8 @@
     "creative": false,
     "bgId": "bg02",
     "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k019.m4a",
+    "duration": 4.92
   },
   {
     "id": "k020",
@@ -335,8 +335,8 @@
     "creative": false,
     "bgId": "bg02",
     "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k020.m4a",
+    "duration": 6.28
   },
   {
     "id": "k021",
@@ -353,8 +353,8 @@
     "creative": false,
     "bgId": "bg02",
     "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k021.m4a",
+    "duration": 5.88
   },
   {
     "id": "k022",
@@ -370,8 +370,8 @@
     "creative": false,
     "bgId": "bg02",
     "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k022.m4a",
+    "duration": 6.72
   },
   {
     "id": "k023",
@@ -388,8 +388,8 @@
     "creative": false,
     "bgId": "bg02",
     "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k023.m4a",
+    "duration": 5.48
   },
   {
     "id": "k024",
@@ -407,8 +407,8 @@
     "creative": false,
     "bgId": "bg02",
     "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k024.m4a",
+    "duration": 9.0
   },
   {
     "id": "k025",
@@ -424,8 +424,8 @@
     "creative": false,
     "bgId": "bg02",
     "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k025.m4a",
+    "duration": 4.48
   },
   {
     "id": "k026",
@@ -441,8 +441,8 @@
     "creative": false,
     "bgId": "bg02",
     "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k026.m4a",
+    "duration": 8.92
   },
   {
     "id": "k027",
@@ -459,8 +459,8 @@
     "creative": false,
     "bgId": "bg02",
     "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k027.m4a",
+    "duration": 6.52
   },
   {
     "id": "k028",
@@ -474,8 +474,8 @@
     "creative": true,
     "bgId": "bg02",
     "bg": "応永年間・造営された北山殿の想像図（鏡湖池と舎利殿・春）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k028.m4a",
+    "duration": 4.68
   },
   {
     "id": "k029",
@@ -492,8 +492,8 @@
     "creative": false,
     "bgId": "bg03",
     "bg": "応永十五年三月・北山行幸を迎えた北山殿（昼・遠景・人物は小さく）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k029.m4a",
+    "duration": 10.04
   },
   {
     "id": "k030",
@@ -509,8 +509,8 @@
     "creative": false,
     "bgId": "bg03",
     "bg": "応永十五年三月・北山行幸を迎えた北山殿（昼・遠景・人物は小さく）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k030.m4a",
+    "duration": 7.68
   },
   {
     "id": "k031",
@@ -527,8 +527,8 @@
     "creativeNote": "言い回しと「晴れの日」は創作。行幸と盛大な宴は T06",
     "bgId": "bg03",
     "bg": "応永十五年三月・北山行幸を迎えた北山殿（昼・遠景・人物は小さく）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k031.m4a",
+    "duration": 7.92
   },
   {
     "id": "k032",
@@ -545,8 +545,8 @@
     "creative": false,
     "bgId": "bg03",
     "bg": "応永十五年三月・北山行幸を迎えた北山殿（昼・遠景・人物は小さく）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k032.m4a",
+    "duration": 5.16
   },
   {
     "id": "k033",
@@ -562,8 +562,8 @@
     "creative": false,
     "bgId": "bg03",
     "bg": "応永十五年三月・北山行幸を迎えた北山殿（昼・遠景・人物は小さく）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k033.m4a",
+    "duration": 6.52
   },
   {
     "id": "k034",
@@ -579,8 +579,8 @@
     "creative": false,
     "bgId": "bg03",
     "bg": "応永十五年三月・北山行幸を迎えた北山殿（昼・遠景・人物は小さく）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k034.m4a",
+    "duration": 4.56
   },
   {
     "id": "k035",
@@ -594,8 +594,8 @@
     "creative": true,
     "bgId": "bg04",
     "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k035.m4a",
+    "duration": 3.24
   },
   {
     "id": "k036",
@@ -612,8 +612,8 @@
     "creative": false,
     "bgId": "bg04",
     "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k036.m4a",
+    "duration": 6.16
   },
   {
     "id": "k037",
@@ -629,8 +629,8 @@
     "creative": false,
     "bgId": "bg04",
     "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k037.m4a",
+    "duration": 5.48
   },
   {
     "id": "k038",
@@ -647,8 +647,8 @@
     "creative": false,
     "bgId": "bg04",
     "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k038.m4a",
+    "duration": 4.12
   },
   {
     "id": "k039",
@@ -662,8 +662,8 @@
     "creative": true,
     "bgId": "bg04",
     "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k039.m4a",
+    "duration": 5.88
   },
   {
     "id": "k040",
@@ -671,7 +671,7 @@
     "speaker": "guide",
     "expression": "normal",
     "text": "北山殿には、義満の妻・日野康子が住み続けました。",
-    "reading": "きたやまどのには、よしみつの つま、ひのやすこが 住みつづけました。",
+    "reading": "きたやまどのには、よしみつの つま、ひの やすこが 住みつづけました。",
     "direction": "淡々と",
     "facts": [
       "T10",
@@ -680,8 +680,8 @@
     "creative": false,
     "bgId": "bg04",
     "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k040.m4a",
+    "duration": 5.88
   },
   {
     "id": "k041",
@@ -697,8 +697,8 @@
     "creative": false,
     "bgId": "bg04",
     "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k041.m4a",
+    "duration": 8.0
   },
   {
     "id": "k042",
@@ -714,8 +714,8 @@
     "creative": false,
     "bgId": "bg04",
     "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k042.m4a",
+    "duration": 7.12
   },
   {
     "id": "k043",
@@ -731,8 +731,8 @@
     "creative": false,
     "bgId": "bg04",
     "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k043.m4a",
+    "duration": 7.08
   },
   {
     "id": "k044",
@@ -748,8 +748,8 @@
     "creative": false,
     "bgId": "bg04",
     "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k044.m4a",
+    "duration": 6.68
   },
   {
     "id": "k045",
@@ -757,7 +757,7 @@
     "speaker": "guide",
     "expression": "normal",
     "text": "開山、つまり寺を開いた僧とされるのは、夢窓疎石です。",
-    "reading": "かいさん、つまり てらを ひらいた そう と される のは、むそうそせき です。",
+    "reading": "かいさん、つまり てらを ひらいた そう と される のは、むそう そせき です。",
     "direction": "人物名の前に少し間",
     "facts": [
       "T12",
@@ -766,8 +766,8 @@
     "creative": false,
     "bgId": "bg04",
     "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k045.m4a",
+    "duration": 6.84
   },
   {
     "id": "k046",
@@ -775,7 +775,7 @@
     "speaker": "guide",
     "expression": "normal",
     "text": "夢窓疎石は、天龍寺の開山としても知られる禅僧です。",
-    "reading": "むそうそせきは、てんりゅうじの かいさん としても 知られる ぜんそう です。",
+    "reading": "むそう そせきは、てんりゅうじの かいさん としても 知られる ぜんそう です。",
     "direction": "丁寧に",
     "facts": [
       "W16"
@@ -783,8 +783,8 @@
     "creative": false,
     "bgId": "bg04",
     "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k046.m4a",
+    "duration": 5.52
   },
   {
     "id": "k047",
@@ -800,8 +800,8 @@
     "creative": false,
     "bgId": "bg04",
     "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k047.m4a",
+    "duration": 7.48
   },
   {
     "id": "k048",
@@ -817,8 +817,8 @@
     "creative": false,
     "bgId": "bg04",
     "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k048.m4a",
+    "duration": 4.96
   },
   {
     "id": "k049",
@@ -835,8 +835,8 @@
     "creative": false,
     "bgId": "bg04",
     "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k049.m4a",
+    "duration": 6.92
   },
   {
     "id": "k050",
@@ -852,8 +852,8 @@
     "creative": false,
     "bgId": "bg04",
     "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k050.m4a",
+    "duration": 4.96
   },
   {
     "id": "k051",
@@ -861,7 +861,7 @@
     "speaker": "guide",
     "expression": "normal",
     "text": "鹿苑寺が属する相国寺も、夢窓疎石を開山としています。",
-    "reading": "ろくおんじが ぞくする しょうこくじも、むそうそせきを かいさん として います。",
+    "reading": "ろくおんじが ぞくする しょうこくじも、むそう そせきを かいさん として います。",
     "direction": "淡々と",
     "facts": [
       "P02",
@@ -870,8 +870,8 @@
     "creative": false,
     "bgId": "bg04",
     "bg": "室町時代・北山殿が禅寺になったころの境内（想像図・静かな曇り）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k051.m4a",
+    "duration": 5.68
   },
   {
     "id": "k052",
@@ -888,8 +888,8 @@
     "creative": false,
     "bgId": "bg05",
     "bg": "応仁・文明の乱のころ・荒れた境内に焼け残る金閣（遠景・煙はかすか）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k052.m4a",
+    "duration": 5.92
   },
   {
     "id": "k053",
@@ -905,8 +905,8 @@
     "creative": false,
     "bgId": "bg05",
     "bg": "応仁・文明の乱のころ・荒れた境内に焼け残る金閣（遠景・煙はかすか）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k053.m4a",
+    "duration": 4.88
   },
   {
     "id": "k054",
@@ -922,8 +922,8 @@
     "creative": false,
     "bgId": "bg05",
     "bg": "応仁・文明の乱のころ・荒れた境内に焼け残る金閣（遠景・煙はかすか）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k054.m4a",
+    "duration": 8.84
   },
   {
     "id": "k055",
@@ -939,8 +939,8 @@
     "creative": false,
     "bgId": "bg05",
     "bg": "応仁・文明の乱のころ・荒れた境内に焼け残る金閣（遠景・煙はかすか）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k055.m4a",
+    "duration": 5.0
   },
   {
     "id": "k056",
@@ -956,8 +956,8 @@
     "creative": false,
     "bgId": "bg05",
     "bg": "応仁・文明の乱のころ・荒れた境内に焼け残る金閣（遠景・煙はかすか）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k056.m4a",
+    "duration": 7.8
   },
   {
     "id": "k057",
@@ -973,8 +973,8 @@
     "creative": false,
     "bgId": "bg05",
     "bg": "応仁・文明の乱のころ・荒れた境内に焼け残る金閣（遠景・煙はかすか）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k057.m4a",
+    "duration": 6.52
   },
   {
     "id": "k058",
@@ -991,8 +991,8 @@
     "creative": false,
     "bgId": "bg05",
     "bg": "応仁・文明の乱のころ・荒れた境内に焼け残る金閣（遠景・煙はかすか）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k058.m4a",
+    "duration": 3.32
   },
   {
     "id": "k059",
@@ -1008,8 +1008,8 @@
     "creative": false,
     "bgId": "bg05",
     "bg": "応仁・文明の乱のころ・荒れた境内に焼け残る金閣（遠景・煙はかすか）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k059.m4a",
+    "duration": 6.32
   },
   {
     "id": "k060",
@@ -1017,7 +1017,7 @@
     "speaker": "guide",
     "expression": "normal",
     "text": "建て直したのは宇喜多秀家。境内に残る、いちばん古い建物とされます。",
-    "reading": "たてなおしたのは うきたひでいえ。けいだいに のこる、いちばん ふるい たてもの と されます。",
+    "reading": "たてなおしたのは うきた ひでいえ。けいだいに のこる、いちばん ふるい たてもの と されます。",
     "direction": "人名をはっきり",
     "facts": [
       "T18",
@@ -1026,8 +1026,8 @@
     "creative": false,
     "bgId": "bg05",
     "bg": "応仁・文明の乱のころ・荒れた境内に焼け残る金閣（遠景・煙はかすか）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k060.m4a",
+    "duration": 8.24
   },
   {
     "id": "k061",
@@ -1035,7 +1035,7 @@
     "speaker": "guide",
     "expression": "normal",
     "text": "江戸時代には、住職の鳳林承章が、傾いた金閣と庭を修理しました。",
-    "reading": "えどじだいには、じゅうしょくの ほうりんじょうしょうが、かたむいた きんかくと にわを しゅうり しました。",
+    "reading": "えどじだいには、じゅうしょくの ほうりん じょうしょうが、かたむいた きんかくと にわを しゅうり しました。",
     "direction": "人名をはっきり",
     "facts": [
       "T21",
@@ -1044,8 +1044,8 @@
     "creative": false,
     "bgId": "bg06",
     "bg": "江戸時代・修理された金閣と庭、夕佳亭の茶室（夕方）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k061.m4a",
+    "duration": 7.84
   },
   {
     "id": "k062",
@@ -1062,8 +1062,8 @@
     "creative": false,
     "bgId": "bg06",
     "bg": "江戸時代・修理された金閣と庭、夕佳亭の茶室（夕方）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k062.m4a",
+    "duration": 3.88
   },
   {
     "id": "k063",
@@ -1079,8 +1079,8 @@
     "creative": false,
     "bgId": "bg06",
     "bg": "江戸時代・修理された金閣と庭、夕佳亭の茶室（夕方）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k063.m4a",
+    "duration": 5.96
   },
   {
     "id": "k064",
@@ -1096,8 +1096,8 @@
     "creative": false,
     "bgId": "bg07",
     "bg": "明治後半・解体修理の足場が組まれた金閣（図面を引く気配）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k064.m4a",
+    "duration": 6.36
   },
   {
     "id": "k065",
@@ -1113,8 +1113,8 @@
     "creative": false,
     "bgId": "bg07",
     "bg": "明治後半・解体修理の足場が組まれた金閣（図面を引く気配）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k065.m4a",
+    "duration": 8.72
   },
   {
     "id": "k066",
@@ -1130,8 +1130,8 @@
     "creative": false,
     "bgId": "bg07",
     "bg": "明治後半・解体修理の足場が組まれた金閣（図面を引く気配）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k066.m4a",
+    "duration": 6.64
   },
   {
     "id": "k067",
@@ -1147,8 +1147,8 @@
     "creative": false,
     "bgId": "bg07",
     "bg": "明治後半・解体修理の足場が組まれた金閣（図面を引く気配）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k067.m4a",
+    "duration": 5.88
   },
   {
     "id": "k068",
@@ -1164,8 +1164,8 @@
     "creative": false,
     "bgId": "bg07",
     "bg": "明治後半・解体修理の足場が組まれた金閣（図面を引く気配）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k068.m4a",
+    "duration": 7.52
   },
   {
     "id": "k069",
@@ -1181,8 +1181,8 @@
     "creative": false,
     "bgId": "bg07",
     "bg": "明治後半・解体修理の足場が組まれた金閣（図面を引く気配）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k069.m4a",
+    "duration": 4.24
   },
   {
     "id": "k070",
@@ -1196,8 +1196,8 @@
     "creative": true,
     "bgId": "bg07",
     "bg": "明治後半・解体修理の足場が組まれた金閣（図面を引く気配）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k070.m4a",
+    "duration": 3.92
   },
   {
     "id": "k071",
@@ -1213,8 +1213,8 @@
     "creative": false,
     "bgId": "bg07",
     "bg": "明治後半・解体修理の足場が組まれた金閣（図面を引く気配）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k071.m4a",
+    "duration": 6.88
   },
   {
     "id": "k072",
@@ -1230,8 +1230,8 @@
     "creative": false,
     "bgId": "bg08",
     "bg": "昭和二十五年・夏の夜明け前の鏡湖池（炎・焼け跡・人物は描かない）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k072.m4a",
+    "duration": 6.64
   },
   {
     "id": "k073",
@@ -1247,8 +1247,8 @@
     "creative": false,
     "bgId": "bg08",
     "bg": "昭和二十五年・夏の夜明け前の鏡湖池（炎・焼け跡・人物は描かない）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k073.m4a",
+    "duration": 3.96
   },
   {
     "id": "k074",
@@ -1265,8 +1265,8 @@
     "creative": false,
     "bgId": "bg08",
     "bg": "昭和二十五年・夏の夜明け前の鏡湖池（炎・焼け跡・人物は描かない）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k074.m4a",
+    "duration": 6.36
   },
   {
     "id": "k075",
@@ -1283,8 +1283,8 @@
     "creative": false,
     "bgId": "bg08",
     "bg": "昭和二十五年・夏の夜明け前の鏡湖池（炎・焼け跡・人物は描かない）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k075.m4a",
+    "duration": 5.8
   },
   {
     "id": "k076",
@@ -1300,8 +1300,8 @@
     "creative": false,
     "bgId": "bg08",
     "bg": "昭和二十五年・夏の夜明け前の鏡湖池（炎・焼け跡・人物は描かない）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k076.m4a",
+    "duration": 4.32
   },
   {
     "id": "k077",
@@ -1319,8 +1319,8 @@
     "creative": false,
     "bgId": "bg08",
     "bg": "昭和二十五年・夏の夜明け前の鏡湖池（炎・焼け跡・人物は描かない）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k077.m4a",
+    "duration": 6.6
   },
   {
     "id": "k078",
@@ -1336,8 +1336,8 @@
     "creative": false,
     "bgId": "bg08",
     "bg": "昭和二十五年・夏の夜明け前の鏡湖池（炎・焼け跡・人物は描かない）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k078.m4a",
+    "duration": 5.72
   },
   {
     "id": "k079",
@@ -1351,8 +1351,8 @@
     "creative": true,
     "bgId": "bg08",
     "bg": "昭和二十五年・夏の夜明け前の鏡湖池（炎・焼け跡・人物は描かない）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k079.m4a",
+    "duration": 5.16
   },
   {
     "id": "k080",
@@ -1368,8 +1368,8 @@
     "creative": false,
     "bgId": "bg09",
     "bg": "昭和三十年・再建されたばかりの金閣（晴れた日中）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k080.m4a",
+    "duration": 8.04
   },
   {
     "id": "k081",
@@ -1386,8 +1386,8 @@
     "creative": false,
     "bgId": "bg09",
     "bg": "昭和三十年・再建されたばかりの金閣（晴れた日中）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k081.m4a",
+    "duration": 7.76
   },
   {
     "id": "k082",
@@ -1404,8 +1404,8 @@
     "creative": false,
     "bgId": "bg09",
     "bg": "昭和三十年・再建されたばかりの金閣（晴れた日中）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k082.m4a",
+    "duration": 6.88
   },
   {
     "id": "k083",
@@ -1421,8 +1421,8 @@
     "creative": false,
     "bgId": "bg09",
     "bg": "昭和三十年・再建されたばかりの金閣（晴れた日中）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k083.m4a",
+    "duration": 7.96
   },
   {
     "id": "k084",
@@ -1436,8 +1436,8 @@
     "creative": true,
     "bgId": "bg09",
     "bg": "昭和三十年・再建されたばかりの金閣（晴れた日中）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k084.m4a",
+    "duration": 4.68
   },
   {
     "id": "k085",
@@ -1456,8 +1456,8 @@
     "creativeNote": "全体が創作（義満は1950年の出来事を知らない。案内役の「もし聞いたら」を受けた想像の一言）。図面・額・鳳凰が残ったことは T26・T29・T33",
     "bgId": "bg09",
     "bg": "昭和三十年・再建されたばかりの金閣（晴れた日中）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k085.m4a",
+    "duration": 6.28
   },
   {
     "id": "k086",
@@ -1471,8 +1471,8 @@
     "creative": true,
     "bgId": "bg10",
     "bg": "いま・夕方の鏡湖池越しの金閣（夕日・水面に映る金閣）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k086.m4a",
+    "duration": 4.96
   },
   {
     "id": "k087",
@@ -1489,8 +1489,8 @@
     "creative": false,
     "bgId": "bg10",
     "bg": "いま・夕方の鏡湖池越しの金閣（夕日・水面に映る金閣）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k087.m4a",
+    "duration": 7.32
   },
   {
     "id": "k088",
@@ -1506,8 +1506,8 @@
     "creative": false,
     "bgId": "bg10",
     "bg": "いま・夕方の鏡湖池越しの金閣（夕日・水面に映る金閣）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k088.m4a",
+    "duration": 8.8
   },
   {
     "id": "k089",
@@ -1524,8 +1524,8 @@
     "creativeNote": "「佳いものですね」は案内役の感想（創作）。夕佳亭の名の由来は P21",
     "bgId": "bg10",
     "bg": "いま・夕方の鏡湖池越しの金閣（夕日・水面に映る金閣）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k089.m4a",
+    "duration": 6.08
   },
   {
     "id": "k090",
@@ -1543,8 +1543,8 @@
     "creativeNote": "記録帳に書くという行為は創作。中身は T26・T33",
     "bgId": "bg10",
     "bg": "いま・夕方の鏡湖池越しの金閣（夕日・水面に映る金閣）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k090.m4a",
+    "duration": 8.52
   },
   {
     "id": "k091",
@@ -1559,8 +1559,8 @@
     "creativeNote": "全体が創作",
     "bgId": "bg10",
     "bg": "いま・夕方の鏡湖池越しの金閣（夕日・水面に映る金閣）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k091.m4a",
+    "duration": 5.4
   },
   {
     "id": "k092",
@@ -1574,7 +1574,7 @@
     "creative": true,
     "bgId": "bg10",
     "bg": "いま・夕方の鏡湖池越しの金閣（夕日・水面に映る金閣）",
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k092.m4a",
+    "duration": 5.64
   }
 ]

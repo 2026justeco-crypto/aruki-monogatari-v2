@@ -1,0 +1,434 @@
+[
+ {
+  "id": "guide_seed1_k009",
+  "text": "おうえいよねん、せんさんびゃくきゅうじゅうななねん、きょうとの きたやまで、大きな さんそうの 工事が 始まりました。",
+  "display": "応永四年（1397年）、京都の北山で、大きな山荘の工事が始まりました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed1_k009.wav"
+ },
+ {
+  "id": "guide_seed1_k027",
+  "text": "さんそうには、ごこまつてんのうが 書いた くっきょうちょうの がくが かけられました。",
+  "display": "三層には、後小松天皇が書いた「究竟頂」の額が掛けられました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed1_k027.wav"
+ },
+ {
+  "id": "guide_seed1_k035",
+  "text": "すこし、たちどまって みましょうか。",
+  "display": "少し、立ち止まってみましょうか。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed1_k035.wav"
+ },
+ {
+  "id": "guide_seed2_k009",
+  "text": "おうえいよねん、せんさんびゃくきゅうじゅうななねん、きょうとの きたやまで、大きな さんそうの 工事が 始まりました。",
+  "display": "応永四年（1397年）、京都の北山で、大きな山荘の工事が始まりました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed2_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed2_k009.wav"
+ },
+ {
+  "id": "guide_seed2_k027",
+  "text": "さんそうには、ごこまつてんのうが 書いた くっきょうちょうの がくが かけられました。",
+  "display": "三層には、後小松天皇が書いた「究竟頂」の額が掛けられました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed2_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed2_k027.wav"
+ },
+ {
+  "id": "guide_seed2_k035",
+  "text": "すこし、たちどまって みましょうか。",
+  "display": "少し、立ち止まってみましょうか。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed2_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed2_k035.wav"
+ },
+ {
+  "id": "guide_seed3_k009",
+  "text": "おうえいよねん、せんさんびゃくきゅうじゅうななねん、きょうとの きたやまで、大きな さんそうの 工事が 始まりました。",
+  "display": "応永四年（1397年）、京都の北山で、大きな山荘の工事が始まりました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed3_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed3_k009.wav"
+ },
+ {
+  "id": "guide_seed3_k027",
+  "text": "さんそうには、ごこまつてんのうが 書いた くっきょうちょうの がくが かけられました。",
+  "display": "三層には、後小松天皇が書いた「究竟頂」の額が掛けられました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed3_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed3_k027.wav"
+ },
+ {
+  "id": "guide_seed3_k035",
+  "text": "すこし、たちどまって みましょうか。",
+  "display": "少し、立ち止まってみましょうか。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed3_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed3_k035.wav"
+ },
+ {
+  "id": "guide_seed4_k009",
+  "text": "おうえいよねん、せんさんびゃくきゅうじゅうななねん、きょうとの きたやまで、大きな さんそうの 工事が 始まりました。",
+  "display": "応永四年（1397年）、京都の北山で、大きな山荘の工事が始まりました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed4_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed4_k009.wav"
+ },
+ {
+  "id": "guide_seed4_k027",
+  "text": "さんそうには、ごこまつてんのうが 書いた くっきょうちょうの がくが かけられました。",
+  "display": "三層には、後小松天皇が書いた「究竟頂」の額が掛けられました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed4_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed4_k027.wav"
+ },
+ {
+  "id": "guide_seed4_k035",
+  "text": "すこし、たちどまって みましょうか。",
+  "display": "少し、立ち止まってみましょうか。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed4_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed4_k035.wav"
+ },
+ {
+  "id": "guide_seed5_k009",
+  "text": "おうえいよねん、せんさんびゃくきゅうじゅうななねん、きょうとの きたやまで、大きな さんそうの 工事が 始まりました。",
+  "display": "応永四年（1397年）、京都の北山で、大きな山荘の工事が始まりました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed5_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed5_k009.wav"
+ },
+ {
+  "id": "guide_seed5_k027",
+  "text": "さんそうには、ごこまつてんのうが 書いた くっきょうちょうの がくが かけられました。",
+  "display": "三層には、後小松天皇が書いた「究竟頂」の額が掛けられました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed5_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed5_k027.wav"
+ },
+ {
+  "id": "guide_seed5_k035",
+  "text": "すこし、たちどまって みましょうか。",
+  "display": "少し、立ち止まってみましょうか。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed5_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed5_k035.wav"
+ },
+ {
+  "id": "guide_seed6_k009",
+  "text": "おうえいよねん、せんさんびゃくきゅうじゅうななねん、きょうとの きたやまで、大きな さんそうの 工事が 始まりました。",
+  "display": "応永四年（1397年）、京都の北山で、大きな山荘の工事が始まりました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed6_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed6_k009.wav"
+ },
+ {
+  "id": "guide_seed6_k027",
+  "text": "さんそうには、ごこまつてんのうが 書いた くっきょうちょうの がくが かけられました。",
+  "display": "三層には、後小松天皇が書いた「究竟頂」の額が掛けられました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed6_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed6_k027.wav"
+ },
+ {
+  "id": "guide_seed6_k035",
+  "text": "すこし、たちどまって みましょうか。",
+  "display": "少し、立ち止まってみましょうか。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed6_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed6_k035.wav"
+ },
+ {
+  "id": "guide_seed7_k009",
+  "text": "おうえいよねん、せんさんびゃくきゅうじゅうななねん、きょうとの きたやまで、大きな さんそうの 工事が 始まりました。",
+  "display": "応永四年（1397年）、京都の北山で、大きな山荘の工事が始まりました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed7_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed7_k009.wav"
+ },
+ {
+  "id": "guide_seed7_k027",
+  "text": "さんそうには、ごこまつてんのうが 書いた くっきょうちょうの がくが かけられました。",
+  "display": "三層には、後小松天皇が書いた「究竟頂」の額が掛けられました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed7_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed7_k027.wav"
+ },
+ {
+  "id": "guide_seed7_k035",
+  "text": "すこし、たちどまって みましょうか。",
+  "display": "少し、立ち止まってみましょうか。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed7_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed7_k035.wav"
+ },
+ {
+  "id": "guide_seed8_k009",
+  "text": "おうえいよねん、せんさんびゃくきゅうじゅうななねん、きょうとの きたやまで、大きな さんそうの 工事が 始まりました。",
+  "display": "応永四年（1397年）、京都の北山で、大きな山荘の工事が始まりました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed8_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed8_k009.wav"
+ },
+ {
+  "id": "guide_seed8_k027",
+  "text": "さんそうには、ごこまつてんのうが 書いた くっきょうちょうの がくが かけられました。",
+  "display": "三層には、後小松天皇が書いた「究竟頂」の額が掛けられました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed8_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed8_k027.wav"
+ },
+ {
+  "id": "guide_seed8_k035",
+  "text": "すこし、たちどまって みましょうか。",
+  "display": "少し、立ち止まってみましょうか。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed8_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\guide_seed8_k035.wav"
+ },
+ {
+  "id": "yoshimitsu_seed1_k017",
+  "text": "みんの くにの つかいも、この きたやまどので むかえたのだ。",
+  "display": "明の国の使いも、この北山殿で迎えたのだ。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed1_k017.wav"
+ },
+ {
+  "id": "yoshimitsu_seed1_k085",
+  "text": "もえても、ずさえ のこって おれば、かくは また たつ。よう のこして くれた。",
+  "display": "燃えても、図さえ残っておれば、閣はまた建つ。よう残してくれた。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed1_k085.wav"
+ },
+ {
+  "id": "yoshimitsu_seed1_k091",
+  "text": "いそぐ ことは ない。いけに うつる ほうの かくも、よう みて ゆけ。",
+  "display": "急ぐことはない。池に映る方の閣も、よう見てゆけ。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed1_k091.wav"
+ },
+ {
+  "id": "yoshimitsu_seed2_k017",
+  "text": "みんの くにの つかいも、この きたやまどので むかえたのだ。",
+  "display": "明の国の使いも、この北山殿で迎えたのだ。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed2_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed2_k017.wav"
+ },
+ {
+  "id": "yoshimitsu_seed2_k085",
+  "text": "もえても、ずさえ のこって おれば、かくは また たつ。よう のこして くれた。",
+  "display": "燃えても、図さえ残っておれば、閣はまた建つ。よう残してくれた。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed2_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed2_k085.wav"
+ },
+ {
+  "id": "yoshimitsu_seed2_k091",
+  "text": "いそぐ ことは ない。いけに うつる ほうの かくも、よう みて ゆけ。",
+  "display": "急ぐことはない。池に映る方の閣も、よう見てゆけ。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed2_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed2_k091.wav"
+ },
+ {
+  "id": "yoshimitsu_seed3_k017",
+  "text": "みんの くにの つかいも、この きたやまどので むかえたのだ。",
+  "display": "明の国の使いも、この北山殿で迎えたのだ。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed3_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed3_k017.wav"
+ },
+ {
+  "id": "yoshimitsu_seed3_k085",
+  "text": "もえても、ずさえ のこって おれば、かくは また たつ。よう のこして くれた。",
+  "display": "燃えても、図さえ残っておれば、閣はまた建つ。よう残してくれた。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed3_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed3_k085.wav"
+ },
+ {
+  "id": "yoshimitsu_seed3_k091",
+  "text": "いそぐ ことは ない。いけに うつる ほうの かくも、よう みて ゆけ。",
+  "display": "急ぐことはない。池に映る方の閣も、よう見てゆけ。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed3_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed3_k091.wav"
+ },
+ {
+  "id": "yoshimitsu_seed4_k017",
+  "text": "みんの くにの つかいも、この きたやまどので むかえたのだ。",
+  "display": "明の国の使いも、この北山殿で迎えたのだ。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed4_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed4_k017.wav"
+ },
+ {
+  "id": "yoshimitsu_seed4_k085",
+  "text": "もえても、ずさえ のこって おれば、かくは また たつ。よう のこして くれた。",
+  "display": "燃えても、図さえ残っておれば、閣はまた建つ。よう残してくれた。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed4_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed4_k085.wav"
+ },
+ {
+  "id": "yoshimitsu_seed4_k091",
+  "text": "いそぐ ことは ない。いけに うつる ほうの かくも、よう みて ゆけ。",
+  "display": "急ぐことはない。池に映る方の閣も、よう見てゆけ。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed4_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed4_k091.wav"
+ },
+ {
+  "id": "yoshimitsu_seed5_k017",
+  "text": "みんの くにの つかいも、この きたやまどので むかえたのだ。",
+  "display": "明の国の使いも、この北山殿で迎えたのだ。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed5_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed5_k017.wav"
+ },
+ {
+  "id": "yoshimitsu_seed5_k085",
+  "text": "もえても、ずさえ のこって おれば、かくは また たつ。よう のこして くれた。",
+  "display": "燃えても、図さえ残っておれば、閣はまた建つ。よう残してくれた。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed5_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed5_k085.wav"
+ },
+ {
+  "id": "yoshimitsu_seed5_k091",
+  "text": "いそぐ ことは ない。いけに うつる ほうの かくも、よう みて ゆけ。",
+  "display": "急ぐことはない。池に映る方の閣も、よう見てゆけ。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed5_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed5_k091.wav"
+ },
+ {
+  "id": "yoshimitsu_seed6_k017",
+  "text": "みんの くにの つかいも、この きたやまどので むかえたのだ。",
+  "display": "明の国の使いも、この北山殿で迎えたのだ。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed6_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed6_k017.wav"
+ },
+ {
+  "id": "yoshimitsu_seed6_k085",
+  "text": "もえても、ずさえ のこって おれば、かくは また たつ。よう のこして くれた。",
+  "display": "燃えても、図さえ残っておれば、閣はまた建つ。よう残してくれた。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed6_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed6_k085.wav"
+ },
+ {
+  "id": "yoshimitsu_seed6_k091",
+  "text": "いそぐ ことは ない。いけに うつる ほうの かくも、よう みて ゆけ。",
+  "display": "急ぐことはない。池に映る方の閣も、よう見てゆけ。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed6_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed6_k091.wav"
+ },
+ {
+  "id": "yoshimitsu_seed7_k017",
+  "text": "みんの くにの つかいも、この きたやまどので むかえたのだ。",
+  "display": "明の国の使いも、この北山殿で迎えたのだ。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed7_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed7_k017.wav"
+ },
+ {
+  "id": "yoshimitsu_seed7_k085",
+  "text": "もえても、ずさえ のこって おれば、かくは また たつ。よう のこして くれた。",
+  "display": "燃えても、図さえ残っておれば、閣はまた建つ。よう残してくれた。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed7_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed7_k085.wav"
+ },
+ {
+  "id": "yoshimitsu_seed7_k091",
+  "text": "いそぐ ことは ない。いけに うつる ほうの かくも、よう みて ゆけ。",
+  "display": "急ぐことはない。池に映る方の閣も、よう見てゆけ。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed7_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed7_k091.wav"
+ },
+ {
+  "id": "yoshimitsu_seed8_k017",
+  "text": "みんの くにの つかいも、この きたやまどので むかえたのだ。",
+  "display": "明の国の使いも、この北山殿で迎えたのだ。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed8_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed8_k017.wav"
+ },
+ {
+  "id": "yoshimitsu_seed8_k085",
+  "text": "もえても、ずさえ のこって おれば、かくは また たつ。よう のこして くれた。",
+  "display": "燃えても、図さえ残っておれば、閣はまた建つ。よう残してくれた。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed8_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed8_k085.wav"
+ },
+ {
+  "id": "yoshimitsu_seed8_k091",
+  "text": "いそぐ ことは ない。いけに うつる ほうの かくも、よう みて ゆけ。",
+  "display": "急ぐことはない。池に映る方の閣も、よう見てゆけ。",
+  "caption": "落ち着いた中年の男性が、低い声でゆったりと、少し格調をもって語る。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\yoshimitsu_seed8_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\test\\yoshimitsu_seed8_k091.wav"
+ }
+]

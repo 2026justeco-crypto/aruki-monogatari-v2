@@ -1,0 +1,52 @@
+[
+ {
+  "id": "k004",
+  "text": "きんかくの なで 知られる この おてら、せいしきには ほくざん ろくおんじ と いいます。",
+  "display": "金閣の名で知られるこのお寺、正式には北山鹿苑寺といいます。",
+  "reading_ref": "きんかくの なで 知られる この おてら、せいしきには ほくざん ろくおんじ と いいます。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 3,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k004_r4_s3.wav"
+ },
+ {
+  "id": "k026",
+  "text": "いっそうには しゃかさんぞん、にそうは かんのんでん、さんそうには ブッシャリが おさめられました。",
+  "display": "一層には釈迦三尊、二層は観音殿、三層には仏舎利が納められました。",
+  "reading_ref": "いっそうには しゃかさんぞん、にそうは かんのんでん、さんそうには ブッシャリが おさめられました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 3,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k026_r4_s3.wav"
+ },
+ {
+  "id": "k030",
+  "text": "きたやま ぎょうこう と 呼ばれる できごと です。よしみつは せいだいな うたげを 開きました。",
+  "display": "北山行幸と呼ばれる出来事です。義満は盛大な宴を開きました。",
+  "reading_ref": "きたやま ぎょうこう と 呼ばれる できごと です。よしみつは せいだいな うたげを 開きました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。少し明るく。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 3,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k030_r4_s3.wav"
+ },
+ {
+  "id": "k046",
+  "text": "むそう ソセキは、てんりゅうじの かいさん としても 知られる ぜんそう です。",
+  "display": "夢窓疎石は、天龍寺の開山としても知られる禅僧です。",
+  "reading_ref": "むそう ソセキは、てんりゅうじの かいさん としても 知られる ぜんそう です。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 2,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k046_r4_s2.wav"
+ },
+ {
+  "id": "k056",
+  "text": "その すこし まえ、きょうとは オウニン・ぶんめいの らんで、ながい せんらんの なかに ありました。",
+  "display": "その少し前、京都は応仁・文明の乱で、長い戦乱の中にありました。",
+  "reading_ref": "その すこし まえ、きょうとは オウニン・ぶんめいの らんで、ながい せんらんの なかに ありました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 3,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k056_r4_s3.wav"
+ }
+]

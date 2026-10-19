@@ -1,0 +1,922 @@
+[
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k001_s1.wav",
+  "sec": 3.72,
+  "sr": 48000,
+  "lufs": -15.5,
+  "peak_db": -0.59,
+  "f0_med": 248.5,
+  "f0_iqr_st": 8.25,
+  "id": "k001"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k002_s1.wav",
+  "sec": 5.48,
+  "sr": 48000,
+  "lufs": -16.1,
+  "peak_db": -0.0,
+  "f0_med": 178.8,
+  "f0_iqr_st": 6.53,
+  "id": "k002"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k003_s1.wav",
+  "sec": 6.68,
+  "sr": 48000,
+  "lufs": -15.69,
+  "peak_db": -1.16,
+  "f0_med": 220.1,
+  "f0_iqr_st": 4.8,
+  "id": "k003"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k004_r3_s3.wav",
+  "sec": 7.04,
+  "sr": 48000,
+  "lufs": -15.92,
+  "peak_db": -0.47,
+  "f0_med": 190.5,
+  "f0_iqr_st": 5.95,
+  "id": "k004"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k005_s1.wav",
+  "sec": 7.16,
+  "sr": 48000,
+  "lufs": -15.89,
+  "peak_db": -0.0,
+  "f0_med": 185.1,
+  "f0_iqr_st": 6.55,
+  "id": "k005"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k006_s1.wav",
+  "sec": 3.36,
+  "sr": 48000,
+  "lufs": -15.87,
+  "peak_db": -0.49,
+  "f0_med": 200.7,
+  "f0_iqr_st": 7.65,
+  "id": "k006"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k007_s1.wav",
+  "sec": 4.92,
+  "sr": 48000,
+  "lufs": -15.57,
+  "peak_db": -1.9,
+  "f0_med": 182.9,
+  "f0_iqr_st": 7.4,
+  "id": "k007"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k008_s1.wav",
+  "sec": 7.36,
+  "sr": 48000,
+  "lufs": -15.69,
+  "peak_db": -0.07,
+  "f0_med": 204.2,
+  "f0_iqr_st": 5.75,
+  "id": "k008"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k009_r2_s2.wav",
+  "sec": 9.8,
+  "sr": 48000,
+  "lufs": -15.8,
+  "peak_db": -0.0,
+  "f0_med": 171.7,
+  "f0_iqr_st": 6.0,
+  "id": "k009"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k010_r3_s1.wav",
+  "sec": 6.36,
+  "sr": 48000,
+  "lufs": -15.78,
+  "peak_db": -0.94,
+  "f0_med": 192.7,
+  "f0_iqr_st": 5.95,
+  "id": "k010"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k011_s1.wav",
+  "sec": 7.68,
+  "sr": 48000,
+  "lufs": -15.94,
+  "peak_db": -0.0,
+  "f0_med": 211.4,
+  "f0_iqr_st": 4.1,
+  "id": "k011"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k012_s1.wav",
+  "sec": 6.6,
+  "sr": 48000,
+  "lufs": -15.77,
+  "peak_db": -0.0,
+  "f0_med": 200.7,
+  "f0_iqr_st": 5.05,
+  "id": "k012"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k013_s1.wav",
+  "sec": 4.08,
+  "sr": 48000,
+  "lufs": -15.85,
+  "peak_db": -0.05,
+  "f0_med": 210.1,
+  "f0_iqr_st": 5.0,
+  "id": "k013"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k014_s1.wav",
+  "sec": 9.44,
+  "sr": 48000,
+  "lufs": -15.67,
+  "peak_db": -0.44,
+  "f0_med": 195.5,
+  "f0_iqr_st": 6.92,
+  "id": "k014"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k015_s1.wav",
+  "sec": 6.6,
+  "sr": 48000,
+  "lufs": -15.9,
+  "peak_db": -0.01,
+  "f0_med": 173.7,
+  "f0_iqr_st": 5.3,
+  "id": "k015"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k016_s1.wav",
+  "sec": 6.24,
+  "sr": 48000,
+  "lufs": -16.41,
+  "peak_db": -0.14,
+  "f0_med": 125.0,
+  "f0_iqr_st": 4.48,
+  "id": "k016"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k017_s1.wav",
+  "sec": 3.76,
+  "sr": 48000,
+  "lufs": -16.74,
+  "peak_db": -0.38,
+  "f0_med": 126.4,
+  "f0_iqr_st": 6.7,
+  "id": "k017"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k018_s1.wav",
+  "sec": 7.04,
+  "sr": 48000,
+  "lufs": -15.67,
+  "peak_db": -0.58,
+  "f0_med": 184.0,
+  "f0_iqr_st": 5.55,
+  "id": "k018"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k019_s1.wav",
+  "sec": 4.44,
+  "sr": 48000,
+  "lufs": -15.79,
+  "peak_db": -0.0,
+  "f0_med": 192.7,
+  "f0_iqr_st": 5.6,
+  "id": "k019"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k020_s1.wav",
+  "sec": 5.92,
+  "sr": 48000,
+  "lufs": -15.61,
+  "peak_db": -0.03,
+  "f0_med": 217.6,
+  "f0_iqr_st": 7.0,
+  "id": "k020"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k021_s1.wav",
+  "sec": 5.56,
+  "sr": 48000,
+  "lufs": -15.8,
+  "peak_db": -0.0,
+  "f0_med": 203.0,
+  "f0_iqr_st": 6.2,
+  "id": "k021"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k022_s1.wav",
+  "sec": 6.32,
+  "sr": 48000,
+  "lufs": -15.7,
+  "peak_db": -0.0,
+  "f0_med": 213.8,
+  "f0_iqr_st": 5.9,
+  "id": "k022"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k023_s1.wav",
+  "sec": 5.36,
+  "sr": 48000,
+  "lufs": -15.62,
+  "peak_db": -0.0,
+  "f0_med": 206.5,
+  "f0_iqr_st": 5.3,
+  "id": "k023"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k024_s1.wav",
+  "sec": 8.6,
+  "sr": 48000,
+  "lufs": -15.91,
+  "peak_db": -0.17,
+  "f0_med": 201.8,
+  "f0_iqr_st": 5.05,
+  "id": "k024"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k025_r2_s2.wav",
+  "sec": 4.16,
+  "sr": 48000,
+  "lufs": -16.11,
+  "peak_db": -0.0,
+  "f0_med": 200.7,
+  "f0_iqr_st": 3.85,
+  "id": "k025"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k026_r3_s3.wav",
+  "sec": 8.52,
+  "sr": 48000,
+  "lufs": -15.86,
+  "peak_db": -0.0,
+  "f0_med": 190.5,
+  "f0_iqr_st": 6.2,
+  "id": "k026"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k027_s1.wav",
+  "sec": 6.08,
+  "sr": 48000,
+  "lufs": -16.15,
+  "peak_db": -0.0,
+  "f0_med": 163.9,
+  "f0_iqr_st": 7.0,
+  "id": "k027"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k028_s1.wav",
+  "sec": 4.36,
+  "sr": 48000,
+  "lufs": -15.82,
+  "peak_db": -0.0,
+  "f0_med": 190.5,
+  "f0_iqr_st": 6.1,
+  "id": "k028"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k029_s1.wav",
+  "sec": 10.28,
+  "sr": 48000,
+  "lufs": -15.61,
+  "peak_db": -0.0,
+  "f0_med": 204.2,
+  "f0_iqr_st": 7.8,
+  "id": "k029"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k030_r3_s3.wav",
+  "sec": 7.6,
+  "sr": 48000,
+  "lufs": -15.76,
+  "peak_db": -0.0,
+  "f0_med": 197.2,
+  "f0_iqr_st": 6.4,
+  "id": "k030"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k031_s1.wav",
+  "sec": 7.92,
+  "sr": 48000,
+  "lufs": -16.87,
+  "peak_db": -0.0,
+  "f0_med": 122.8,
+  "f0_iqr_st": 3.25,
+  "id": "k031"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k032_s1.wav",
+  "sec": 4.92,
+  "sr": 48000,
+  "lufs": -15.8,
+  "peak_db": -0.0,
+  "f0_med": 205.3,
+  "f0_iqr_st": 3.7,
+  "id": "k032"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k033_s1.wav",
+  "sec": 6.48,
+  "sr": 48000,
+  "lufs": -15.8,
+  "peak_db": -0.01,
+  "f0_med": 206.5,
+  "f0_iqr_st": 5.7,
+  "id": "k033"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k034_s1.wav",
+  "sec": 4.12,
+  "sr": 48000,
+  "lufs": -15.65,
+  "peak_db": -0.0,
+  "f0_med": 197.2,
+  "f0_iqr_st": 8.53,
+  "id": "k034"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k035_s1.wav",
+  "sec": 2.92,
+  "sr": 48000,
+  "lufs": -15.59,
+  "peak_db": -0.16,
+  "f0_med": 221.4,
+  "f0_iqr_st": 10.3,
+  "id": "k035"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k036_s1.wav",
+  "sec": 5.68,
+  "sr": 48000,
+  "lufs": -15.75,
+  "peak_db": -0.0,
+  "f0_med": 187.2,
+  "f0_iqr_st": 4.8,
+  "id": "k036"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k037_s1.wav",
+  "sec": 5.36,
+  "sr": 48000,
+  "lufs": -16.09,
+  "peak_db": -0.0,
+  "f0_med": 184.5,
+  "f0_iqr_st": 4.68,
+  "id": "k037"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k038_s1.wav",
+  "sec": 3.88,
+  "sr": 48000,
+  "lufs": -16.24,
+  "peak_db": -3.63,
+  "f0_med": 187.2,
+  "f0_iqr_st": 2.5,
+  "id": "k038"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k039_s1.wav",
+  "sec": 5.32,
+  "sr": 48000,
+  "lufs": -15.92,
+  "peak_db": -0.0,
+  "f0_med": 198.3,
+  "f0_iqr_st": 5.8,
+  "id": "k039"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k040_r3_s1.wav",
+  "sec": 5.64,
+  "sr": 48000,
+  "lufs": -15.87,
+  "peak_db": -0.0,
+  "f0_med": 196.1,
+  "f0_iqr_st": 5.3,
+  "id": "k040"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k041_s1.wav",
+  "sec": 8.12,
+  "sr": 48000,
+  "lufs": -15.77,
+  "peak_db": -0.0,
+  "f0_med": 199.5,
+  "f0_iqr_st": 6.12,
+  "id": "k041"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k042_s1.wav",
+  "sec": 6.92,
+  "sr": 48000,
+  "lufs": -15.9,
+  "peak_db": -0.0,
+  "f0_med": 199.5,
+  "f0_iqr_st": 5.75,
+  "id": "k042"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k043_s1.wav",
+  "sec": 6.84,
+  "sr": 48000,
+  "lufs": -15.88,
+  "peak_db": -0.0,
+  "f0_med": 193.8,
+  "f0_iqr_st": 5.45,
+  "id": "k043"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k044_s1.wav",
+  "sec": 6.52,
+  "sr": 48000,
+  "lufs": -15.76,
+  "peak_db": -1.88,
+  "f0_med": 186.1,
+  "f0_iqr_st": 5.4,
+  "id": "k044"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k045_r2_s1.wav",
+  "sec": 6.52,
+  "sr": 48000,
+  "lufs": -15.97,
+  "peak_db": -0.0,
+  "f0_med": 184.0,
+  "f0_iqr_st": 5.12,
+  "id": "k045"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k046_r3_s2.wav",
+  "sec": 5.08,
+  "sr": 48000,
+  "lufs": -15.84,
+  "peak_db": -0.0,
+  "f0_med": 178.8,
+  "f0_iqr_st": 5.8,
+  "id": "k046"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k047_r3_s3.wav",
+  "sec": 7.0,
+  "sr": 48000,
+  "lufs": -15.76,
+  "peak_db": -0.05,
+  "f0_med": 191.6,
+  "f0_iqr_st": 6.4,
+  "id": "k047"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k048_s1.wav",
+  "sec": 4.92,
+  "sr": 48000,
+  "lufs": -15.6,
+  "peak_db": -0.16,
+  "f0_med": 186.1,
+  "f0_iqr_st": 6.5,
+  "id": "k048"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k049_s1.wav",
+  "sec": 6.56,
+  "sr": 48000,
+  "lufs": -15.69,
+  "peak_db": -0.46,
+  "f0_med": 185.1,
+  "f0_iqr_st": 4.3,
+  "id": "k049"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k050_s1.wav",
+  "sec": 4.6,
+  "sr": 48000,
+  "lufs": -15.71,
+  "peak_db": -0.0,
+  "f0_med": 205.3,
+  "f0_iqr_st": 5.1,
+  "id": "k050"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k051_r3_s2.wav",
+  "sec": 5.32,
+  "sr": 48000,
+  "lufs": -15.97,
+  "peak_db": -0.0,
+  "f0_med": 194.9,
+  "f0_iqr_st": 4.27,
+  "id": "k051"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k052_s1.wav",
+  "sec": 5.72,
+  "sr": 48000,
+  "lufs": -15.75,
+  "peak_db": -0.0,
+  "f0_med": 205.3,
+  "f0_iqr_st": 7.6,
+  "id": "k052"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k053_s1.wav",
+  "sec": 4.72,
+  "sr": 48000,
+  "lufs": -15.75,
+  "peak_db": -1.57,
+  "f0_med": 200.7,
+  "f0_iqr_st": 4.15,
+  "id": "k053"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k054_s1.wav",
+  "sec": 8.4,
+  "sr": 48000,
+  "lufs": -15.81,
+  "peak_db": -0.0,
+  "f0_med": 198.3,
+  "f0_iqr_st": 5.9,
+  "id": "k054"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k055_s1.wav",
+  "sec": 4.8,
+  "sr": 48000,
+  "lufs": -15.8,
+  "peak_db": -0.13,
+  "f0_med": 177.7,
+  "f0_iqr_st": 5.1,
+  "id": "k055"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k056_r3_s3.wav",
+  "sec": 8.08,
+  "sr": 48000,
+  "lufs": -15.71,
+  "peak_db": -0.78,
+  "f0_med": 211.4,
+  "f0_iqr_st": 6.88,
+  "id": "k056"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k057_s1.wav",
+  "sec": 6.24,
+  "sr": 48000,
+  "lufs": -15.75,
+  "peak_db": -0.04,
+  "f0_med": 189.4,
+  "f0_iqr_st": 5.47,
+  "id": "k057"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k058_s1.wav",
+  "sec": 3.08,
+  "sr": 48000,
+  "lufs": -15.74,
+  "peak_db": -0.0,
+  "f0_med": 189.4,
+  "f0_iqr_st": 2.4,
+  "id": "k058"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k059_s1.wav",
+  "sec": 6.16,
+  "sr": 48000,
+  "lufs": -15.9,
+  "peak_db": -0.01,
+  "f0_med": 218.8,
+  "f0_iqr_st": 5.4,
+  "id": "k059"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k060_r3_s1.wav",
+  "sec": 8.12,
+  "sr": 48000,
+  "lufs": -15.86,
+  "peak_db": -0.01,
+  "f0_med": 189.4,
+  "f0_iqr_st": 7.6,
+  "id": "k060"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k061_r3_s1.wav",
+  "sec": 7.44,
+  "sr": 48000,
+  "lufs": -15.9,
+  "peak_db": -0.0,
+  "f0_med": 209.5,
+  "f0_iqr_st": 5.47,
+  "id": "k061"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k062_s1.wav",
+  "sec": 3.68,
+  "sr": 48000,
+  "lufs": -15.79,
+  "peak_db": -0.0,
+  "f0_med": 210.1,
+  "f0_iqr_st": 6.05,
+  "id": "k062"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k063_s1.wav",
+  "sec": 5.72,
+  "sr": 48000,
+  "lufs": -15.98,
+  "peak_db": -1.41,
+  "f0_med": 174.2,
+  "f0_iqr_st": 5.95,
+  "id": "k063"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k064_s1.wav",
+  "sec": 6.28,
+  "sr": 48000,
+  "lufs": -16.11,
+  "peak_db": -0.0,
+  "f0_med": 186.1,
+  "f0_iqr_st": 5.5,
+  "id": "k064"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k065_r2_s2.wav",
+  "sec": 8.96,
+  "sr": 48000,
+  "lufs": -15.81,
+  "peak_db": -0.17,
+  "f0_med": 205.3,
+  "f0_iqr_st": 6.6,
+  "id": "k065"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k066_s1.wav",
+  "sec": 6.16,
+  "sr": 48000,
+  "lufs": -15.76,
+  "peak_db": -0.0,
+  "f0_med": 184.0,
+  "f0_iqr_st": 5.95,
+  "id": "k066"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k067_s1.wav",
+  "sec": 5.52,
+  "sr": 48000,
+  "lufs": -15.61,
+  "peak_db": -0.01,
+  "f0_med": 184.5,
+  "f0_iqr_st": 4.6,
+  "id": "k067"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k068_s1.wav",
+  "sec": 7.08,
+  "sr": 48000,
+  "lufs": -15.8,
+  "peak_db": -0.0,
+  "f0_med": 199.5,
+  "f0_iqr_st": 6.1,
+  "id": "k068"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k069_s1.wav",
+  "sec": 4.0,
+  "sr": 48000,
+  "lufs": -15.73,
+  "peak_db": -0.87,
+  "f0_med": 215.1,
+  "f0_iqr_st": 5.3,
+  "id": "k069"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k070_s1.wav",
+  "sec": 3.6,
+  "sr": 48000,
+  "lufs": -15.47,
+  "peak_db": -0.51,
+  "f0_med": 194.9,
+  "f0_iqr_st": 6.0,
+  "id": "k070"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k071_s1.wav",
+  "sec": 6.72,
+  "sr": 48000,
+  "lufs": -15.69,
+  "peak_db": -0.0,
+  "f0_med": 198.9,
+  "f0_iqr_st": 6.0,
+  "id": "k071"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k072_s1.wav",
+  "sec": 7.12,
+  "sr": 48000,
+  "lufs": -15.89,
+  "peak_db": -0.06,
+  "f0_med": 252.1,
+  "f0_iqr_st": 8.02,
+  "id": "k072"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k073_s1.wav",
+  "sec": 3.68,
+  "sr": 48000,
+  "lufs": -15.89,
+  "peak_db": -0.36,
+  "f0_med": 216.9,
+  "f0_iqr_st": 3.27,
+  "id": "k073"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k074_r2_s2.wav",
+  "sec": 6.16,
+  "sr": 48000,
+  "lufs": -15.7,
+  "peak_db": -1.07,
+  "f0_med": 213.8,
+  "f0_iqr_st": 5.3,
+  "id": "k074"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k075_s1.wav",
+  "sec": 5.52,
+  "sr": 48000,
+  "lufs": -15.81,
+  "peak_db": -0.0,
+  "f0_med": 208.3,
+  "f0_iqr_st": 5.97,
+  "id": "k075"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k076_s1.wav",
+  "sec": 4.12,
+  "sr": 48000,
+  "lufs": -15.53,
+  "peak_db": -0.0,
+  "f0_med": 203.0,
+  "f0_iqr_st": 5.73,
+  "id": "k076"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k077_r2_s2.wav",
+  "sec": 6.44,
+  "sr": 48000,
+  "lufs": -15.9,
+  "peak_db": -0.0,
+  "f0_med": 187.2,
+  "f0_iqr_st": 5.1,
+  "id": "k077"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k078_s1.wav",
+  "sec": 5.24,
+  "sr": 48000,
+  "lufs": -15.88,
+  "peak_db": -0.0,
+  "f0_med": 215.1,
+  "f0_iqr_st": 3.8,
+  "id": "k078"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k079_s1.wav",
+  "sec": 4.92,
+  "sr": 48000,
+  "lufs": -16.04,
+  "peak_db": -0.0,
+  "f0_med": 211.4,
+  "f0_iqr_st": 4.8,
+  "id": "k079"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k080_s1.wav",
+  "sec": 7.96,
+  "sr": 48000,
+  "lufs": -15.75,
+  "peak_db": -0.02,
+  "f0_med": 198.3,
+  "f0_iqr_st": 4.93,
+  "id": "k080"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k081_s1.wav",
+  "sec": 7.8,
+  "sr": 48000,
+  "lufs": -15.98,
+  "peak_db": -0.0,
+  "f0_med": 191.6,
+  "f0_iqr_st": 6.6,
+  "id": "k081"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k082_s1.wav",
+  "sec": 6.72,
+  "sr": 48000,
+  "lufs": -15.79,
+  "peak_db": -0.0,
+  "f0_med": 189.9,
+  "f0_iqr_st": 5.3,
+  "id": "k082"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k083_s1.wav",
+  "sec": 8.04,
+  "sr": 48000,
+  "lufs": -15.72,
+  "peak_db": -0.0,
+  "f0_med": 208.9,
+  "f0_iqr_st": 6.3,
+  "id": "k083"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k084_s1.wav",
+  "sec": 4.32,
+  "sr": 48000,
+  "lufs": -15.85,
+  "peak_db": -0.0,
+  "f0_med": 179.8,
+  "f0_iqr_st": 5.8,
+  "id": "k084"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k085_s1.wav",
+  "sec": 6.28,
+  "sr": 48000,
+  "lufs": -16.68,
+  "peak_db": -0.03,
+  "f0_med": 113.9,
+  "f0_iqr_st": 3.92,
+  "id": "k085"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k086_s1.wav",
+  "sec": 4.68,
+  "sr": 48000,
+  "lufs": -15.6,
+  "peak_db": -1.04,
+  "f0_med": 213.8,
+  "f0_iqr_st": 4.0,
+  "id": "k086"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k087_s1.wav",
+  "sec": 7.2,
+  "sr": 48000,
+  "lufs": -15.77,
+  "peak_db": -0.0,
+  "f0_med": 200.7,
+  "f0_iqr_st": 6.1,
+  "id": "k087"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k088_s1.wav",
+  "sec": 8.84,
+  "sr": 48000,
+  "lufs": -15.78,
+  "peak_db": -0.25,
+  "f0_med": 208.9,
+  "f0_iqr_st": 5.7,
+  "id": "k088"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k089_s1.wav",
+  "sec": 5.92,
+  "sr": 48000,
+  "lufs": -15.65,
+  "peak_db": -0.0,
+  "f0_med": 174.2,
+  "f0_iqr_st": 4.38,
+  "id": "k089"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k090_s1.wav",
+  "sec": 8.32,
+  "sr": 48000,
+  "lufs": -15.64,
+  "peak_db": -0.0,
+  "f0_med": 227.8,
+  "f0_iqr_st": 4.83,
+  "id": "k090"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k091_s1.wav",
+  "sec": 5.4,
+  "sr": 48000,
+  "lufs": -16.91,
+  "peak_db": -0.37,
+  "f0_med": 120.0,
+  "f0_iqr_st": 6.15,
+  "id": "k091"
+ },
+ {
+  "wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k092_s1.wav",
+  "sec": 5.2,
+  "sr": 48000,
+  "lufs": -15.8,
+  "peak_db": -0.0,
+  "f0_med": 197.8,
+  "f0_iqr_st": 5.97,
+  "id": "k092"
+ }
+]

@@ -1,0 +1,132 @@
+[
+ {
+  "id": "k004",
+  "text": "きんかくの なで 知られる この おてら、せいしきには ほくざんろくおんじ と いいます。",
+  "display": "金閣の名で知られるこのお寺、正式には北山鹿苑寺といいます。",
+  "reading_ref": "きんかくの なで 知られる この おてら、せいしきには ほくざんろくおんじ と いいます。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 2,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k004_r2_s2.wav"
+ },
+ {
+  "id": "k009",
+  "text": "おうえいよねん、せんさんびゃくきゅうじゅうななねん、きょうとの きたやまで、大きな さんそうの 工事が 始まりました。",
+  "display": "応永四年（1397年）、京都の北山で、大きな山荘の工事が始まりました。",
+  "reading_ref": "おうえいよねん、せんさんびゃくきゅうじゅうななねん、きょうとの きたやまで、大きな さんそうの 工事が 始まりました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。ゆっくりと。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 2,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k009_r2_s2.wav"
+ },
+ {
+  "id": "k025",
+  "text": "かいごとに、ちがう ようしきを かさねた たてもの なのです。",
+  "display": "階ごとに、違う様式を重ねた建物なのです。",
+  "reading_ref": "かいごとに、ちがう ようしきを かさねた たてもの なのです。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。やわらかく。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 2,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k025_r2_s2.wav"
+ },
+ {
+  "id": "k026",
+  "text": "いっそうには しゃかさんぞん、にそうは かんのんでん、さんそうには ぶっしゃりが おさめられました。",
+  "display": "一層には釈迦三尊、二層は観音殿、三層には仏舎利が納められました。",
+  "reading_ref": "いっそうには しゃかさんぞん、にそうは かんのんでん、さんそうには ぶっしゃりが おさめられました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 2,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k026_r2_s2.wav"
+ },
+ {
+  "id": "k030",
+  "text": "きたやまぎょうこう と 呼ばれる できごと です。よしみつは せいだいな うたげを 開きました。",
+  "display": "北山行幸と呼ばれる出来事です。義満は盛大な宴を開きました。",
+  "reading_ref": "きたやまぎょうこう と 呼ばれる できごと です。よしみつは せいだいな うたげを 開きました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。少し明るく。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 2,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k030_r2_s2.wav"
+ },
+ {
+  "id": "k045",
+  "text": "かいさん、つまり てらを ひらいた そう と される のは、むそう そせき です。",
+  "display": "開山、つまり寺を開いた僧とされるのは、夢窓疎石です。",
+  "reading_ref": "かいさん、つまり てらを ひらいた そう と される のは、むそう そせき です。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k045_r2_s1.wav"
+ },
+ {
+  "id": "k046",
+  "text": "むそうそせきは、てんりゅうじの かいさん としても 知られる ぜんそう です。",
+  "display": "夢窓疎石は、天龍寺の開山としても知られる禅僧です。",
+  "reading_ref": "むそうそせきは、てんりゅうじの かいさん としても 知られる ぜんそう です。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 2,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k046_r2_s2.wav"
+ },
+ {
+  "id": "k047",
+  "text": "ところが、むそうは かんのうにねん、せんさんびゃくごじゅういちねんに なくなって います。",
+  "display": "ところが、夢窓は観応二年（1351年）に亡くなっています。",
+  "reading_ref": "ところが、むそうは かんのうにねん、せんさんびゃくごじゅういちねんに なくなって います。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 2,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k047_r2_s2.wav"
+ },
+ {
+  "id": "k051",
+  "text": "ろくおんじが ぞくする しょうこくじも、むそうそせきを かいさん として います。",
+  "display": "鹿苑寺が属する相国寺も、夢窓疎石を開山としています。",
+  "reading_ref": "ろくおんじが ぞくする しょうこくじも、むそうそせきを かいさん として います。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 2,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k051_r2_s2.wav"
+ },
+ {
+  "id": "k056",
+  "text": "その すこし まえ、きょうとは おうにん・ぶんめいの らんで、ながい せんらんの なかに ありました。",
+  "display": "その少し前、京都は応仁・文明の乱で、長い戦乱の中にありました。",
+  "reading_ref": "その すこし まえ、きょうとは おうにん・ぶんめいの らんで、ながい せんらんの なかに ありました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 2,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k056_r2_s2.wav"
+ },
+ {
+  "id": "k065",
+  "text": "めいじにじゅうしちねん、せんはっぴゃくきゅうじゅうよねん、てらは はいかんの うけいれを はじめます。",
+  "display": "明治二十七年（1894年）、寺は拝観の受け入れを始めます。",
+  "reading_ref": "めいじにじゅうしちねん、せんはっぴゃくきゅうじゅうよねん、てらは はいかんの うけいれを はじめます。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。ゆっくりと。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 2,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k065_r2_s2.wav"
+ },
+ {
+  "id": "k074",
+  "text": "おうにん・ぶんめいの らんを くぐりぬけた たてものが、この とき うしなわれたのです。",
+  "display": "応仁・文明の乱をくぐり抜けた建物が、このとき失われたのです。",
+  "reading_ref": "おうにん・ぶんめいの らんを くぐりぬけた たてものが、この とき うしなわれたのです。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。静かに。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 2,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k074_r2_s2.wav"
+ },
+ {
+  "id": "k077",
+  "text": "やねの うえの ほうおうと、ごこまつてんのうの ふでに よる くっきょうちょうの がく です。",
+  "display": "屋根の上の鳳凰と、後小松天皇の筆による「究竟頂」の額です。",
+  "reading_ref": "やねの うえの ほうおうと、ごこまつてんのうの ふでに よる くっきょうちょうの がく です。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 2,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k077_r2_s2.wav"
+ }
+]

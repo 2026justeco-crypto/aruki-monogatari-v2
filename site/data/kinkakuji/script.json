@@ -10,8 +10,8 @@
     "bgId": "bg01",
     "creative": true,
     "facts": [],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k001.m4a",
+    "duration": 3.88
   },
   {
     "id": "k002",
@@ -24,8 +24,8 @@
     "bgId": "bg01",
     "creative": true,
     "facts": [],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k002.m4a",
+    "duration": 5.8
   },
   {
     "id": "k003",
@@ -42,8 +42,8 @@
       "P04",
       "P13"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k003.m4a",
+    "duration": 6.36
   },
   {
     "id": "k004",
@@ -58,8 +58,8 @@
     "facts": [
       "P02"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k004.m4a",
+    "duration": 7.04
   },
   {
     "id": "k005",
@@ -74,8 +74,8 @@
     "facts": [
       "P02"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k005.m4a",
+    "duration": 7.52
   },
   {
     "id": "k006",
@@ -88,8 +88,8 @@
     "bgId": "bg01",
     "creative": true,
     "facts": [],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k006.m4a",
+    "duration": 3.72
   },
   {
     "id": "k007",
@@ -97,13 +97,13 @@
     "speaker": "guide",
     "expression": "think",
     "text": "この金閣は、いまから何年前に建ったものだと思いますか。",
-    "reading": "この きんかくは、いまから なんねん まえに 建った ものだと 思いますか。",
+    "reading": "この キンカクは、いまから なんねん まえに 建った ものだと 思いますか。",
     "direction": "答えを迫らない。語尾を上げすぎず、静かに置く",
     "bgId": "bg01",
     "creative": true,
     "facts": [],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k007.m4a",
+    "duration": 5.04
   },
   {
     "id": "k008",
@@ -118,8 +118,8 @@
     "facts": [
       "T02"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k008.m4a",
+    "duration": 7.72
   },
   {
     "id": "k009",
@@ -134,8 +134,8 @@
     "facts": [
       "T02"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k009.m4a",
+    "duration": 9.88
   },
   {
     "id": "k010",
@@ -143,7 +143,7 @@
     "speaker": "guide",
     "expression": "normal",
     "text": "工事を始めたのは、室町幕府の三代将軍、足利義満です。",
-    "reading": "工事を 始めたのは、むろまちばくふの さんだいしょうぐん、あしかがよしみつ です。",
+    "reading": "工事を 始めたのは、むろまちばくふの さんだいしょうぐん、あしかが よしみつ です。",
     "direction": "人物を紹介する間をとる",
     "bgId": "bg02",
     "creative": false,
@@ -151,8 +151,8 @@
       "T02",
       "W04"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k010.m4a",
+    "duration": 6.72
   },
   {
     "id": "k011",
@@ -167,8 +167,8 @@
     "facts": [
       "T01"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k011.m4a",
+    "duration": 7.96
   },
   {
     "id": "k012",
@@ -183,8 +183,8 @@
     "facts": [
       "T02"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k012.m4a",
+    "duration": 6.84
   },
   {
     "id": "k013",
@@ -199,8 +199,8 @@
     "facts": [
       "W08"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k013.m4a",
+    "duration": 4.36
   },
   {
     "id": "k014",
@@ -215,8 +215,8 @@
     "facts": [
       "W06"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k014.m4a",
+    "duration": 9.64
   },
   {
     "id": "k015",
@@ -232,8 +232,8 @@
       "W06",
       "W07"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k015.m4a",
+    "duration": 6.8
   },
   {
     "id": "k016",
@@ -249,8 +249,8 @@
       "W07",
       "T05"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k016.m4a",
+    "duration": 6.24
   },
   {
     "id": "k017",
@@ -265,8 +265,8 @@
     "facts": [
       "T05"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k017.m4a",
+    "duration": 3.76
   },
   {
     "id": "k018",
@@ -281,8 +281,8 @@
     "facts": [
       "W10"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k018.m4a",
+    "duration": 7.08
   },
   {
     "id": "k019",
@@ -297,8 +297,8 @@
     "facts": [
       "T05"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k019.m4a",
+    "duration": 4.92
   },
   {
     "id": "k020",
@@ -313,8 +313,8 @@
     "facts": [
       "T05"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k020.m4a",
+    "duration": 6.28
   },
   {
     "id": "k021",
@@ -330,8 +330,8 @@
       "P13",
       "P14"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k021.m4a",
+    "duration": 5.88
   },
   {
     "id": "k022",
@@ -346,8 +346,8 @@
     "facts": [
       "P13"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k022.m4a",
+    "duration": 6.72
   },
   {
     "id": "k023",
@@ -363,8 +363,8 @@
       "P04",
       "P14"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k023.m4a",
+    "duration": 5.48
   },
   {
     "id": "k024",
@@ -381,8 +381,8 @@
       "P06",
       "P07"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k024.m4a",
+    "duration": 9.0
   },
   {
     "id": "k025",
@@ -397,8 +397,8 @@
     "facts": [
       "P08"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k025.m4a",
+    "duration": 4.48
   },
   {
     "id": "k026",
@@ -413,8 +413,8 @@
     "facts": [
       "P10"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k026.m4a",
+    "duration": 8.92
   },
   {
     "id": "k027",
@@ -430,8 +430,8 @@
       "P11",
       "W23"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k027.m4a",
+    "duration": 6.52
   },
   {
     "id": "k028",
@@ -444,8 +444,8 @@
     "bgId": "bg02",
     "creative": true,
     "facts": [],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k028.m4a",
+    "duration": 4.68
   },
   {
     "id": "k029",
@@ -461,8 +461,8 @@
       "T06",
       "W23"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k029.m4a",
+    "duration": 10.04
   },
   {
     "id": "k030",
@@ -477,8 +477,8 @@
     "facts": [
       "T06"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k030.m4a",
+    "duration": 7.68
   },
   {
     "id": "k031",
@@ -493,8 +493,8 @@
     "facts": [
       "T06"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k031.m4a",
+    "duration": 7.92
   },
   {
     "id": "k032",
@@ -510,8 +510,8 @@
       "T06",
       "T07"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k032.m4a",
+    "duration": 5.16
   },
   {
     "id": "k033",
@@ -526,8 +526,8 @@
     "facts": [
       "T07"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k033.m4a",
+    "duration": 6.52
   },
   {
     "id": "k034",
@@ -542,8 +542,8 @@
     "facts": [
       "T07"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k034.m4a",
+    "duration": 4.56
   },
   {
     "id": "k035",
@@ -556,8 +556,8 @@
     "bgId": "bg04",
     "creative": true,
     "facts": [],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k035.m4a",
+    "duration": 3.24
   },
   {
     "id": "k036",
@@ -573,8 +573,8 @@
       "T09",
       "W19"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k036.m4a",
+    "duration": 6.16
   },
   {
     "id": "k037",
@@ -589,8 +589,8 @@
     "facts": [
       "T08"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k037.m4a",
+    "duration": 5.48
   },
   {
     "id": "k038",
@@ -606,8 +606,8 @@
       "W19",
       "T05"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k038.m4a",
+    "duration": 4.12
   },
   {
     "id": "k039",
@@ -620,8 +620,8 @@
     "bgId": "bg04",
     "creative": true,
     "facts": [],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k039.m4a",
+    "duration": 5.88
   },
   {
     "id": "k040",
@@ -629,7 +629,7 @@
     "speaker": "guide",
     "expression": "normal",
     "text": "北山殿には、義満の妻・日野康子が住み続けました。",
-    "reading": "きたやまどのには、よしみつの つま、ひのやすこが 住みつづけました。",
+    "reading": "きたやまどのには、よしみつの つま、ひの やすこが 住みつづけました。",
     "direction": "淡々と",
     "bgId": "bg04",
     "creative": false,
@@ -637,8 +637,8 @@
       "T10",
       "W22"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k040.m4a",
+    "duration": 5.88
   },
   {
     "id": "k041",
@@ -653,8 +653,8 @@
     "facts": [
       "T11"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k041.m4a",
+    "duration": 8.0
   },
   {
     "id": "k042",
@@ -669,8 +669,8 @@
     "facts": [
       "T12"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k042.m4a",
+    "duration": 7.12
   },
   {
     "id": "k043",
@@ -685,8 +685,8 @@
     "facts": [
       "T13"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k043.m4a",
+    "duration": 7.08
   },
   {
     "id": "k044",
@@ -701,8 +701,8 @@
     "facts": [
       "T13"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k044.m4a",
+    "duration": 6.68
   },
   {
     "id": "k045",
@@ -710,7 +710,7 @@
     "speaker": "guide",
     "expression": "normal",
     "text": "開山、つまり寺を開いた僧とされるのは、夢窓疎石です。",
-    "reading": "かいさん、つまり てらを ひらいた そう と される のは、むそうそせき です。",
+    "reading": "かいさん、つまり てらを ひらいた そう と される のは、むそう そせき です。",
     "direction": "人物名の前に少し間",
     "bgId": "bg04",
     "creative": false,
@@ -718,8 +718,8 @@
       "T12",
       "T13"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k045.m4a",
+    "duration": 6.84
   },
   {
     "id": "k046",
@@ -727,15 +727,15 @@
     "speaker": "guide",
     "expression": "normal",
     "text": "夢窓疎石は、天龍寺の開山としても知られる禅僧です。",
-    "reading": "むそうそせきは、てんりゅうじの かいさん としても 知られる ぜんそう です。",
+    "reading": "むそう そせきは、てんりゅうじの かいさん としても 知られる ぜんそう です。",
     "direction": "丁寧に",
     "bgId": "bg04",
     "creative": false,
     "facts": [
       "W16"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k046.m4a",
+    "duration": 5.52
   },
   {
     "id": "k047",
@@ -750,8 +750,8 @@
     "facts": [
       "W16"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k047.m4a",
+    "duration": 7.48
   },
   {
     "id": "k048",
@@ -766,8 +766,8 @@
     "facts": [
       "W16"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k048.m4a",
+    "duration": 4.96
   },
   {
     "id": "k049",
@@ -783,8 +783,8 @@
       "T12",
       "W16"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k049.m4a",
+    "duration": 6.92
   },
   {
     "id": "k050",
@@ -799,8 +799,8 @@
     "facts": [
       "W16"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k050.m4a",
+    "duration": 4.96
   },
   {
     "id": "k051",
@@ -808,7 +808,7 @@
     "speaker": "guide",
     "expression": "normal",
     "text": "鹿苑寺が属する相国寺も、夢窓疎石を開山としています。",
-    "reading": "ろくおんじが ぞくする しょうこくじも、むそうそせきを かいさん として います。",
+    "reading": "ろくおんじが ぞくする しょうこくじも、むそう そせきを かいさん として います。",
     "direction": "淡々と",
     "bgId": "bg04",
     "creative": false,
@@ -816,8 +816,8 @@
       "P02",
       "W17"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k051.m4a",
+    "duration": 5.68
   },
   {
     "id": "k052",
@@ -833,8 +833,8 @@
       "T15",
       "Z06"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k052.m4a",
+    "duration": 5.92
   },
   {
     "id": "k053",
@@ -849,8 +849,8 @@
     "facts": [
       "T15"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k053.m4a",
+    "duration": 4.88
   },
   {
     "id": "k054",
@@ -865,8 +865,8 @@
     "facts": [
       "T15"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k054.m4a",
+    "duration": 8.84
   },
   {
     "id": "k055",
@@ -881,8 +881,8 @@
     "facts": [
       "T15"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k055.m4a",
+    "duration": 5.0
   },
   {
     "id": "k056",
@@ -897,8 +897,8 @@
     "facts": [
       "T16"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k056.m4a",
+    "duration": 7.8
   },
   {
     "id": "k057",
@@ -913,8 +913,8 @@
     "facts": [
       "T16"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k057.m4a",
+    "duration": 6.52
   },
   {
     "id": "k058",
@@ -930,8 +930,8 @@
       "T16",
       "T17"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k058.m4a",
+    "duration": 3.32
   },
   {
     "id": "k059",
@@ -946,8 +946,8 @@
     "facts": [
       "T18"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k059.m4a",
+    "duration": 6.32
   },
   {
     "id": "k060",
@@ -955,7 +955,7 @@
     "speaker": "guide",
     "expression": "normal",
     "text": "建て直したのは宇喜多秀家。境内に残る、いちばん古い建物とされます。",
-    "reading": "たてなおしたのは うきたひでいえ。けいだいに のこる、いちばん ふるい たてもの と されます。",
+    "reading": "たてなおしたのは うきた ひでいえ。けいだいに のこる、いちばん ふるい たてもの と されます。",
     "direction": "人名をはっきり",
     "bgId": "bg05",
     "creative": false,
@@ -963,8 +963,8 @@
       "T18",
       "W26"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k060.m4a",
+    "duration": 8.24
   },
   {
     "id": "k061",
@@ -972,7 +972,7 @@
     "speaker": "guide",
     "expression": "normal",
     "text": "江戸時代には、住職の鳳林承章が、傾いた金閣と庭を修理しました。",
-    "reading": "えどじだいには、じゅうしょくの ほうりんじょうしょうが、かたむいた きんかくと にわを しゅうり しました。",
+    "reading": "えどじだいには、じゅうしょくの ほうりん じょうしょうが、かたむいた きんかくと にわを しゅうり しました。",
     "direction": "人名をはっきり",
     "bgId": "bg06",
     "creative": false,
@@ -980,8 +980,8 @@
       "T21",
       "W24"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k061.m4a",
+    "duration": 7.84
   },
   {
     "id": "k062",
@@ -997,8 +997,8 @@
       "P21",
       "W24"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k062.m4a",
+    "duration": 3.88
   },
   {
     "id": "k063",
@@ -1013,8 +1013,8 @@
     "facts": [
       "P21"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k063.m4a",
+    "duration": 5.96
   },
   {
     "id": "k064",
@@ -1029,8 +1029,8 @@
     "facts": [
       "T25"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k064.m4a",
+    "duration": 6.36
   },
   {
     "id": "k065",
@@ -1045,8 +1045,8 @@
     "facts": [
       "T25"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k065.m4a",
+    "duration": 8.72
   },
   {
     "id": "k066",
@@ -1061,8 +1061,8 @@
     "facts": [
       "T25"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k066.m4a",
+    "duration": 6.64
   },
   {
     "id": "k067",
@@ -1077,8 +1077,8 @@
     "facts": [
       "T25"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k067.m4a",
+    "duration": 5.88
   },
   {
     "id": "k068",
@@ -1093,8 +1093,8 @@
     "facts": [
       "T26"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k068.m4a",
+    "duration": 7.52
   },
   {
     "id": "k069",
@@ -1109,8 +1109,8 @@
     "facts": [
       "T26"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k069.m4a",
+    "duration": 4.24
   },
   {
     "id": "k070",
@@ -1123,8 +1123,8 @@
     "bgId": "bg07",
     "creative": true,
     "facts": [],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k070.m4a",
+    "duration": 3.92
   },
   {
     "id": "k071",
@@ -1139,8 +1139,8 @@
     "facts": [
       "T28"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k071.m4a",
+    "duration": 6.88
   },
   {
     "id": "k072",
@@ -1155,8 +1155,8 @@
     "facts": [
       "T28"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k072.m4a",
+    "duration": 6.64
   },
   {
     "id": "k073",
@@ -1171,8 +1171,8 @@
     "facts": [
       "T28"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k073.m4a",
+    "duration": 3.96
   },
   {
     "id": "k074",
@@ -1188,8 +1188,8 @@
       "T16",
       "T28"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k074.m4a",
+    "duration": 6.36
   },
   {
     "id": "k075",
@@ -1205,8 +1205,8 @@
       "T27",
       "T30"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k075.m4a",
+    "duration": 5.8
   },
   {
     "id": "k076",
@@ -1221,8 +1221,8 @@
     "facts": [
       "T29"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k076.m4a",
+    "duration": 4.32
   },
   {
     "id": "k077",
@@ -1239,8 +1239,8 @@
       "P04",
       "W23"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k077.m4a",
+    "duration": 6.6
   },
   {
     "id": "k078",
@@ -1255,8 +1255,8 @@
     "facts": [
       "T29"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k078.m4a",
+    "duration": 5.72
   },
   {
     "id": "k079",
@@ -1269,8 +1269,8 @@
     "bgId": "bg08",
     "creative": true,
     "facts": [],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k079.m4a",
+    "duration": 5.16
   },
   {
     "id": "k080",
@@ -1285,8 +1285,8 @@
     "facts": [
       "T33"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k080.m4a",
+    "duration": 8.04
   },
   {
     "id": "k081",
@@ -1302,8 +1302,8 @@
       "T26",
       "T33"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k081.m4a",
+    "duration": 7.76
   },
   {
     "id": "k082",
@@ -1319,8 +1319,8 @@
       "T26",
       "T33"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k082.m4a",
+    "duration": 6.88
   },
   {
     "id": "k083",
@@ -1335,8 +1335,8 @@
     "facts": [
       "T33"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k083.m4a",
+    "duration": 7.96
   },
   {
     "id": "k084",
@@ -1349,8 +1349,8 @@
     "bgId": "bg09",
     "creative": true,
     "facts": [],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k084.m4a",
+    "duration": 4.68
   },
   {
     "id": "k085",
@@ -1367,8 +1367,8 @@
       "T29",
       "T33"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k085.m4a",
+    "duration": 6.28
   },
   {
     "id": "k086",
@@ -1381,8 +1381,8 @@
     "bgId": "bg10",
     "creative": true,
     "facts": [],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k086.m4a",
+    "duration": 4.96
   },
   {
     "id": "k087",
@@ -1398,8 +1398,8 @@
       "P09",
       "Z05"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k087.m4a",
+    "duration": 7.32
   },
   {
     "id": "k088",
@@ -1414,8 +1414,8 @@
     "facts": [
       "T38"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k088.m4a",
+    "duration": 8.8
   },
   {
     "id": "k089",
@@ -1430,8 +1430,8 @@
     "facts": [
       "P21"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k089.m4a",
+    "duration": 6.08
   },
   {
     "id": "k090",
@@ -1447,8 +1447,8 @@
       "T26",
       "T33"
     ],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k090.m4a",
+    "duration": 8.52
   },
   {
     "id": "k091",
@@ -1461,8 +1461,8 @@
     "bgId": "bg10",
     "creative": true,
     "facts": [],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k091.m4a",
+    "duration": 5.4
   },
   {
     "id": "k092",
@@ -1475,7 +1475,7 @@
     "bgId": "bg10",
     "creative": true,
     "facts": [],
-    "audio": null,
-    "duration": null
+    "audio": "audio/kinkakuji/k092.m4a",
+    "duration": 5.64
   }
 ]

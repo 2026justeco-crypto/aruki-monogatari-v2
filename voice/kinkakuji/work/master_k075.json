@@ -1,0 +1,17 @@
+[
+ {
+  "in": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k075_r2_s2.wav",
+  "out": "k075.wav",
+  "sr": 48000,
+  "lufs_in": -16.03,
+  "lufs_out": -17.0,
+  "tp_before_limit": -1.85,
+  "tp_out": -2.0,
+  "limited_samples": 2007,
+  "limit_max_db": 0.15,
+  "sec": 5.8,
+  "hpf50": true,
+  "tp_limit": -2.0,
+  "id": "k075"
+ }
+]

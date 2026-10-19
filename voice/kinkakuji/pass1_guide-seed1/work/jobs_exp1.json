@@ -1,0 +1,102 @@
+[
+ {
+  "id": "k045_a",
+  "text": "かいさん、つまり てらを ひらいた そう と される のは、むそうそせき です。",
+  "display": "開山、つまり寺を開いた僧とされるのは、夢窓疎石です。",
+  "reading_ref": "かいさん、つまり てらを ひらいた そう と される のは、むそうそせき です。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 2,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\work\\exp\\k045_a.wav"
+ },
+ {
+  "id": "k045_b",
+  "text": "かいさん、つまり てらを ひらいた そう と される のは、むそう そせき です。",
+  "display": "開山、つまり寺を開いた僧とされるのは、夢窓疎石です。",
+  "reading_ref": "かいさん、つまり てらを ひらいた そう と される のは、むそう そせき です。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\work\\exp\\k045_b.wav"
+ },
+ {
+  "id": "k045_c",
+  "text": "かいさん、つまり てらを ひらいた そう と される のは、ムソウソセキ です。",
+  "display": "開山、つまり寺を開いた僧とされるのは、夢窓疎石です。",
+  "reading_ref": "かいさん、つまり てらを ひらいた そう と される のは、ムソウソセキ です。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\work\\exp\\k045_c.wav"
+ },
+ {
+  "id": "k046_a",
+  "text": "むそうそせきは、てんりゅうじの かいさん としても 知られる ぜんそう です。",
+  "display": "夢窓疎石は、天龍寺の開山としても知られる禅僧です。",
+  "reading_ref": "むそうそせきは、てんりゅうじの かいさん としても 知られる ぜんそう です。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 2,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\work\\exp\\k046_a.wav"
+ },
+ {
+  "id": "k046_b",
+  "text": "むそう そせきは、てんりゅうじの かいさん としても 知られる ぜんそう です。",
+  "display": "夢窓疎石は、天龍寺の開山としても知られる禅僧です。",
+  "reading_ref": "むそう そせきは、てんりゅうじの かいさん としても 知られる ぜんそう です。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\work\\exp\\k046_b.wav"
+ },
+ {
+  "id": "k056_a",
+  "text": "その すこし まえ、きょうとは おうにん・ぶんめいの らんで、ながい せんらんの なかに ありました。",
+  "display": "その少し前、京都は応仁・文明の乱で、長い戦乱の中にありました。",
+  "reading_ref": "その すこし まえ、きょうとは おうにん・ぶんめいの らんで、ながい せんらんの なかに ありました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 2,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\work\\exp\\k056_a.wav"
+ },
+ {
+  "id": "k056_b",
+  "text": "その すこし まえ、きょうとは おうにん ぶんめいの らんで、ながい せんらんの なかに ありました。",
+  "display": "その少し前、京都は応仁・文明の乱で、長い戦乱の中にありました。",
+  "reading_ref": "その すこし まえ、きょうとは おうにん ぶんめいの らんで、ながい せんらんの なかに ありました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\work\\exp\\k056_b.wav"
+ },
+ {
+  "id": "k056_c",
+  "text": "その すこし まえ、きょうとは おうにん、ぶんめいの らんで、ながい せんらんの なかに ありました。",
+  "display": "その少し前、京都は応仁・文明の乱で、長い戦乱の中にありました。",
+  "reading_ref": "その すこし まえ、きょうとは おうにん、ぶんめいの らんで、ながい せんらんの なかに ありました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\work\\exp\\k056_c.wav"
+ },
+ {
+  "id": "k074_a",
+  "text": "おうにん・ぶんめいの らんを くぐりぬけた たてものが、この とき うしなわれたのです。",
+  "display": "応仁・文明の乱をくぐり抜けた建物が、このとき失われたのです。",
+  "reading_ref": "おうにん・ぶんめいの らんを くぐりぬけた たてものが、この とき うしなわれたのです。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。静かに。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 2,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\work\\exp\\k074_a.wav"
+ },
+ {
+  "id": "k074_b",
+  "text": "おうにん ぶんめいの らんを くぐりぬけた たてものが、この とき うしなわれたのです。",
+  "display": "応仁・文明の乱をくぐり抜けた建物が、このとき失われたのです。",
+  "reading_ref": "おうにん ぶんめいの らんを くぐりぬけた たてものが、この とき うしなわれたのです。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。静かに。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\work\\exp\\k074_b.wav"
+ }
+]

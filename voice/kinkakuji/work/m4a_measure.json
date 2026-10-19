@@ -1,0 +1,554 @@
+[
+ {
+  "file": "k001.m4a",
+  "sec": 3.88,
+  "lufs": -16.01,
+  "true_peak_db": -1.7
+ },
+ {
+  "file": "k002.m4a",
+  "sec": 5.8,
+  "lufs": -17.02,
+  "true_peak_db": -1.23
+ },
+ {
+  "file": "k003.m4a",
+  "sec": 6.36,
+  "lufs": -17.08,
+  "true_peak_db": -1.3
+ },
+ {
+  "file": "k004.m4a",
+  "sec": 7.04,
+  "lufs": -16.54,
+  "true_peak_db": -1.28
+ },
+ {
+  "file": "k005.m4a",
+  "sec": 7.52,
+  "lufs": -16.95,
+  "true_peak_db": -1.34
+ },
+ {
+  "file": "k006.m4a",
+  "sec": 3.72,
+  "lufs": -17.06,
+  "true_peak_db": -1.37
+ },
+ {
+  "file": "k007.m4a",
+  "sec": 5.04,
+  "lufs": -16.73,
+  "true_peak_db": -1.29
+ },
+ {
+  "file": "k008.m4a",
+  "sec": 7.72,
+  "lufs": -17.05,
+  "true_peak_db": -1.23
+ },
+ {
+  "file": "k009.m4a",
+  "sec": 9.88,
+  "lufs": -17.07,
+  "true_peak_db": -1.11
+ },
+ {
+  "file": "k010.m4a",
+  "sec": 6.72,
+  "lufs": -17.02,
+  "true_peak_db": -1.32
+ },
+ {
+  "file": "k011.m4a",
+  "sec": 7.96,
+  "lufs": -16.4,
+  "true_peak_db": -1.3
+ },
+ {
+  "file": "k012.m4a",
+  "sec": 6.84,
+  "lufs": -17.09,
+  "true_peak_db": -1.29
+ },
+ {
+  "file": "k013.m4a",
+  "sec": 4.36,
+  "lufs": -16.01,
+  "true_peak_db": -1.48
+ },
+ {
+  "file": "k014.m4a",
+  "sec": 9.64,
+  "lufs": -16.56,
+  "true_peak_db": -1.36
+ },
+ {
+  "file": "k015.m4a",
+  "sec": 6.8,
+  "lufs": -17.06,
+  "true_peak_db": -1.19
+ },
+ {
+  "file": "k016.m4a",
+  "sec": 6.24,
+  "lufs": -17.05,
+  "true_peak_db": -1.18
+ },
+ {
+  "file": "k017.m4a",
+  "sec": 3.76,
+  "lufs": -17.14,
+  "true_peak_db": -1.25
+ },
+ {
+  "file": "k018.m4a",
+  "sec": 7.08,
+  "lufs": -16.42,
+  "true_peak_db": -1.34
+ },
+ {
+  "file": "k019.m4a",
+  "sec": 4.92,
+  "lufs": -17.12,
+  "true_peak_db": -1.21
+ },
+ {
+  "file": "k020.m4a",
+  "sec": 6.28,
+  "lufs": -17.04,
+  "true_peak_db": -1.44
+ },
+ {
+  "file": "k021.m4a",
+  "sec": 5.88,
+  "lufs": -16.47,
+  "true_peak_db": -1.18
+ },
+ {
+  "file": "k022.m4a",
+  "sec": 6.72,
+  "lufs": -17.03,
+  "true_peak_db": -1.38
+ },
+ {
+  "file": "k023.m4a",
+  "sec": 5.48,
+  "lufs": -17.06,
+  "true_peak_db": -1.33
+ },
+ {
+  "file": "k024.m4a",
+  "sec": 9.0,
+  "lufs": -17.05,
+  "true_peak_db": -1.36
+ },
+ {
+  "file": "k025.m4a",
+  "sec": 4.48,
+  "lufs": -17.07,
+  "true_peak_db": -1.24
+ },
+ {
+  "file": "k026.m4a",
+  "sec": 8.92,
+  "lufs": -16.47,
+  "true_peak_db": -1.3
+ },
+ {
+  "file": "k027.m4a",
+  "sec": 6.52,
+  "lufs": -16.94,
+  "true_peak_db": -1.37
+ },
+ {
+  "file": "k028.m4a",
+  "sec": 4.68,
+  "lufs": -16.12,
+  "true_peak_db": -1.4
+ },
+ {
+  "file": "k029.m4a",
+  "sec": 10.04,
+  "lufs": -17.08,
+  "true_peak_db": -1.29
+ },
+ {
+  "file": "k030.m4a",
+  "sec": 7.68,
+  "lufs": -17.08,
+  "true_peak_db": -1.36
+ },
+ {
+  "file": "k031.m4a",
+  "sec": 7.92,
+  "lufs": -17.21,
+  "true_peak_db": -1.06
+ },
+ {
+  "file": "k032.m4a",
+  "sec": 5.16,
+  "lufs": -16.93,
+  "true_peak_db": -1.31
+ },
+ {
+  "file": "k033.m4a",
+  "sec": 6.52,
+  "lufs": -16.34,
+  "true_peak_db": -1.36
+ },
+ {
+  "file": "k034.m4a",
+  "sec": 4.56,
+  "lufs": -17.09,
+  "true_peak_db": -1.28
+ },
+ {
+  "file": "k035.m4a",
+  "sec": 3.24,
+  "lufs": -17.02,
+  "true_peak_db": -1.24
+ },
+ {
+  "file": "k036.m4a",
+  "sec": 6.16,
+  "lufs": -17.1,
+  "true_peak_db": -1.34
+ },
+ {
+  "file": "k037.m4a",
+  "sec": 5.48,
+  "lufs": -16.01,
+  "true_peak_db": -1.8
+ },
+ {
+  "file": "k038.m4a",
+  "sec": 4.12,
+  "lufs": -16.0,
+  "true_peak_db": -1.99
+ },
+ {
+  "file": "k039.m4a",
+  "sec": 5.88,
+  "lufs": -17.02,
+  "true_peak_db": -1.3
+ },
+ {
+  "file": "k040.m4a",
+  "sec": 5.88,
+  "lufs": -17.08,
+  "true_peak_db": -1.32
+ },
+ {
+  "file": "k041.m4a",
+  "sec": 8.0,
+  "lufs": -17.06,
+  "true_peak_db": -1.24
+ },
+ {
+  "file": "k042.m4a",
+  "sec": 7.12,
+  "lufs": -17.06,
+  "true_peak_db": -1.12
+ },
+ {
+  "file": "k043.m4a",
+  "sec": 7.08,
+  "lufs": -16.76,
+  "true_peak_db": -1.22
+ },
+ {
+  "file": "k044.m4a",
+  "sec": 6.68,
+  "lufs": -16.0,
+  "true_peak_db": -1.63
+ },
+ {
+  "file": "k045.m4a",
+  "sec": 6.84,
+  "lufs": -17.02,
+  "true_peak_db": -1.23
+ },
+ {
+  "file": "k046.m4a",
+  "sec": 5.52,
+  "lufs": -17.1,
+  "true_peak_db": -1.3
+ },
+ {
+  "file": "k047.m4a",
+  "sec": 7.48,
+  "lufs": -16.01,
+  "true_peak_db": -1.59
+ },
+ {
+  "file": "k048.m4a",
+  "sec": 4.96,
+  "lufs": -16.0,
+  "true_peak_db": -1.56
+ },
+ {
+  "file": "k049.m4a",
+  "sec": 6.92,
+  "lufs": -16.21,
+  "true_peak_db": -1.29
+ },
+ {
+  "file": "k050.m4a",
+  "sec": 4.96,
+  "lufs": -16.09,
+  "true_peak_db": -1.3
+ },
+ {
+  "file": "k051.m4a",
+  "sec": 5.68,
+  "lufs": -17.02,
+  "true_peak_db": -1.27
+ },
+ {
+  "file": "k052.m4a",
+  "sec": 5.92,
+  "lufs": -17.01,
+  "true_peak_db": -1.27
+ },
+ {
+  "file": "k053.m4a",
+  "sec": 4.88,
+  "lufs": -16.01,
+  "true_peak_db": -2.6
+ },
+ {
+  "file": "k054.m4a",
+  "sec": 8.84,
+  "lufs": -16.0,
+  "true_peak_db": -2.16
+ },
+ {
+  "file": "k055.m4a",
+  "sec": 5.0,
+  "lufs": -17.06,
+  "true_peak_db": -1.15
+ },
+ {
+  "file": "k056.m4a",
+  "sec": 7.8,
+  "lufs": -16.09,
+  "true_peak_db": -1.26
+ },
+ {
+  "file": "k057.m4a",
+  "sec": 6.52,
+  "lufs": -16.78,
+  "true_peak_db": -1.2
+ },
+ {
+  "file": "k058.m4a",
+  "sec": 3.32,
+  "lufs": -16.0,
+  "true_peak_db": -1.67
+ },
+ {
+  "file": "k059.m4a",
+  "sec": 6.32,
+  "lufs": -17.03,
+  "true_peak_db": -1.3
+ },
+ {
+  "file": "k060.m4a",
+  "sec": 8.24,
+  "lufs": -17.07,
+  "true_peak_db": -1.28
+ },
+ {
+  "file": "k061.m4a",
+  "sec": 7.84,
+  "lufs": -17.02,
+  "true_peak_db": -1.24
+ },
+ {
+  "file": "k062.m4a",
+  "sec": 3.88,
+  "lufs": -17.04,
+  "true_peak_db": -1.29
+ },
+ {
+  "file": "k063.m4a",
+  "sec": 5.96,
+  "lufs": -16.01,
+  "true_peak_db": -1.98
+ },
+ {
+  "file": "k064.m4a",
+  "sec": 6.36,
+  "lufs": -17.01,
+  "true_peak_db": -1.26
+ },
+ {
+  "file": "k065.m4a",
+  "sec": 8.72,
+  "lufs": -17.02,
+  "true_peak_db": -1.26
+ },
+ {
+  "file": "k066.m4a",
+  "sec": 6.64,
+  "lufs": -16.5,
+  "true_peak_db": -1.33
+ },
+ {
+  "file": "k067.m4a",
+  "sec": 5.88,
+  "lufs": -16.68,
+  "true_peak_db": -1.3
+ },
+ {
+  "file": "k068.m4a",
+  "sec": 7.52,
+  "lufs": -16.77,
+  "true_peak_db": -1.17
+ },
+ {
+  "file": "k069.m4a",
+  "sec": 4.24,
+  "lufs": -16.0,
+  "true_peak_db": -1.37
+ },
+ {
+  "file": "k070.m4a",
+  "sec": 3.92,
+  "lufs": -17.03,
+  "true_peak_db": -1.29
+ },
+ {
+  "file": "k071.m4a",
+  "sec": 6.88,
+  "lufs": -17.07,
+  "true_peak_db": -1.34
+ },
+ {
+  "file": "k072.m4a",
+  "sec": 6.64,
+  "lufs": -17.03,
+  "true_peak_db": -1.34
+ },
+ {
+  "file": "k073.m4a",
+  "sec": 3.96,
+  "lufs": -16.01,
+  "true_peak_db": -1.65
+ },
+ {
+  "file": "k074.m4a",
+  "sec": 6.36,
+  "lufs": -15.99,
+  "true_peak_db": -2.43
+ },
+ {
+  "file": "k075.m4a",
+  "sec": 5.8,
+  "lufs": -17.01,
+  "true_peak_db": -2.01
+ },
+ {
+  "file": "k076.m4a",
+  "sec": 4.32,
+  "lufs": -17.03,
+  "true_peak_db": -1.23
+ },
+ {
+  "file": "k077.m4a",
+  "sec": 6.6,
+  "lufs": -17.04,
+  "true_peak_db": -1.25
+ },
+ {
+  "file": "k078.m4a",
+  "sec": 5.72,
+  "lufs": -16.02,
+  "true_peak_db": -1.64
+ },
+ {
+  "file": "k079.m4a",
+  "sec": 5.16,
+  "lufs": -16.39,
+  "true_peak_db": -1.24
+ },
+ {
+  "file": "k080.m4a",
+  "sec": 8.04,
+  "lufs": -16.87,
+  "true_peak_db": -1.32
+ },
+ {
+  "file": "k081.m4a",
+  "sec": 7.76,
+  "lufs": -16.01,
+  "true_peak_db": -1.46
+ },
+ {
+  "file": "k082.m4a",
+  "sec": 6.88,
+  "lufs": -16.98,
+  "true_peak_db": -1.31
+ },
+ {
+  "file": "k083.m4a",
+  "sec": 7.96,
+  "lufs": -16.21,
+  "true_peak_db": -1.51
+ },
+ {
+  "file": "k084.m4a",
+  "sec": 4.68,
+  "lufs": -16.01,
+  "true_peak_db": -1.45
+ },
+ {
+  "file": "k085.m4a",
+  "sec": 6.28,
+  "lufs": -17.08,
+  "true_peak_db": -1.27
+ },
+ {
+  "file": "k086.m4a",
+  "sec": 4.96,
+  "lufs": -16.02,
+  "true_peak_db": -2.21
+ },
+ {
+  "file": "k087.m4a",
+  "sec": 7.32,
+  "lufs": -16.17,
+  "true_peak_db": -1.36
+ },
+ {
+  "file": "k088.m4a",
+  "sec": 8.8,
+  "lufs": -17.02,
+  "true_peak_db": -1.23
+ },
+ {
+  "file": "k089.m4a",
+  "sec": 6.08,
+  "lufs": -17.06,
+  "true_peak_db": -1.33
+ },
+ {
+  "file": "k090.m4a",
+  "sec": 8.52,
+  "lufs": -16.38,
+  "true_peak_db": -1.18
+ },
+ {
+  "file": "k091.m4a",
+  "sec": 5.4,
+  "lufs": -17.15,
+  "true_peak_db": -1.14
+ },
+ {
+  "file": "k092.m4a",
+  "sec": 5.64,
+  "lufs": -16.01,
+  "true_peak_db": -1.61
+ }
+]

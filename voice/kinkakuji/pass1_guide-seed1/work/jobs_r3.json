@@ -1,0 +1,112 @@
+[
+ {
+  "id": "k004",
+  "text": "きんかくの なで 知られる この おてら、せいしきには ほくざんろくおんじ と いいます。",
+  "display": "金閣の名で知られるこのお寺、正式には北山鹿苑寺といいます。",
+  "reading_ref": "きんかくの なで 知られる この おてら、せいしきには ほくざんろくおんじ と いいます。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 3,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k004_r3_s3.wav"
+ },
+ {
+  "id": "k010",
+  "text": "工事を 始めたのは、むろまちばくふの さんだいしょうぐん、あしかが よしみつ です。",
+  "display": "工事を始めたのは、室町幕府の三代将軍、足利義満です。",
+  "reading_ref": "工事を 始めたのは、むろまちばくふの さんだいしょうぐん、あしかが よしみつ です。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k010_r3_s1.wav"
+ },
+ {
+  "id": "k026",
+  "text": "いっそうには しゃかさんぞん、にそうは かんのんでん、さんそうには ぶっしゃりが おさめられました。",
+  "display": "一層には釈迦三尊、二層は観音殿、三層には仏舎利が納められました。",
+  "reading_ref": "いっそうには しゃかさんぞん、にそうは かんのんでん、さんそうには ぶっしゃりが おさめられました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 3,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k026_r3_s3.wav"
+ },
+ {
+  "id": "k030",
+  "text": "きたやまぎょうこう と 呼ばれる できごと です。よしみつは せいだいな うたげを 開きました。",
+  "display": "北山行幸と呼ばれる出来事です。義満は盛大な宴を開きました。",
+  "reading_ref": "きたやまぎょうこう と 呼ばれる できごと です。よしみつは せいだいな うたげを 開きました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。少し明るく。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 3,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k030_r3_s3.wav"
+ },
+ {
+  "id": "k040",
+  "text": "きたやまどのには、よしみつの つま、ひの やすこが 住みつづけました。",
+  "display": "北山殿には、義満の妻・日野康子が住み続けました。",
+  "reading_ref": "きたやまどのには、よしみつの つま、ひの やすこが 住みつづけました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k040_r3_s1.wav"
+ },
+ {
+  "id": "k046",
+  "text": "むそう そせきは、てんりゅうじの かいさん としても 知られる ぜんそう です。",
+  "display": "夢窓疎石は、天龍寺の開山としても知られる禅僧です。",
+  "reading_ref": "むそう そせきは、てんりゅうじの かいさん としても 知られる ぜんそう です。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 2,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k046_r3_s2.wav"
+ },
+ {
+  "id": "k047",
+  "text": "ところが、むそうは かんのうにねん、せんさんびゃくごじゅういちねんに なくなって います。",
+  "display": "ところが、夢窓は観応二年（1351年）に亡くなっています。",
+  "reading_ref": "ところが、むそうは かんのうにねん、せんさんびゃくごじゅういちねんに なくなって います。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 3,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k047_r3_s3.wav"
+ },
+ {
+  "id": "k051",
+  "text": "ろくおんじが ぞくする しょうこくじも、むそう そせきを かいさん として います。",
+  "display": "鹿苑寺が属する相国寺も、夢窓疎石を開山としています。",
+  "reading_ref": "ろくおんじが ぞくする しょうこくじも、むそう そせきを かいさん として います。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 2,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k051_r3_s2.wav"
+ },
+ {
+  "id": "k056",
+  "text": "その すこし まえ、きょうとは おうにん・ぶんめいの らんで、ながい せんらんの なかに ありました。",
+  "display": "その少し前、京都は応仁・文明の乱で、長い戦乱の中にありました。",
+  "reading_ref": "その すこし まえ、きょうとは おうにん・ぶんめいの らんで、ながい せんらんの なかに ありました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 3,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k056_r3_s3.wav"
+ },
+ {
+  "id": "k060",
+  "text": "たてなおしたのは うきた ひでいえ。けいだいに のこる、いちばん ふるい たてもの と されます。",
+  "display": "建て直したのは宇喜多秀家。境内に残る、いちばん古い建物とされます。",
+  "reading_ref": "たてなおしたのは うきた ひでいえ。けいだいに のこる、いちばん ふるい たてもの と されます。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k060_r3_s1.wav"
+ },
+ {
+  "id": "k061",
+  "text": "えどじだいには、じゅうしょくの ほうりん じょうしょうが、かたむいた きんかくと にわを しゅうり しました。",
+  "display": "江戸時代には、住職の鳳林承章が、傾いた金閣と庭を修理しました。",
+  "reading_ref": "えどじだいには、じゅうしょくの ほうりん じょうしょうが、かたむいた きんかくと にわを しゅうり しました。",
+  "caption": "落ち着いた大人の女性が、感情を抑えて穏やかに語りかけるナレーション。",
+  "ref_wav": "C:\\Justeco\\Active\\aruki-v2\\voice\\cast\\guide_seed1_ref.wav",
+  "seed": 1,
+  "out": "C:\\Justeco\\Active\\aruki-v2\\voice\\kinkakuji\\raw\\k061_r3_s1.wav"
+ }
+]
