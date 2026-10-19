@@ -1,33 +1,153 @@
 {
-  "note": "（仮）画面の土台用の仮データ。説明・顔・区別は依頼01・02・06で差し替える",
+  "note": "tools/build_data.py が作ったもの。手で直さない",
   "people": [
     {
       "id": "yoshimitsu",
       "name": "足利義満",
-      "reading": "あしかが よしみつ",
+      "reading": "あしかがよしみつ",
+      "role": "室町幕府三代将軍。北山殿を造営",
       "born": 1358,
       "died": 1408,
-      "desc": "（仮）室町幕府の三代将軍。北山に山荘を営んだ。",
-      "face": null,
-      "basis": "kaishaku",
-      "basisNote": "（仮）顔の絵は依頼06で決める。いまは仮の枠",
+      "desc": "室町幕府三代将軍。北山殿を造営",
       "historical": true,
-      "stories": ["kinkakuji"],
-      "colors": { "bg": "#E9E0CC", "bg2": "#D8C9A8", "fg": "#8C7A5C" }
+      "basis": "shiryo",
+      "faceBasis": "kaishaku",
+      "factBasis": "shiryo",
+      "images": {
+        "normal": "img/people/yoshimitsu_normal.webp",
+        "smile": "img/people/yoshimitsu_smile.webp",
+        "bust": "img/people/yoshimitsu_normal.webp"
+      },
+      "card": {
+        "summary": "人物の事実は史料にもとづきます。顔は肖像を写しておらず、解釈で描いています。",
+        "shiryo": [
+          {
+            "point": "1358年生まれ",
+            "facts": [
+              "W01"
+            ],
+            "sources": [
+              "S1",
+              "S12"
+            ]
+          },
+          {
+            "point": "1395年（応永2年）、38歳で出家（法名 道有・のち道義、法号 鹿苑院）",
+            "facts": [
+              "W07"
+            ],
+            "sources": [
+              "S1",
+              "S12"
+            ]
+          },
+          {
+            "point": "北山殿の造営開始（1397）のとき数え40歳、1408年に51歳で没 → 北山殿の時期は40代〜51歳",
+            "facts": [
+              "W08",
+              "T07"
+            ],
+            "sources": [
+              "S1",
+              "S12"
+            ]
+          },
+          {
+            "point": "出家しても政から退いたわけではない",
+            "facts": [
+              "W06",
+              "W07",
+              "T05"
+            ],
+            "sources": [
+              "S1",
+              "S12",
+              "S5"
+            ]
+          }
+        ],
+        "kaishaku": [
+          {
+            "point": "頭",
+            "decision": "剃髪（髪なし・冠なし）"
+          },
+          {
+            "point": "顔のひげ",
+            "decision": "描かない（ひげなし）"
+          },
+          {
+            "point": "顔立ち",
+            "decision": "四角みのある卵形・広い額・ややふっくらした頬・まっすぐな眉。美化もおとしめもしない「普通の壮年」"
+          },
+          {
+            "point": "年齢の見え方",
+            "decision": "40代後半〜50歳ごろを指定"
+          },
+          {
+            "point": "衣",
+            "decision": "墨染（黒）の僧衣・白い下の衿・黄土色の袈裟（田の字のつぎはぎ）を左肩に"
+          },
+          {
+            "point": "数珠・持ち物",
+            "decision": "描かない"
+          }
+        ],
+        "artNote": "挿絵：AIで新しく描いた想像図です。特定の肖像画をもとにしていません。"
+      },
+      "sources": [
+        {
+          "id": "S1",
+          "label": "鹿苑寺（金閣寺）公式「金閣寺について」",
+          "url": "https://www.shokoku-ji.jp/kinkakuji/about/"
+        },
+        {
+          "id": "S12",
+          "label": "コトバンク「足利義満」（ニッポニカ／山川／日本人名大辞典+Plus／世界大百科事典／旺文社）",
+          "url": "https://kotobank.jp/word/%E8%B6%B3%E5%88%A9%E7%BE%A9%E6%BA%80-15524"
+        },
+        {
+          "id": "S5",
+          "label": "京都市（制作：京都市歴史資料館）©2005 ver.1.01「9 金閣寺（鹿苑寺）」（知る／歩く・見る）",
+          "url": "https://www2.city.kyoto.lg.jp/html/somu/rekishi/fm/nenpyou/pdffile/bunka09.pdf"
+        }
+      ],
+      "stories": [
+        "kinkakuji"
+      ]
     },
     {
       "id": "guide",
-      "name": "案内役",
-      "reading": "あんないやく",
+      "name": "しおり",
+      "reading": "しおり",
+      "role": "案内役（架空の人物）",
       "born": null,
       "died": null,
-      "desc": "架空の案内役。名前と姿は準備中（いまは仮の枠）。",
-      "face": null,
-      "basis": "sousaku",
-      "basisNote": "架空の人物",
+      "desc": "各地に残る話を聞き集めて、旅の記録帳に書き留めている記録係。ひとりで集めた話を、その場所を歩く人と一緒に聴き直すために案内している。",
       "historical": false,
-      "stories": ["kinkakuji"],
-      "colors": { "bg": "#E3E8EE", "bg2": "#CBD5E0", "fg": "#6B7F96" }
+      "basis": "sousaku",
+      "faceBasis": "sousaku",
+      "factBasis": null,
+      "images": {
+        "normal": "img/people/guide_normal.webp",
+        "smile": "img/people/guide_smile.webp",
+        "discover": "img/people/guide_discover.webp",
+        "think": "img/people/guide_think.webp",
+        "bust": "img/people/guide_bust.webp"
+      },
+      "card": {
+        "summary": "物語をつなぐ架空の案内役です。史実の人物ではありません。",
+        "creative": [
+          "立場：各地に残る話を聞き集めて、旅の記録帳に書き留めている記録係。ひとりで集めた話を、その場所を歩く人と一緒に聴き直すために案内している。",
+          "一人称：「わたし」",
+          "持ち物：手のひらより少し大きい、表紙が藍の和綴じ風の帳面。朱の栞紐が1本垂れる",
+          "名前の由来：本の栞＝「どこまで読んだか」の印。"
+        ],
+        "artNote": "挿絵：AIで新しく描いた架空の人物の絵です。"
+      },
+      "sources": [],
+      "stories": [
+        "kinkakuji"
+      ]
     }
   ]
 }

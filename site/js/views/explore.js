@@ -25,8 +25,6 @@ function storyCard(s, people) {
 
 export async function render(root, _arg, ctx) {
   const [cat, people] = await Promise.all([getCatalog(), getPeopleMap()]);
-  const plannedLine = cat.planned && cat.planned.length
-    ? `<p class="note-line">ほかの物語は準備中（${cat.planned.length}本予定）</p>` : '';
 
   function body() {
     if (mode === 'place') {
@@ -67,7 +65,7 @@ export async function render(root, _arg, ctx) {
       const st = cat.stories.filter((s) => (s.people || []).includes(p.id));
       const target = st[0];
       return `<a class="person-row" href="${target ? `#story/${esc(target.id)}` : '#explore'}">
-        ${personFrame(p)}
+        ${personFrame(p, { alt: '' })}
         <span><span class="person-row__name">${esc(p.name)}</span><br><span class="muted small">${esc(p.reading)}<br>${esc(p.born)}〜${esc(p.died)}年</span></span>
         <span class="muted small">${st.map((s) => esc(s.placeShort)).join('・')}</span>
       </a>`;
@@ -82,7 +80,7 @@ export async function render(root, _arg, ctx) {
         <button type="button" role="tab" data-mode="era" aria-selected="${mode === 'era'}">時代</button>
         <button type="button" role="tab" data-mode="person" aria-selected="${mode === 'person'}">人物</button>
       </div></div>
-      <div class="section" style="margin-top:var(--sp-2)" role="tabpanel">${body()}${plannedLine}</div>
+      <div class="section" style="margin-top:var(--sp-2)" role="tabpanel">${body()}</div>
     </div></div>`;
     // 年表は選んでいる時代が見える位置まで横に送る（ページ全体は動かさない）
     const tl = root.querySelector('.timeline');

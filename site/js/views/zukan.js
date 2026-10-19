@@ -1,6 +1,6 @@
 // 図鑑：場所／人物／旅の日記。地域ごとの「1/○」。未発見はシルエットと地名だけ。
 import { getCatalog, getPeopleMap } from '../data.js';
-import { esc, scene, personFrame, basisTag, fmtDate } from '../ui.js';
+import { esc, scene, personFrame, basisTag, personBasisTags, fmtDate, openSheet, sourceList } from '../ui.js';
 
 let tab = 'place';
 
@@ -14,7 +14,8 @@ function marks(rec) {
 export async function render(root, _arg, ctx) {
   const [cat, people] = await Promise.all([getCatalog(), getPeopleMap()]);
   const { state } = ctx;
-  const all = [...cat.stories.map((s) => ({ ...s, ready: true })), ...(cat.planned || []).map((p) => ({ ...p, ready: false }))];
+  // 分母は今ある物語だけ（準備中は数えない）
+  const all = cat.stories;
 
   function places() {
     const regions = cat.regions.filter((r) => all.some((x) => x.region === r.id));
@@ -29,9 +30,9 @@ export async function render(root, _arg, ctx) {
           const rec = state.records.places[x.id];
           const found = rec && rec.heard;
           if (!found) {
-            return `<li class="card zcard zcard--locked">${scene(x.ready ? x : null, '')}<div class="zcard__body"><p class="zcard__name">${esc(x.place)}</p><p class="small muted">${esc(x.pref)}・まだ聴いていません</p></div></li>`;
+            return `<li class="card zcard zcard--locked">${scene(x, { alt: '' })}<div class="zcard__body"><p class="zcard__name">${esc(x.place)}</p><p class="small muted">${esc(x.pref)}・まだ聴いていません</p></div></li>`;
           }
-          return `<li class="card zcard"><a class="card-link" href="#story/${esc(x.id)}">${scene(x, '')}</a><div class="zcard__body">
+          return `<li class="card zcard"><a class="card-link" href="#story/${esc(x.id)}">${scene(x, { alt: `${x.place}の景色` })}</a><div class="zcard__body">
             <p class="zcard__name">${esc(x.place)}</p>
             <div class="zcard__marks">${marks(rec)}${basisTag(x.basis)}</div>
             <p class="small muted">${esc(fmtDate(rec.heard))}</p></div></li>`;
@@ -50,11 +51,11 @@ export async function render(root, _arg, ctx) {
         if (!(rec && rec.heard)) {
           return `<li class="card zcard zcard--locked">${personFrame(p, { silhouette: true })}<div class="zcard__body"><p class="zcard__name">？？？</p><p class="small muted">物語の中で出会えます</p></div></li>`;
         }
-        return `<li class="card zcard">${personFrame(p)}<div class="zcard__body">
-          <p class="zcard__name">${esc(p.name)}</p>
-          <p class="small muted">${p.born ? `${esc(p.born)}〜${esc(p.died)}年` : '架空の人物'}</p>
-          <div class="zcard__marks">${marks(rec)}${basisTag(p.basis)}</div>
-          <p class="small">${esc(p.desc)}</p></div></li>`;
+        return `<li class="card zcard zcard--person"><button class="zcard__open" type="button" data-person="${esc(p.id)}" aria-haspopup="dialog">${personFrame(p, { bust: true, alt: '' })}<span class="zcard__body">
+          <span class="zcard__name">${esc(p.name)}</span>
+          <span class="small muted">${p.born ? `${esc(p.born)}〜${esc(p.died)}年` : '架空の人物'}</span>
+          <span class="zcard__marks">${marks(rec)}${personBasisTags(p)}</span>
+          <span class="zcard__more small">くわしく見る</span></span></button></li>`;
       }).join('')}</ul>
     </section>`;
   }
@@ -84,6 +85,8 @@ export async function render(root, _arg, ctx) {
   }
 
   function onClick(e) {
+    const pc = e.target.closest('[data-person]');
+    if (pc) { openPerson(people[pc.dataset.person]); return; }
     const t = e.target.closest('[data-tab]');
     if (!t) return;
     tab = t.dataset.tab;
@@ -93,4 +96,26 @@ export async function render(root, _arg, ctx) {
   root.addEventListener('click', onClick);
   paint();
   return { unmount() { root.removeEventListener('click', onClick); } };
+}
+
+// 人物カードを開く：史料にもとづく点／解釈した点（または創作）と出典
+function openPerson(p) {
+  if (!p) return;
+  const c = p.card || {};
+  const srcIndex = Object.fromEntries((p.sources || []).map((x) => [x.id, x]));
+  const cite = (ids) => (ids || []).filter((id) => srcIndex[id]).map((id) => `<a href="${esc(srcIndex[id].url)}" target="_blank" rel="noopener" class="cite">[${esc(id)}]</a>`).join('');
+  const shiryo = (c.shiryo || []).length ? `<section class="pcard__sec"><h3>${basisTag('shiryo')} 史料にもとづく点</h3><ul class="pcard__list">${c.shiryo.map((x) => `<li>${esc(x.point)} ${cite(x.sources)}</li>`).join('')}</ul></section>` : '';
+  const kaishaku = (c.kaishaku || []).length ? `<section class="pcard__sec"><h3>${basisTag('kaishaku')} 解釈した点（肖像を写していないため）</h3><ul class="pcard__list">${c.kaishaku.map((x) => `<li><b>${esc(x.point)}</b>：${esc(x.decision)}</li>`).join('')}</ul></section>` : '';
+  const creative = (c.creative || []).length ? `<section class="pcard__sec"><h3>${basisTag('sousaku')} 創作の人物</h3><ul class="pcard__list">${c.creative.map((x) => `<li>${esc(x)}</li>`).join('')}</ul></section>` : '';
+  const srcs = (p.sources || []).length ? `<section class="pcard__sec"><h3>出典</h3>${sourceList(p.sources.map((x) => ({ ...x, label: `[${x.id}] ${x.label}` })))}</section>` : '';
+  const body = `<div class="pcard">
+    <div class="pcard__head">${personFrame(p, { bust: true, alt: `${p.name}の絵` })}
+      <div><p class="small muted">${esc(p.reading || '')}</p><p class="pcard__role">${esc(p.role || p.desc || '')}</p>
+      <p class="zcard__marks">${personBasisTags(p)}</p></div></div>
+    ${c.summary ? `<p>${esc(c.summary)}</p>` : ''}
+    ${shiryo}${kaishaku}${creative}
+    ${c.artNote ? `<p class="small muted">${esc(c.artNote)}</p>` : ''}
+    ${srcs}
+  </div>`;
+  openSheet(p.name, body);
 }

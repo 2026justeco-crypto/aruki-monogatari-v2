@@ -1,6 +1,6 @@
 // 詳細：大きな景色・問い1行・登場人物の顔・所要時間・出典・主ボタン「聴く」
 import { getStory, getPeopleMap } from '../data.js';
-import { esc, scene, personFrame, basisTag, icon, fmtMin } from '../ui.js';
+import { esc, scene, personFrame, personBasisTags, icon, fmtMin, sourceList, disclaimerList } from '../ui.js';
 
 export async function render(root, id, ctx) {
   const [s, people] = await Promise.all([getStory(id), getPeopleMap()]);
@@ -13,12 +13,11 @@ export async function render(root, id, ctx) {
   const remain = inProgress && player.story && player.story.id === s.id ? player.remaining : null;
   const heard = state.records.places[s.id] && state.records.places[s.id].heard;
   const faces = (s.people || []).map((pid) => people[pid]).filter(Boolean).map((p) => `
-    <li class="face">${personFrame(p)}<span class="face__name">${esc(p.name)}</span>${basisTag(p.basis)}</li>`).join('');
-  const sources = (s.sources || []).map((src) => `<li>${src.url ? `<a href="${esc(src.url)}" target="_blank" rel="noopener">${esc(src.label)}</a>` : esc(src.label)}</li>`).join('');
+    <li class="face">${personFrame(p, { alt: '' })}<span class="face__name">${esc(p.name)}</span><span class="face__role small muted">${esc(p.historical ? `${p.born}〜${p.died}年` : '案内役・架空')}</span><span class="face__tags">${personBasisTags(p)}</span></li>`).join('');
 
   root.innerHTML = `
   <article class="screen">
-    <div class="detail-hero">${scene(s)}
+    <div class="detail-hero">${scene(s, { eager: true })}
       <div class="detail-hero__top"><div class="wrap"><a class="backlink" href="#explore">${icon('back')}探す</a></div></div>
     </div>
     <div class="wrap">
@@ -30,7 +29,7 @@ export async function render(root, id, ctx) {
       </header>
       <p class="detail-q section" style="margin-top:var(--sp-4)">${esc(s.question)}</p>
       <section class="section" aria-labelledby="h-people"><h2 id="h-people">登場人物</h2><ul class="people-row">${faces}</ul>
-        <p class="muted small">顔はいまは仮の枠です。案内役は架空の人物です。</p></section>
+        <p class="muted small">人物の絵はAIで新しく描いた想像図です。肖像画を写したものではありません。</p></section>
       <section class="section" aria-labelledby="h-meta"><h2 id="h-meta" class="visually-hidden">概要</h2>
         <dl class="meta-list">
           <div><dt>所要時間</dt><dd>約${esc(s.durationMin)}分</dd></div>
@@ -38,8 +37,8 @@ export async function render(root, id, ctx) {
           <div><dt>聴ける場所</dt><dd>${esc(s.onSite)}</dd></div>
         </dl>
       </section>
-      <section class="section" aria-labelledby="h-src"><h2 id="h-src">出典</h2><ul class="sources">${sources}</ul>
-        <p class="muted small">案内役の語りと人物の台詞の言い回しは創作です。</p></section>
+      <section class="section" aria-labelledby="h-kubetsu"><h2 id="h-kubetsu">史実と創作の区別</h2>${disclaimerList(s)}</section>
+      <section class="section" aria-labelledby="h-src"><h2 id="h-src">しらべた資料（出典）</h2>${sourceList(s.sources)}</section>
       <div class="detail-cta">
         <button class="btn btn-primary btn-block" type="button" data-act="listen">${inProgress ? `続きを聴く（あと${esc(fmtMin(remain ?? s.durationMin * 60))}）` : '聴く'}</button>
         ${inProgress ? '<button class="btn btn-text" type="button" data-act="restart">最初から聴く</button>' : ''}

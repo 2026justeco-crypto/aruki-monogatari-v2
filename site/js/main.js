@@ -162,5 +162,7 @@ applySettings();
   render();
 })();
 
-// 確かめ用（Playwrightから位置を動かす）
-window.__aruki = { player, state };
+// 確かめ用（Playwrightから位置を動かす）。?debug=1 のときだけ作る
+try {
+  if (new URLSearchParams(location.search).get('debug') === '1') window.__aruki = { player, state };
+} catch (e) { /* 無視 */ }

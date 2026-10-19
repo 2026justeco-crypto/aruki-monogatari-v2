@@ -2,8 +2,8 @@
 // 音声ファイルがある会話は音声の終わりで次へ。無い会話は文字数から長さを見積もって進む（仮の動き）。
 import { getScript, getStory } from './data.js';
 
-const SEC_PER_CHAR = 0.14;  // 見積もり：1文字あたりの秒数（仮）
-const PAD_SEC = 0.8;        // 見積もり：1会話ごとの間（仮）
+const SEC_PER_CHAR = 0.19;  // 見積もり：1文字あたりの秒数（仮。台本の「1分300字」に近づけた）
+const PAD_SEC = 0.5;        // 見積もり：1会話ごとの間（仮）
 const TICK_MS = 100;
 
 export function estimateSec(text) {
@@ -27,7 +27,12 @@ export class Player extends EventTarget {
     this._lastSaved = 0;
     this.audio = new Audio();
     this.audio.preload = 'auto';
-    this.audio.addEventListener('ended', () => this._next());
+    this.audio.addEventListener('ended', () => { if (this.playing && this._usesAudio(this.index)) this._next(); });
+    // 長さの書かれていない音声は、読み込んだ実際の長さを使う（残り時間・30秒戻しの計算のため）
+    this.audio.addEventListener('loadedmetadata', () => {
+      const l = this.line;
+      if (l && l.audio && !(l.duration > 0) && Number.isFinite(this.audio.duration)) l.duration = Math.round(this.audio.duration * 100) / 100;
+    });
     this.audio.addEventListener('error', () => {
       // 音声が読めないときは見積もりの動きに切り替える
       if (this.playing && this._usesAudio(this.index)) {
@@ -151,8 +156,9 @@ export class Player extends EventTarget {
 
   _startAudio() {
     const l = this.line;
-    const src = `data/${encodeURIComponent(this.story.id)}/audio/${encodeURIComponent(l.audio)}`;
-    if (!this.audio.src.endsWith(src)) this.audio.src = src;
+    // audio は site からの相対パス（例 audio/kinkakuji/k001.wav）。ファイル名だけなら audio/<物語>/ の下を見る
+    const src = String(l.audio).includes('/') ? l.audio : `audio/${encodeURIComponent(this.story.id)}/${encodeURIComponent(l.audio)}`;
+    if (this.audio.dataset.src !== src) { this.audio.dataset.src = src; this.audio.src = src; }
     this.audio.volume = this.volume;
     this.audio.playbackRate = this.speed;
     try { this.audio.currentTime = this.t; } catch (e) { /* 読み込み前は無視 */ }

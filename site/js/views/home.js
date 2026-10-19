@@ -29,23 +29,24 @@ export async function render(root, _arg, ctx) {
 
   const steps = mockSteps();
   const levelPct = Math.round(((steps % 3000) / 3000) * 100);
+  // しおりの一言（settei.md の話し方：です・ます、短く、煽らない）
   const say = resumeStory
-    ? `${resumeStory.placeShort}の話、続きからお話ししますね。`
-    : `今日は${recommend.area}を歩いてみましょうか。`;
+    ? `${resumeStory.placeShort}の話の続きを、ここから一緒に聴きましょう。`
+    : `今日は${recommend.area}の話をお持ちしました。`;
 
   root.innerHTML = `
   <div class="screen">
     <section class="home-hero">
-      ${scene(featured)}
+      ${scene(featured, { which: 'home', eager: true, alt: `${featured.place}の夕方の景色（AIで描いた絵）` })}
       <div class="home-hero__veil" aria-hidden="true"></div>
-      <div class="home-guide">${personFrame(guide, { label: '案内役（仮）' })}</div>
+      <div class="home-guide">${personFrame(guide, { bust: true, alt: `案内役のしおり（架空の人物）` })}</div>
       <div class="home-hero__text"><div class="wrap">
         <p class="home-hero__sub">${esc(featured.pref)}</p>
         <h1 class="home-hero__area mincho">${esc(featured.area)}</h1>
       </div></div>
     </section>
     <div class="wrap home-main">
-      <div class="home-guide-say">${personFrame(guide, { label: '仮の絵' })}<p><span class="visually-hidden">案内役：</span>（仮）${esc(say)}</p></div>
+      <div class="home-guide-say"><p><span class="home-guide-say__name">${esc(guide.name)}</span>${esc(say)}</p></div>
       ${primary}
       <div class="home-steps" aria-label="今日の歩数とレベル（試験表示）">
         <span class="home-steps__num">今日の歩数 ${steps.toLocaleString('ja-JP')}歩</span>

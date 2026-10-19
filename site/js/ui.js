@@ -12,7 +12,7 @@ const ICONS = {
   settings: '<circle cx="12" cy="12" r="3"/><path d="M12 2.8v2.4M12 18.8v2.4M2.8 12h2.4M18.8 12h2.4M5.5 5.5l1.7 1.7M16.8 16.8l1.7 1.7M5.5 18.5l1.7-1.7M16.8 7.2l1.7-1.7"/>',
   play: '<path d="M8 5.5v13l10.5-6.5z" fill="currentColor"/>',
   pause: '<path d="M8 5.5v13M16 5.5v13" stroke-width="3.2"/>',
-  back30: '<path d="M4.5 12a7.5 7.5 0 1 0 2.2-5.3"/><path d="M4 3.5v4h4"/><text x="12" y="15.2" font-size="7.2" text-anchor="middle" fill="currentColor" stroke="none" font-family="sans-serif" font-weight="700">30</text>',
+  back30: '<path d="M4.5 12a7.5 7.5 0 1 0 2.2-5.3"/><path d="M4 3.5v4h4"/>',
   log: '<path d="M5 6h14M5 11h14M5 16h9"/>',
   more: '<circle cx="5.5" cy="12" r="1.6" fill="currentColor"/><circle cx="12" cy="12" r="1.6" fill="currentColor"/><circle cx="18.5" cy="12" r="1.6" fill="currentColor"/>',
   back: '<path d="M15 5l-7 7 7 7"/>',
@@ -23,28 +23,52 @@ export function icon(name) {
   return `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">${ICONS[name] || ''}</svg>`;
 }
 
-// 仮の景色（グラデーションの枠）
-export function scene(story, label = '仮の景色') {
-  const t = (story && story.theme) || {};
-  const vars = Object.entries({
-    '--scene-sky': t.sky, '--scene-sky2': t.sky2, '--scene-hill': t.hill, '--scene-hill2': t.hill2,
-    '--scene-accent': t.accent, '--scene-water': t.water, '--scene-water2': t.water2,
-  }).filter(([, v]) => v).map(([k, v]) => `${k}:${v}`).join(';');
-  return `<div class="ph-scene" style="${esc(vars)}" role="img" aria-label="${esc(label)}">${label ? `<span class="ph-scene__label">${esc(label)}</span>` : ''}</div>`;
+// 景色の絵。src を渡さなければ物語の表紙（images.cover / images.home）
+export function scene(story, { src, alt, which = 'cover', eager = false } = {}) {
+  const url = src || (story && story.images && story.images[which]);
+  const label = alt ?? (story ? `${story.place}の景色（AIで描いた絵）` : '');
+  if (!url) return `<div class="ph-scene" role="img" aria-label="${esc(label)}"></div>`;
+  return `<div class="ph-scene has-img"><img src="${esc(url)}" alt="${esc(label)}" ${eager ? '' : 'loading="lazy" '}decoding="async"></div>`;
 }
 
-// 仮の人物の絵（胸上の枠）
-export function personFrame(person, { label = '仮の絵', silhouette = false } = {}) {
-  const c = (person && person.colors) || {};
-  const vars = silhouette ? '' : Object.entries({ '--person-bg': c.bg, '--person-bg2': c.bg2, '--person-fg': c.fg })
-    .filter(([, v]) => v).map(([k, v]) => `${k}:${v}`).join(';');
-  const name = silhouette ? 'まだ出会っていない人物' : `${person ? person.name : ''}（${label}）`;
-  return `<div class="ph-person${silhouette ? ' silhouette' : ''}" style="${esc(vars)}" role="img" aria-label="${esc(name)}"><span class="ph-person__label">${esc(silhouette ? '？' : label)}</span></div>`;
+// 人物の絵の場所（表情 expr。無い表情は normal）
+export function personSrc(person, expr = 'normal') {
+  const im = (person && person.images) || {};
+  return im[expr] || im.normal || '';
 }
 
-export function basisTag(key) {
+// 人物の胸上。silhouette のときは「まだ出会っていない人物」の影
+export function personFrame(person, { expr = 'normal', silhouette = false, bust = false, alt } = {}) {
+  if (silhouette || !person) {
+    return '<div class="ph-person silhouette" role="img" aria-label="まだ出会っていない人物"><span class="ph-person__label">？</span></div>';
+  }
+  const src = bust ? (person.images && person.images.bust) || personSrc(person, expr) : personSrc(person, expr);
+  const label = alt ?? `${person.name}の絵`;
+  return `<div class="ph-person has-img"><img src="${esc(src)}" alt="${esc(label)}" decoding="async" data-person="${esc(person.id)}"></div>`;
+}
+
+export function basisTag(key, prefix = '') {
   if (!BASIS[key]) return '';
-  return `<span class="basis basis--${esc(key)}">${esc(BASIS[key])}</span>`;
+  return `<span class="basis basis--${esc(key)}">${esc(prefix)}${esc(BASIS[key])}</span>`;
+}
+
+// 人物の区別の印（人物の事実／顔）。案内役は「創作」1つ
+export function personBasisTags(p) {
+  if (!p) return '';
+  if (!p.historical) return basisTag(p.basis || 'sousaku');
+  return `${basisTag(p.factBasis || p.basis, '人物の事実：')}${p.faceBasis ? basisTag(p.faceBasis, '顔：') : ''}`;
+}
+
+// 出典の一覧（リンク）
+export function sourceList(sources) {
+  return `<ul class="sources">${(sources || []).map((src) => `<li>${src.url
+    ? `<a href="${esc(src.url)}" target="_blank" rel="noopener">${esc(src.label)}</a>` : esc(src.label)}</li>`).join('')}</ul>`;
+}
+
+// 史実と創作の区別の説明
+export function disclaimerList(story) {
+  const items = (story && story.disclaimer) || [];
+  return items.length ? `<ul class="disclaimer">${items.map((t) => `<li>${esc(t)}</li>`).join('')}</ul>` : '';
 }
 
 export function fmtMin(sec) {
