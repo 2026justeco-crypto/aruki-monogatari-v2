@@ -1,0 +1,359 @@
+{
+  "pricing": {
+    "source": "https://developers.openai.com/api/docs/models/gpt-image-2.5-sunburst （2026-10-19 確認）",
+    "rates_usd_per_1M_tokens": {
+      "text_input": 5.0,
+      "image_input": 8.0,
+      "image_output": 30.0
+    },
+    "per_image_estimate_usd": {
+      "stand_1024x1536_high_generate": 0.044,
+      "bust_or_expression_1024x1024_high_edit": 0.063,
+      "note": "各エントリの usage（APIが返したトークン数）×上の単価で計算した概算。請求額そのものは未確認（ダッシュボードは見ていない）"
+    },
+    "total_usd_estimate": 0.5409
+  },
+  "entries": [
+    {
+      "file": "gen/an1_stand_try0.png",
+      "kind": "stand",
+      "endpoint": "images.generate",
+      "input_image": null,
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1024x1536",
+      "quality": "high",
+      "background": "transparent",
+      "output_format": "png",
+      "prompt": "Picture-book illustration with a woodblock-print feel. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights, no rim light. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours and folds. Natural adult proportions: the head is about one-sixth to one-seventh of the total body height. Eyes are realistic in size, not enlarged. The expression is quiet and shown mainly by the eyebrows and the corners of the mouth. Restrained palette built on deep indigo (#1E3A5F), muted vermilion (#A8432F) used only in small accents, moss green (#4F6B42), and warm off-white (#FAF6EE), plus natural skin and dark hair tones. Not photorealistic, not 3D rendered, not anime or manga style. Absolutely no text, no letters, no characters of any script, no logo, no signature, no watermark, no red seal stamp, no frame or border.\n\nThe character is a fictional travel guide and storyteller: a Japanese woman who appears to be in her late twenties to thirties, with a calm, grounded, friendly presence. Gentle oval face, fairly straight natural eyebrows, dark brown eyes of realistic size, a small mouth, little or no visible makeup. Dark, nearly black hair, parted so a little of the forehead shows, tied low at the nape with a plain cloth tie. She carries a travel record book: a hand-bound notebook slightly larger than her palm, with a deep indigo cover and a single thin vermilion bookmark cord hanging from it. The notebook cover is completely blank. Her clothing is a practical, timeless travel outfit that fits any era without belonging to one: a modern cut with only a light Japanese touch. No crest, no pattern with symbols, no jewelry, no glowing or magical elements.\n\nOutfit: a short deep indigo haori-like jacket ending just below the hips, closed at the front with a simple cord tie; under it an off-white inner top with a gently crossed collar; slim moss green wide-leg trousers ending at the ankle; plain dark walking shoes.\n\nFull-body standing pose, the whole figure visible from the top of the head to the shoes with a little empty space around it. The body is turned slightly, about three-quarter view toward the viewer's left, with the face turned almost toward the viewer and a calm, neutral, attentive expression. She holds the travel record book in one hand at waist height. Relaxed natural posture, weight on one leg. Plain transparent background, no ground shadow, no scenery, no props other than what is described.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792396199,
+        "request_id": "req_da532aaf8c394a37b96a8e3bcf094772"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 573,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 573
+        },
+        "output_tokens": 1372,
+        "total_tokens": 1945,
+        "output_tokens_details": {
+          "image_tokens": 1372,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.04403,
+      "generated_at": "2026-10-19T16:50:02+09:00",
+      "elapsed_sec": 31.7,
+      "note": "試し打ち。頭身が約1/8で指定(1/6〜1/7)より細長いため、プロンプトの頭身指定を強めて作り直した。採用しない"
+    },
+    {
+      "file": "gen/an1_stand.png",
+      "kind": "stand",
+      "endpoint": "images.generate",
+      "input_image": null,
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1024x1536",
+      "quality": "high",
+      "background": "transparent",
+      "output_format": "png",
+      "prompt": "Picture-book illustration with a woodblock-print feel. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights, no rim light. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours and folds. Gentle storybook adult proportions: the whole figure is about six and a half heads tall, so the head is one-sixth to one-seventh of the total body height; the head is a little larger relative to the body than in fashion illustration, and the legs are not elongated. Eyes are realistic in size, not enlarged. The expression is quiet and shown mainly by the eyebrows and the corners of the mouth. Restrained palette built on deep indigo (#1E3A5F), muted vermilion (#A8432F) used only in small accents, moss green (#4F6B42), and warm off-white (#FAF6EE), plus natural skin and dark hair tones. Not photorealistic, not 3D rendered, not anime or manga style. Absolutely no text, no letters, no characters of any script, no logo, no signature, no watermark, no red seal stamp, no frame or border.\n\nThe character is a fictional travel guide and storyteller: a Japanese woman who appears to be in her late twenties to thirties, with a calm, grounded, friendly presence. Gentle oval face, fairly straight natural eyebrows, dark brown eyes of realistic size, a small mouth, little or no visible makeup. Dark, nearly black hair, parted so a little of the forehead shows, tied low at the nape with a plain cloth tie. She carries a travel record book: a hand-bound notebook slightly larger than her palm, with a deep indigo cover and a single thin vermilion bookmark cord hanging from it. The notebook cover is completely blank. Her clothing is a practical, timeless travel outfit that fits any era without belonging to one: a modern cut with only a light Japanese touch. No crest, no pattern with symbols, no jewelry, no glowing or magical elements.\n\nOutfit: a short deep indigo haori-like jacket ending just below the hips, closed at the front with a simple cord tie; under it an off-white inner top with a gently crossed collar; slim moss green wide-leg trousers ending at the ankle; plain dark walking shoes.\n\nFull-body standing pose, the whole figure visible from the top of the head to the shoes with a little empty space around it. The body is turned slightly, about three-quarter view toward the viewer's left, with the face turned almost toward the viewer and a calm, neutral, attentive expression. She holds the travel record book in one hand at waist height. Relaxed natural posture, weight on one leg. Plain transparent background, no ground shadow, no scenery, no props other than what is described.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792396263,
+        "request_id": "req_650cff48f6424c2db4a79e1b77958370"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 609,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 609
+        },
+        "output_tokens": 1372,
+        "total_tokens": 1981,
+        "output_tokens_details": {
+          "image_tokens": 1372,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.04421,
+      "generated_at": "2026-10-19T16:51:06+09:00",
+      "elapsed_sec": 36.7
+    },
+    {
+      "file": "gen/an2_stand.png",
+      "kind": "stand",
+      "endpoint": "images.generate",
+      "input_image": null,
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1024x1536",
+      "quality": "high",
+      "background": "transparent",
+      "output_format": "png",
+      "prompt": "Picture-book illustration with a woodblock-print feel. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights, no rim light. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours and folds. Gentle storybook adult proportions: the whole figure is about six and a half heads tall, so the head is one-sixth to one-seventh of the total body height; the head is a little larger relative to the body than in fashion illustration, and the legs are not elongated. Eyes are realistic in size, not enlarged. The expression is quiet and shown mainly by the eyebrows and the corners of the mouth. Restrained palette built on deep indigo (#1E3A5F), muted vermilion (#A8432F) used only in small accents, moss green (#4F6B42), and warm off-white (#FAF6EE), plus natural skin and dark hair tones. Not photorealistic, not 3D rendered, not anime or manga style. Absolutely no text, no letters, no characters of any script, no logo, no signature, no watermark, no red seal stamp, no frame or border.\n\nThe character is a fictional travel guide and storyteller: a Japanese woman who appears to be in her late twenties to thirties, with a calm, grounded, friendly presence. Gentle oval face, fairly straight natural eyebrows, dark brown eyes of realistic size, a small mouth, little or no visible makeup. Dark, nearly black hair, parted so a little of the forehead shows, tied low at the nape with a plain cloth tie. She carries a travel record book: a hand-bound notebook slightly larger than her palm, with a deep indigo cover and a single thin vermilion bookmark cord hanging from it. The notebook cover is completely blank. Her clothing is a practical, timeless travel outfit that fits any era without belonging to one: a modern cut with only a light Japanese touch. No crest, no pattern with symbols, no jewelry, no glowing or magical elements.\n\nOutfit: a knee-length deep indigo travel coat with wide sleeves and a soft wrapped front, tied with a cord; an off-white inner top with a crossed collar; moss green tapered trousers; plain dark walking shoes; a small plain off-white cloth shoulder bag on a strap across the body.\n\nFull-body standing pose, the whole figure visible from the top of the head to the shoes with a little empty space around it. The body is turned slightly, about three-quarter view toward the viewer's left, with the face turned almost toward the viewer and a calm, neutral, attentive expression. She holds the travel record book in one hand at waist height. Relaxed natural posture, weight on one leg. Plain transparent background, no ground shadow, no scenery, no props other than what is described.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792396296,
+        "request_id": "req_5dd689e37dad42719727746bac4793be"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 612,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 612
+        },
+        "output_tokens": 1372,
+        "total_tokens": 1984,
+        "output_tokens_details": {
+          "image_tokens": 1372,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.04422,
+      "generated_at": "2026-10-19T16:51:38+09:00",
+      "elapsed_sec": 31.2
+    },
+    {
+      "file": "gen/an3_stand.png",
+      "kind": "stand",
+      "endpoint": "images.generate",
+      "input_image": null,
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1024x1536",
+      "quality": "high",
+      "background": "transparent",
+      "output_format": "png",
+      "prompt": "Picture-book illustration with a woodblock-print feel. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights, no rim light. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours and folds. Gentle storybook adult proportions: the whole figure is about six and a half heads tall, so the head is one-sixth to one-seventh of the total body height; the head is a little larger relative to the body than in fashion illustration, and the legs are not elongated. Eyes are realistic in size, not enlarged. The expression is quiet and shown mainly by the eyebrows and the corners of the mouth. Restrained palette built on deep indigo (#1E3A5F), muted vermilion (#A8432F) used only in small accents, moss green (#4F6B42), and warm off-white (#FAF6EE), plus natural skin and dark hair tones. Not photorealistic, not 3D rendered, not anime or manga style. Absolutely no text, no letters, no characters of any script, no logo, no signature, no watermark, no red seal stamp, no frame or border.\n\nThe character is a fictional travel guide and storyteller: a Japanese woman who appears to be in her late twenties to thirties, with a calm, grounded, friendly presence. Gentle oval face, fairly straight natural eyebrows, dark brown eyes of realistic size, a small mouth, little or no visible makeup. Dark, nearly black hair, parted so a little of the forehead shows, tied low at the nape with a plain cloth tie. She carries a travel record book: a hand-bound notebook slightly larger than her palm, with a deep indigo cover and a single thin vermilion bookmark cord hanging from it. The notebook cover is completely blank. Her clothing is a practical, timeless travel outfit that fits any era without belonging to one: a modern cut with only a light Japanese touch. No crest, no pattern with symbols, no jewelry, no glowing or magical elements.\n\nOutfit: a short deep indigo haori-like jacket ending just below the hips, closed with a cord tie; an off-white inner top with a slightly higher crossed collar; moss green wide-leg trousers; plain dark walking shoes. Hair variation for this version: the dark hair is gathered into a loose low bun at the nape instead of a tail, still with a plain cloth tie.\n\nFull-body standing pose, the whole figure visible from the top of the head to the shoes with a little empty space around it. The body is turned slightly, about three-quarter view toward the viewer's left, with the face turned almost toward the viewer and a calm, neutral, attentive expression. She holds the travel record book in one hand at waist height. Relaxed natural posture, weight on one leg. Plain transparent background, no ground shadow, no scenery, no props other than what is described.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792396329,
+        "request_id": "req_e4174312bcef490cb40b86bed5effd0f"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 631,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 631
+        },
+        "output_tokens": 1372,
+        "total_tokens": 2003,
+        "output_tokens_details": {
+          "image_tokens": 1372,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.04432,
+      "generated_at": "2026-10-19T16:52:12+09:00",
+      "elapsed_sec": 33.1
+    },
+    {
+      "file": "gen/an4_stand.png",
+      "kind": "stand",
+      "endpoint": "images.generate",
+      "input_image": null,
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1024x1536",
+      "quality": "high",
+      "background": "transparent",
+      "output_format": "png",
+      "prompt": "Picture-book illustration with a woodblock-print feel. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights, no rim light. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours and folds. Gentle storybook adult proportions: the whole figure is about six and a half heads tall, so the head is one-sixth to one-seventh of the total body height; the head is a little larger relative to the body than in fashion illustration, and the legs are not elongated. Eyes are realistic in size, not enlarged. The expression is quiet and shown mainly by the eyebrows and the corners of the mouth. Restrained palette built on deep indigo (#1E3A5F), muted vermilion (#A8432F) used only in small accents, moss green (#4F6B42), and warm off-white (#FAF6EE), plus natural skin and dark hair tones. Not photorealistic, not 3D rendered, not anime or manga style. Absolutely no text, no letters, no characters of any script, no logo, no signature, no watermark, no red seal stamp, no frame or border.\n\nThe character is a fictional travel guide and storyteller: a Japanese woman who appears to be in her late twenties to thirties, with a calm, grounded, friendly presence. Gentle oval face, fairly straight natural eyebrows, dark brown eyes of realistic size, a small mouth, little or no visible makeup. Dark, nearly black hair, parted so a little of the forehead shows, tied low at the nape with a plain cloth tie. She carries a travel record book: a hand-bound notebook slightly larger than her palm, with a deep indigo cover and a single thin vermilion bookmark cord hanging from it. The notebook cover is completely blank. Her clothing is a practical, timeless travel outfit that fits any era without belonging to one: a modern cut with only a light Japanese touch. No crest, no pattern with symbols, no jewelry, no glowing or magical elements.\n\nOutfit: a sleeveless deep indigo vest with a crossed front closure tied by a cord, worn over an off-white long-sleeved inner top with a gently crossed collar and slightly wide sleeves; moss green wide-leg trousers; plain dark walking shoes.\n\nFull-body standing pose, the whole figure visible from the top of the head to the shoes with a little empty space around it. The body is turned slightly, about three-quarter view toward the viewer's left, with the face turned almost toward the viewer and a calm, neutral, attentive expression. She holds the travel record book in one hand at waist height. Relaxed natural posture, weight on one leg. Plain transparent background, no ground shadow, no scenery, no props other than what is described.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792396363,
+        "request_id": "req_7032a1fffc40419bb188c37f700bf029"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 604,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 604
+        },
+        "output_tokens": 1372,
+        "total_tokens": 1976,
+        "output_tokens_details": {
+          "image_tokens": 1372,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.04418,
+      "generated_at": "2026-10-19T16:52:45+09:00",
+      "elapsed_sec": 32.5
+    },
+    {
+      "file": "gen/an3_bust.png",
+      "kind": "bust",
+      "endpoint": "images.edit",
+      "input_image": "gen/an3_stand.png",
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1024x1024",
+      "quality": "high",
+      "background": "transparent",
+      "output_format": "png",
+      "prompt": "Picture-book illustration with a woodblock-print feel. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights, no rim light. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours and folds. Gentle storybook adult proportions: the whole figure is about six and a half heads tall, so the head is one-sixth to one-seventh of the total body height; the head is a little larger relative to the body than in fashion illustration, and the legs are not elongated. Eyes are realistic in size, not enlarged. The expression is quiet and shown mainly by the eyebrows and the corners of the mouth. Restrained palette built on deep indigo (#1E3A5F), muted vermilion (#A8432F) used only in small accents, moss green (#4F6B42), and warm off-white (#FAF6EE), plus natural skin and dark hair tones. Not photorealistic, not 3D rendered, not anime or manga style. Absolutely no text, no letters, no characters of any script, no logo, no signature, no watermark, no red seal stamp, no frame or border.\n\nThe character is a fictional travel guide and storyteller: a Japanese woman who appears to be in her late twenties to thirties, with a calm, grounded, friendly presence. Gentle oval face, fairly straight natural eyebrows, dark brown eyes of realistic size, a small mouth, little or no visible makeup. Dark, nearly black hair, parted so a little of the forehead shows, tied low at the nape with a plain cloth tie. She carries a travel record book: a hand-bound notebook slightly larger than her palm, with a deep indigo cover and a single thin vermilion bookmark cord hanging from it. The notebook cover is completely blank. Her clothing is a practical, timeless travel outfit that fits any era without belonging to one: a modern cut with only a light Japanese touch. No crest, no pattern with symbols, no jewelry, no glowing or magical elements.\n\nOutfit: a short deep indigo haori-like jacket ending just below the hips, closed with a cord tie; an off-white inner top with a slightly higher crossed collar; moss green wide-leg trousers; plain dark walking shoes. Hair variation for this version: the dark hair is gathered into a loose low bun at the nape instead of a tail, still with a plain cloth tie.\n\nUsing the provided image of this exact character, create a chest-up portrait of the same woman: same face, same hairstyle, same clothing, same colors, same line weight and flat woodblock picture-book style. Framing: square image, head and shoulders down to mid-chest, the face centered horizontally, the eyes at about 38 percent from the top, the face (forehead to chin) taking about 40 percent of the image height, the shoulders cut off by the bottom edge. Face turned slightly toward the viewer's left, eyes looking at the viewer. Neutral, calm expression with a relaxed mouth. The notebook is not visible. Plain transparent background. Keep it a drawing, not a photo.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792396428,
+        "request_id": "req_40cb4919ce9c4018b6c6ad6ccf35b53f"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 2219,
+        "input_tokens_details": {
+          "image_tokens": 1536,
+          "text_tokens": 683
+        },
+        "output_tokens": 1756,
+        "total_tokens": 3975,
+        "output_tokens_details": {
+          "image_tokens": 1756,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.06838,
+      "generated_at": "2026-10-19T16:53:50+09:00",
+      "elapsed_sec": 41.4
+    },
+    {
+      "file": "gen/an3_expr_normal.png",
+      "kind": "expr",
+      "endpoint": "images.edit",
+      "input_image": "gen/an3_bust.png",
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1024x1024",
+      "quality": "high",
+      "background": "transparent",
+      "output_format": "png",
+      "prompt": "Edit the provided image. Keep everything identical: the same woman, same face shape, same hairstyle, same clothing, same colors, same framing and face position, same line weight and flat woodblock picture-book style, transparent background. Change only the facial expression, subtly, using the eyebrows, eyelids and the corners of the mouth. No teeth showing, no tears, no sweat drops, no blush marks, no comic effect lines, no text.\n\nExpression: neutral and calm, attentive, mouth relaxed and closed, eyebrows level.\n\nPicture-book illustration with a woodblock-print feel. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights, no rim light. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours and folds. Gentle storybook adult proportions: the whole figure is about six and a half heads tall, so the head is one-sixth to one-seventh of the total body height; the head is a little larger relative to the body than in fashion illustration, and the legs are not elongated. Eyes are realistic in size, not enlarged. The expression is quiet and shown mainly by the eyebrows and the corners of the mouth. Restrained palette built on deep indigo (#1E3A5F), muted vermilion (#A8432F) used only in small accents, moss green (#4F6B42), and warm off-white (#FAF6EE), plus natural skin and dark hair tones. Not photorealistic, not 3D rendered, not anime or manga style. Absolutely no text, no letters, no characters of any script, no logo, no signature, no watermark, no red seal stamp, no frame or border.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792396479,
+        "request_id": "req_239843ef9d0f410a94f46d729e4fce58"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 1416,
+        "input_tokens_details": {
+          "image_tokens": 1024,
+          "text_tokens": 392
+        },
+        "output_tokens": 1756,
+        "total_tokens": 3172,
+        "output_tokens_details": {
+          "image_tokens": 1756,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.06283,
+      "generated_at": "2026-10-19T16:54:42+09:00",
+      "elapsed_sec": 42.7
+    },
+    {
+      "file": "gen/an3_expr_smile.png",
+      "kind": "expr",
+      "endpoint": "images.edit",
+      "input_image": "gen/an3_bust.png",
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1024x1024",
+      "quality": "high",
+      "background": "transparent",
+      "output_format": "png",
+      "prompt": "Edit the provided image. Keep everything identical: the same woman, same face shape, same hairstyle, same clothing, same colors, same framing and face position, same line weight and flat woodblock picture-book style, transparent background. Change only the facial expression, subtly, using the eyebrows, eyelids and the corners of the mouth. No teeth showing, no tears, no sweat drops, no blush marks, no comic effect lines, no text.\n\nExpression: a gentle, quiet smile; the corners of the mouth lifted slightly with lips closed, the lower eyelids softened a little, eyebrows relaxed.\n\nPicture-book illustration with a woodblock-print feel. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights, no rim light. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours and folds. Gentle storybook adult proportions: the whole figure is about six and a half heads tall, so the head is one-sixth to one-seventh of the total body height; the head is a little larger relative to the body than in fashion illustration, and the legs are not elongated. Eyes are realistic in size, not enlarged. The expression is quiet and shown mainly by the eyebrows and the corners of the mouth. Restrained palette built on deep indigo (#1E3A5F), muted vermilion (#A8432F) used only in small accents, moss green (#4F6B42), and warm off-white (#FAF6EE), plus natural skin and dark hair tones. Not photorealistic, not 3D rendered, not anime or manga style. Absolutely no text, no letters, no characters of any script, no logo, no signature, no watermark, no red seal stamp, no frame or border.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792396526,
+        "request_id": "req_33e98a251d1d4e91a9ed7b042465f388"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 1430,
+        "input_tokens_details": {
+          "image_tokens": 1024,
+          "text_tokens": 406
+        },
+        "output_tokens": 1756,
+        "total_tokens": 3186,
+        "output_tokens_details": {
+          "image_tokens": 1756,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.0629,
+      "generated_at": "2026-10-19T16:55:27+09:00",
+      "elapsed_sec": 44.5
+    },
+    {
+      "file": "gen/an3_expr_discover.png",
+      "kind": "expr",
+      "endpoint": "images.edit",
+      "input_image": "gen/an3_bust.png",
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1024x1024",
+      "quality": "high",
+      "background": "transparent",
+      "output_format": "png",
+      "prompt": "Edit the provided image. Keep everything identical: the same woman, same face shape, same hairstyle, same clothing, same colors, same framing and face position, same line weight and flat woodblock picture-book style, transparent background. Change only the facial expression, subtly, using the eyebrows, eyelids and the corners of the mouth. No teeth showing, no tears, no sweat drops, no blush marks, no comic effect lines, no text.\n\nExpression: quiet, restrained interest, as if she has just noticed something meaningful; eyebrows raised very slightly, eyes a little more open, lips slightly parted without showing teeth. Not surprised or shocked.\n\nPicture-book illustration with a woodblock-print feel. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights, no rim light. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours and folds. Gentle storybook adult proportions: the whole figure is about six and a half heads tall, so the head is one-sixth to one-seventh of the total body height; the head is a little larger relative to the body than in fashion illustration, and the legs are not elongated. Eyes are realistic in size, not enlarged. The expression is quiet and shown mainly by the eyebrows and the corners of the mouth. Restrained palette built on deep indigo (#1E3A5F), muted vermilion (#A8432F) used only in small accents, moss green (#4F6B42), and warm off-white (#FAF6EE), plus natural skin and dark hair tones. Not photorealistic, not 3D rendered, not anime or manga style. Absolutely no text, no letters, no characters of any script, no logo, no signature, no watermark, no red seal stamp, no frame or border.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792396566,
+        "request_id": "req_987da64a7b3c447e85a842ea279a0e1d"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 1439,
+        "input_tokens_details": {
+          "image_tokens": 1024,
+          "text_tokens": 415
+        },
+        "output_tokens": 1756,
+        "total_tokens": 3195,
+        "output_tokens_details": {
+          "image_tokens": 1756,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.06295,
+      "generated_at": "2026-10-19T16:56:09+09:00",
+      "elapsed_sec": 40.8
+    },
+    {
+      "file": "gen/an3_expr_think.png",
+      "kind": "expr",
+      "endpoint": "images.edit",
+      "input_image": "gen/an3_bust.png",
+      "model": "gpt-image-2.5-sunburst",
+      "size": "1024x1024",
+      "quality": "high",
+      "background": "transparent",
+      "output_format": "png",
+      "prompt": "Edit the provided image. Keep everything identical: the same woman, same face shape, same hairstyle, same clothing, same colors, same framing and face position, same line weight and flat woodblock picture-book style, transparent background. Change only the facial expression, subtly, using the eyebrows, eyelids and the corners of the mouth. No teeth showing, no tears, no sweat drops, no blush marks, no comic effect lines, no text.\n\nExpression: quietly thinking; eyes looking slightly down and to the side, eyebrows drawn very slightly together, mouth closed and neutral. Calm, not troubled.\n\nPicture-book illustration with a woodblock-print feel. Thin, even, uniform outlines in dark indigo, the same line weight everywhere. Flat color fills with only three to four tonal steps per color; no soft gradients, no airbrushing, no glossy highlights, no rim light. A subtle handmade washi paper fiber texture visible inside the flat fills. Slightly simplified contours and folds. Gentle storybook adult proportions: the whole figure is about six and a half heads tall, so the head is one-sixth to one-seventh of the total body height; the head is a little larger relative to the body than in fashion illustration, and the legs are not elongated. Eyes are realistic in size, not enlarged. The expression is quiet and shown mainly by the eyebrows and the corners of the mouth. Restrained palette built on deep indigo (#1E3A5F), muted vermilion (#A8432F) used only in small accents, moss green (#4F6B42), and warm off-white (#FAF6EE), plus natural skin and dark hair tones. Not photorealistic, not 3D rendered, not anime or manga style. Absolutely no text, no letters, no characters of any script, no logo, no signature, no watermark, no red seal stamp, no frame or border.",
+      "seed_equivalent": {
+        "note": "APIにseed引数なし。再現の手がかりとして応答のcreatedとリクエストIDを残す",
+        "created": 1792396609,
+        "request_id": "req_3d3cf70dddfa49388641238038f04f51"
+      },
+      "revised_prompt": null,
+      "usage": {
+        "input_tokens": 1430,
+        "input_tokens_details": {
+          "image_tokens": 1024,
+          "text_tokens": 406
+        },
+        "output_tokens": 1756,
+        "total_tokens": 3186,
+        "output_tokens_details": {
+          "image_tokens": 1756,
+          "text_tokens": 0
+        }
+      },
+      "cost_usd_estimate": 0.0629,
+      "generated_at": "2026-10-19T16:56:52+09:00",
+      "elapsed_sec": 42.1
+    }
+  ]
+}
