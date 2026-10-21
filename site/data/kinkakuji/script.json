@@ -11,7 +11,7 @@
     "creative": true,
     "facts": [],
     "audio": "audio/kinkakuji/k001.m4a",
-    "duration": 3.88
+    "duration": 3.52
   },
   {
     "id": "k002",
@@ -25,7 +25,7 @@
     "creative": true,
     "facts": [],
     "audio": "audio/kinkakuji/k002.m4a",
-    "duration": 5.8
+    "duration": 5.36
   },
   {
     "id": "k003",
@@ -43,7 +43,7 @@
       "P13"
     ],
     "audio": "audio/kinkakuji/k003.m4a",
-    "duration": 6.36
+    "duration": 6.12
   },
   {
     "id": "k004",
@@ -59,7 +59,7 @@
       "P02"
     ],
     "audio": "audio/kinkakuji/k004.m4a",
-    "duration": 7.04
+    "duration": 6.24
   },
   {
     "id": "k005",
@@ -75,7 +75,7 @@
       "P02"
     ],
     "audio": "audio/kinkakuji/k005.m4a",
-    "duration": 7.52
+    "duration": 6.64
   },
   {
     "id": "k006",
@@ -89,7 +89,7 @@
     "creative": true,
     "facts": [],
     "audio": "audio/kinkakuji/k006.m4a",
-    "duration": 3.72
+    "duration": 3.52
   },
   {
     "id": "k007",
@@ -103,7 +103,7 @@
     "creative": true,
     "facts": [],
     "audio": "audio/kinkakuji/k007.m4a",
-    "duration": 5.04
+    "duration": 4.4
   },
   {
     "id": "k008",
@@ -119,7 +119,7 @@
       "T02"
     ],
     "audio": "audio/kinkakuji/k008.m4a",
-    "duration": 7.72
+    "duration": 6.88
   },
   {
     "id": "k009",
@@ -135,7 +135,7 @@
       "T02"
     ],
     "audio": "audio/kinkakuji/k009.m4a",
-    "duration": 9.88
+    "duration": 8.64
   },
   {
     "id": "k010",
@@ -152,7 +152,7 @@
       "W04"
     ],
     "audio": "audio/kinkakuji/k010.m4a",
-    "duration": 6.72
+    "duration": 5.68
   },
   {
     "id": "k011",
@@ -168,7 +168,7 @@
       "T01"
     ],
     "audio": "audio/kinkakuji/k011.m4a",
-    "duration": 7.96
+    "duration": 7.2
   },
   {
     "id": "k012",
@@ -184,7 +184,7 @@
       "T02"
     ],
     "audio": "audio/kinkakuji/k012.m4a",
-    "duration": 6.84
+    "duration": 6.52
   },
   {
     "id": "k013",
@@ -200,7 +200,7 @@
       "W08"
     ],
     "audio": "audio/kinkakuji/k013.m4a",
-    "duration": 4.36
+    "duration": 3.96
   },
   {
     "id": "k014",
@@ -216,7 +216,7 @@
       "W06"
     ],
     "audio": "audio/kinkakuji/k014.m4a",
-    "duration": 9.64
+    "duration": 8.56
   },
   {
     "id": "k015",
@@ -233,7 +233,7 @@
       "W07"
     ],
     "audio": "audio/kinkakuji/k015.m4a",
-    "duration": 6.8
+    "duration": 6.2
   },
   {
     "id": "k016",
@@ -282,7 +282,7 @@
       "W10"
     ],
     "audio": "audio/kinkakuji/k018.m4a",
-    "duration": 7.08
+    "duration": 6.2
   },
   {
     "id": "k019",
@@ -298,7 +298,7 @@
       "T05"
     ],
     "audio": "audio/kinkakuji/k019.m4a",
-    "duration": 4.92
+    "duration": 4.28
   },
   {
     "id": "k020",
@@ -314,7 +314,7 @@
       "T05"
     ],
     "audio": "audio/kinkakuji/k020.m4a",
-    "duration": 6.28
+    "duration": 5.4
   },
   {
     "id": "k021",
@@ -331,7 +331,7 @@
       "P14"
     ],
     "audio": "audio/kinkakuji/k021.m4a",
-    "duration": 5.88
+    "duration": 5.04
   },
   {
     "id": "k022",
@@ -347,7 +347,7 @@
       "P13"
     ],
     "audio": "audio/kinkakuji/k022.m4a",
-    "duration": 6.72
+    "duration": 5.8
   },
   {
     "id": "k023",
@@ -364,7 +364,7 @@
       "P14"
     ],
     "audio": "audio/kinkakuji/k023.m4a",
-    "duration": 5.48
+    "duration": 4.84
   },
   {
     "id": "k024",
@@ -382,7 +382,7 @@
       "P07"
     ],
     "audio": "audio/kinkakuji/k024.m4a",
-    "duration": 9.0
+    "duration": 7.56
   },
   {
     "id": "k025",
@@ -398,7 +398,7 @@
       "P08"
     ],
     "audio": "audio/kinkakuji/k025.m4a",
-    "duration": 4.48
+    "duration": 4.08
   },
   {
     "id": "k026",
@@ -414,7 +414,7 @@
       "P10"
     ],
     "audio": "audio/kinkakuji/k026.m4a",
-    "duration": 8.92
+    "duration": 7.64
   },
   {
     "id": "k027",
@@ -431,7 +431,7 @@
       "W23"
     ],
     "audio": "audio/kinkakuji/k027.m4a",
-    "duration": 6.52
+    "duration": 5.6
   },
   {
     "id": "k028",
@@ -445,7 +445,7 @@
     "creative": true,
     "facts": [],
     "audio": "audio/kinkakuji/k028.m4a",
-    "duration": 4.68
+    "duration": 4.16
   },
   {
     "id": "k029",
@@ -462,7 +462,7 @@
       "W23"
     ],
     "audio": "audio/kinkakuji/k029.m4a",
-    "duration": 10.04
+    "duration": 9.2
   },
   {
     "id": "k030",
@@ -478,7 +478,7 @@
       "T06"
     ],
     "audio": "audio/kinkakuji/k030.m4a",
-    "duration": 7.68
+    "duration": 7.04
   },
   {
     "id": "k031",
@@ -511,7 +511,7 @@
       "T07"
     ],
     "audio": "audio/kinkakuji/k032.m4a",
-    "duration": 5.16
+    "duration": 4.76
   },
   {
     "id": "k033",
@@ -527,7 +527,7 @@
       "T07"
     ],
     "audio": "audio/kinkakuji/k033.m4a",
-    "duration": 6.52
+    "duration": 5.88
   },
   {
     "id": "k034",
@@ -543,7 +543,7 @@
       "T07"
     ],
     "audio": "audio/kinkakuji/k034.m4a",
-    "duration": 4.56
+    "duration": 4.12
   },
   {
     "id": "k035",
@@ -557,7 +557,7 @@
     "creative": true,
     "facts": [],
     "audio": "audio/kinkakuji/k035.m4a",
-    "duration": 3.24
+    "duration": 3.2
   },
   {
     "id": "k036",
@@ -574,7 +574,7 @@
       "W19"
     ],
     "audio": "audio/kinkakuji/k036.m4a",
-    "duration": 6.16
+    "duration": 5.64
   },
   {
     "id": "k037",
@@ -590,7 +590,7 @@
       "T08"
     ],
     "audio": "audio/kinkakuji/k037.m4a",
-    "duration": 5.48
+    "duration": 4.72
   },
   {
     "id": "k038",
@@ -607,7 +607,7 @@
       "T05"
     ],
     "audio": "audio/kinkakuji/k038.m4a",
-    "duration": 4.12
+    "duration": 3.72
   },
   {
     "id": "k039",
@@ -621,7 +621,7 @@
     "creative": true,
     "facts": [],
     "audio": "audio/kinkakuji/k039.m4a",
-    "duration": 5.88
+    "duration": 5.16
   },
   {
     "id": "k040",
@@ -638,7 +638,7 @@
       "W22"
     ],
     "audio": "audio/kinkakuji/k040.m4a",
-    "duration": 5.88
+    "duration": 5.16
   },
   {
     "id": "k041",
@@ -654,7 +654,7 @@
       "T11"
     ],
     "audio": "audio/kinkakuji/k041.m4a",
-    "duration": 8.0
+    "duration": 7.8
   },
   {
     "id": "k042",
@@ -670,7 +670,7 @@
       "T12"
     ],
     "audio": "audio/kinkakuji/k042.m4a",
-    "duration": 7.12
+    "duration": 6.28
   },
   {
     "id": "k043",
@@ -686,7 +686,7 @@
       "T13"
     ],
     "audio": "audio/kinkakuji/k043.m4a",
-    "duration": 7.08
+    "duration": 6.28
   },
   {
     "id": "k044",
@@ -702,7 +702,7 @@
       "T13"
     ],
     "audio": "audio/kinkakuji/k044.m4a",
-    "duration": 6.68
+    "duration": 5.96
   },
   {
     "id": "k045",
@@ -719,7 +719,7 @@
       "T13"
     ],
     "audio": "audio/kinkakuji/k045.m4a",
-    "duration": 6.84
+    "duration": 6.08
   },
   {
     "id": "k046",
@@ -735,7 +735,7 @@
       "W16"
     ],
     "audio": "audio/kinkakuji/k046.m4a",
-    "duration": 5.52
+    "duration": 4.88
   },
   {
     "id": "k047",
@@ -751,7 +751,7 @@
       "W16"
     ],
     "audio": "audio/kinkakuji/k047.m4a",
-    "duration": 7.48
+    "duration": 6.56
   },
   {
     "id": "k048",
@@ -767,7 +767,7 @@
       "W16"
     ],
     "audio": "audio/kinkakuji/k048.m4a",
-    "duration": 4.96
+    "duration": 4.72
   },
   {
     "id": "k049",
@@ -784,7 +784,7 @@
       "W16"
     ],
     "audio": "audio/kinkakuji/k049.m4a",
-    "duration": 6.92
+    "duration": 6.16
   },
   {
     "id": "k050",
@@ -800,7 +800,7 @@
       "W16"
     ],
     "audio": "audio/kinkakuji/k050.m4a",
-    "duration": 4.96
+    "duration": 4.32
   },
   {
     "id": "k051",
@@ -817,7 +817,7 @@
       "W17"
     ],
     "audio": "audio/kinkakuji/k051.m4a",
-    "duration": 5.68
+    "duration": 5.12
   },
   {
     "id": "k052",
@@ -834,7 +834,7 @@
       "Z06"
     ],
     "audio": "audio/kinkakuji/k052.m4a",
-    "duration": 5.92
+    "duration": 5.2
   },
   {
     "id": "k053",
@@ -850,7 +850,7 @@
       "T15"
     ],
     "audio": "audio/kinkakuji/k053.m4a",
-    "duration": 4.88
+    "duration": 4.32
   },
   {
     "id": "k054",
@@ -866,7 +866,7 @@
       "T15"
     ],
     "audio": "audio/kinkakuji/k054.m4a",
-    "duration": 8.84
+    "duration": 7.88
   },
   {
     "id": "k055",
@@ -882,7 +882,7 @@
       "T15"
     ],
     "audio": "audio/kinkakuji/k055.m4a",
-    "duration": 5.0
+    "duration": 5.52
   },
   {
     "id": "k056",
@@ -898,7 +898,7 @@
       "T16"
     ],
     "audio": "audio/kinkakuji/k056.m4a",
-    "duration": 7.8
+    "duration": 7.24
   },
   {
     "id": "k057",
@@ -914,7 +914,7 @@
       "T16"
     ],
     "audio": "audio/kinkakuji/k057.m4a",
-    "duration": 6.52
+    "duration": 5.72
   },
   {
     "id": "k058",
@@ -931,7 +931,7 @@
       "T17"
     ],
     "audio": "audio/kinkakuji/k058.m4a",
-    "duration": 3.32
+    "duration": 3.04
   },
   {
     "id": "k059",
@@ -947,7 +947,7 @@
       "T18"
     ],
     "audio": "audio/kinkakuji/k059.m4a",
-    "duration": 6.32
+    "duration": 5.68
   },
   {
     "id": "k060",
@@ -964,7 +964,7 @@
       "W26"
     ],
     "audio": "audio/kinkakuji/k060.m4a",
-    "duration": 8.24
+    "duration": 7.6
   },
   {
     "id": "k061",
@@ -981,7 +981,7 @@
       "W24"
     ],
     "audio": "audio/kinkakuji/k061.m4a",
-    "duration": 7.84
+    "duration": 6.6
   },
   {
     "id": "k062",
@@ -998,7 +998,7 @@
       "W24"
     ],
     "audio": "audio/kinkakuji/k062.m4a",
-    "duration": 3.88
+    "duration": 3.44
   },
   {
     "id": "k063",
@@ -1014,7 +1014,7 @@
       "P21"
     ],
     "audio": "audio/kinkakuji/k063.m4a",
-    "duration": 5.96
+    "duration": 5.36
   },
   {
     "id": "k064",
@@ -1030,7 +1030,7 @@
       "T25"
     ],
     "audio": "audio/kinkakuji/k064.m4a",
-    "duration": 6.36
+    "duration": 5.88
   },
   {
     "id": "k065",
@@ -1046,7 +1046,7 @@
       "T25"
     ],
     "audio": "audio/kinkakuji/k065.m4a",
-    "duration": 8.72
+    "duration": 8.04
   },
   {
     "id": "k066",
@@ -1062,7 +1062,7 @@
       "T25"
     ],
     "audio": "audio/kinkakuji/k066.m4a",
-    "duration": 6.64
+    "duration": 5.84
   },
   {
     "id": "k067",
@@ -1078,7 +1078,7 @@
       "T25"
     ],
     "audio": "audio/kinkakuji/k067.m4a",
-    "duration": 5.88
+    "duration": 5.16
   },
   {
     "id": "k068",
@@ -1094,7 +1094,7 @@
       "T26"
     ],
     "audio": "audio/kinkakuji/k068.m4a",
-    "duration": 7.52
+    "duration": 6.56
   },
   {
     "id": "k069",
@@ -1110,7 +1110,7 @@
       "T26"
     ],
     "audio": "audio/kinkakuji/k069.m4a",
-    "duration": 4.24
+    "duration": 3.88
   },
   {
     "id": "k070",
@@ -1124,7 +1124,7 @@
     "creative": true,
     "facts": [],
     "audio": "audio/kinkakuji/k070.m4a",
-    "duration": 3.92
+    "duration": 3.56
   },
   {
     "id": "k071",
@@ -1140,7 +1140,7 @@
       "T28"
     ],
     "audio": "audio/kinkakuji/k071.m4a",
-    "duration": 6.88
+    "duration": 6.0
   },
   {
     "id": "k072",
@@ -1156,7 +1156,7 @@
       "T28"
     ],
     "audio": "audio/kinkakuji/k072.m4a",
-    "duration": 6.64
+    "duration": 5.92
   },
   {
     "id": "k073",
@@ -1172,7 +1172,7 @@
       "T28"
     ],
     "audio": "audio/kinkakuji/k073.m4a",
-    "duration": 3.96
+    "duration": 3.6
   },
   {
     "id": "k074",
@@ -1189,7 +1189,7 @@
       "T28"
     ],
     "audio": "audio/kinkakuji/k074.m4a",
-    "duration": 6.36
+    "duration": 5.72
   },
   {
     "id": "k075",
@@ -1206,7 +1206,7 @@
       "T30"
     ],
     "audio": "audio/kinkakuji/k075.m4a",
-    "duration": 5.8
+    "duration": 5.12
   },
   {
     "id": "k076",
@@ -1222,7 +1222,7 @@
       "T29"
     ],
     "audio": "audio/kinkakuji/k076.m4a",
-    "duration": 4.32
+    "duration": 3.96
   },
   {
     "id": "k077",
@@ -1240,7 +1240,7 @@
       "W23"
     ],
     "audio": "audio/kinkakuji/k077.m4a",
-    "duration": 6.6
+    "duration": 5.68
   },
   {
     "id": "k078",
@@ -1256,7 +1256,7 @@
       "T29"
     ],
     "audio": "audio/kinkakuji/k078.m4a",
-    "duration": 5.72
+    "duration": 5.08
   },
   {
     "id": "k079",
@@ -1270,7 +1270,7 @@
     "creative": true,
     "facts": [],
     "audio": "audio/kinkakuji/k079.m4a",
-    "duration": 5.16
+    "duration": 4.8
   },
   {
     "id": "k080",
@@ -1286,7 +1286,7 @@
       "T33"
     ],
     "audio": "audio/kinkakuji/k080.m4a",
-    "duration": 8.04
+    "duration": 7.28
   },
   {
     "id": "k081",
@@ -1303,7 +1303,7 @@
       "T33"
     ],
     "audio": "audio/kinkakuji/k081.m4a",
-    "duration": 7.76
+    "duration": 7.56
   },
   {
     "id": "k082",
@@ -1320,7 +1320,7 @@
       "T33"
     ],
     "audio": "audio/kinkakuji/k082.m4a",
-    "duration": 6.88
+    "duration": 6.36
   },
   {
     "id": "k083",
@@ -1336,7 +1336,7 @@
       "T33"
     ],
     "audio": "audio/kinkakuji/k083.m4a",
-    "duration": 7.96
+    "duration": 7.04
   },
   {
     "id": "k084",
@@ -1350,7 +1350,7 @@
     "creative": true,
     "facts": [],
     "audio": "audio/kinkakuji/k084.m4a",
-    "duration": 4.68
+    "duration": 4.36
   },
   {
     "id": "k085",
@@ -1382,7 +1382,7 @@
     "creative": true,
     "facts": [],
     "audio": "audio/kinkakuji/k086.m4a",
-    "duration": 4.96
+    "duration": 4.36
   },
   {
     "id": "k087",
@@ -1399,7 +1399,7 @@
       "Z05"
     ],
     "audio": "audio/kinkakuji/k087.m4a",
-    "duration": 7.32
+    "duration": 6.36
   },
   {
     "id": "k088",
@@ -1415,7 +1415,7 @@
       "T38"
     ],
     "audio": "audio/kinkakuji/k088.m4a",
-    "duration": 8.8
+    "duration": 7.72
   },
   {
     "id": "k089",
@@ -1431,7 +1431,7 @@
       "P21"
     ],
     "audio": "audio/kinkakuji/k089.m4a",
-    "duration": 6.08
+    "duration": 5.48
   },
   {
     "id": "k090",
@@ -1448,7 +1448,7 @@
       "T33"
     ],
     "audio": "audio/kinkakuji/k090.m4a",
-    "duration": 8.52
+    "duration": 7.88
   },
   {
     "id": "k091",
@@ -1476,6 +1476,6 @@
     "creative": true,
     "facts": [],
     "audio": "audio/kinkakuji/k092.m4a",
-    "duration": 5.64
+    "duration": 5.0
   }
 ]
